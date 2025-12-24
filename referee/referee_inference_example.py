@@ -26,6 +26,10 @@ if __name__ == '__main__':
                 "In late 2004, Suleman made headlines by cutting Howard Stern's radio show from four Citadel stations, citing Stern's frequent discussions regarding his upcoming move to Sirius Satellite Radio.",
                 "Potato."
             ],
+            [
+                "In late 2004, Suleman made headlines by cutting Howard Stern's radio show from four Citadel stations, citing Stern's frequent discussions regarding his upcoming move to Sirius Satellite Radio.",
+                "In late 2004, Suleman removed Howard Stern’s show from four Citadel stations, citing Stern’s frequent talk about his move to Sirius Satellite Radio."
+            ],
         ]
     
     for i, pair in enumerate(sents):
