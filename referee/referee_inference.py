@@ -1,7 +1,7 @@
 import torch
 import json
+import numpy as np
 from transformers import MarianMTModel, MarianTokenizer
-
 
 from models.deberta_for_eval import DebertaForEval
 import utils.globals as uglobals
@@ -23,7 +23,7 @@ def translate_data(data, src_lang='ca', tgt_lang='en'):
 
     translated_data = []
 
-    for item in data:
+    for i, item in enumerate(data):
         complex_sent = item['original_sentence']
         simplified_sent = item['simplified_sentence']
 
@@ -43,6 +43,9 @@ def translate_data(data, src_lang='ca', tgt_lang='en'):
             'simplified_sentence': simplified_translated_sent
         })
 
+        if (i) % 50 == 0:
+            print(f'Translated {i + 1} / {len(data)} samples')
+
     return translated_data
 
 
@@ -55,7 +58,8 @@ def deberta_inference(data):
     model.load_state_dict(torch.load(f'{uglobals.CHECKPOINTS_DIR}/pretrained_deberta.bin', map_location=device)['model_state_dict'], strict=False)
     model.eval()
 
-    for item in data:
+    for i, item in enumerate(data):
+
         complex_sent = item['original_sentence']
         simplified_sent = item['simplified_sentence']
 
@@ -65,20 +69,27 @@ def deberta_inference(data):
 
         results.append({'sample_id': item['sample_id'], 'original_sentence_id': item['original_sentence_id'], 'score': score})
 
+        if (i) % 50 == 0:
+            print(f'Evaluated {i + 1} / {len(data)} samples')
+
     return results
 
 
 if __name__ == '__main__':
-    #data = load_data()
-    data = [{"sample_id": 0, "original_sentence_id": 0, "original_sentence": "Àpats a domicili El servei d'àpats a domicili dona suport alimentari a aquelles persones que, per la seva situació personal, no poden preparar-se els àpats, necessiten ajuda per fer-ho o no tenen un habitatge en condicions per cuinar aliments.", "simplified_sentence": "Menjars a domicili Hi ha un servei d'ajuda que porta el menjar a casa. Aquest servei és per a persones que tenen problemes per cuinar. Aquests problemes poden ser: -  per la seva situació personal no poden preparar el menjar. - Necessiten ajuda per cuinar. - La cuina de casa seva està en mal estat."}]
+    data = load_data()
+    #data = [{"sample_id": 0, "original_sentence_id": 0, "original_sentence": "Àpats a domicili El servei d'àpats a domicili dona suport alimentari a aquelles persones que, per la seva situació personal, no poden preparar-se els àpats, necessiten ajuda per fer-ho o no tenen un habitatge en condicions per cuinar aliments.", "simplified_sentence": "Menjars a domicili Hi ha un servei d'ajuda que porta el menjar a casa. Aquest servei és per a persones que tenen problemes per cuinar. Aquests problemes poden ser: -  per la seva situació personal no poden preparar el menjar. - Necessiten ajuda per cuinar. - La cuina de casa seva està en mal estat."}]
 
     translated_data = translate_data(data)
     
-    score = deberta_inference(translated_data)
+    results = deberta_inference(translated_data)
 
     print(f"Original: {data[0]['original_sentence']}, Simplified: {data[0]['simplified_sentence']}")
     print(f"Translated Original: {translated_data[0]['original_sentence']}, Translated Simplified: {translated_data[0]['simplified_sentence']}")
-    print(f"Deberta Score: {score[0]['score']}")
+    print(f"Deberta Score: {results[0]['score']}")
+
+    average_score = np.mean([item['score'] for item in results])
+    std_score = np.std([item['score'] for item in results])
+    print(f"Average Deberta Score: {average_score}, Std Dev: {std_score}")
     
     
     
