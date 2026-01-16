@@ -67,12 +67,33 @@ def deberta_inference(data):
         model_out = model(model_input)
         score = model_out[:, -1].item()
 
-        results.append({'sample_id': item['sample_id'], 'original_sentence_id': item['original_sentence_id'], 'score': score})
+        results.append({
+            'sample_id': item['sample_id'],
+            'original_sentence_id': item['original_sentence_id'],
+            'original_sentence': complex_sent,
+            'simplified_sentence': simplified_sent,
+            'score': score
+        })
 
         if (i) % 50 == 0:
             print(f'Evaluated {i + 1} / {len(data)} samples')
 
     return results
+
+
+def save_results_to_json(results, output_path, average_score=None, std_score=None):
+    output = {
+        "results": results
+    }
+
+    if average_score is not None and std_score is not None:
+        output["statistics"] = {
+            "average_score": average_score,
+            "std_dev": std_score,
+        }
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == '__main__':
@@ -95,8 +116,15 @@ if __name__ == '__main__':
     std_score = np.std([item['score'] for item in results])
     print(f"Average Deberta Score: {average_score}, Std Dev: {std_score}")
 
-    with open(f'./results/results_referee.json', 'w') as r:
-        json.dump(results)
+    output_path = f"{uglobals.RESULTS_DIR}/deberta_scores.json"
+    save_results_to_json(
+        results,
+        output_path,
+        average_score=average_score,
+        std_score=std_score
+    )
+    
+    print(f"Results saved to {output_path}")
 
     # Average Deberta Score: -0.115781185131422, Std Dev: 0.7842857257657601
     
