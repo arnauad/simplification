@@ -20,12 +20,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
-<<<<<<< HEAD
 .idea/
 
 bleurt-20/
 *.pb
 variables/
-=======
-.idea/
->>>>>>> f64d09b27b422c05b55fbba9df02f464027f50dc
