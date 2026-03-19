@@ -1,0 +1,2668 @@
+{
+    "results": [
+        {
+            "sample_id": 0,
+            "original_sentence_id": 0,
+            "original_sentence": "There's a home service that brings food home. This service is for people who have problems to cook. These problems can be: - by their personal situation they can't prepare food. - they need help to cook.",
+            "simplified_sentence": "At home station The home service provides food support for those people who, for their personal situation, cannot prepare their meals, need help to do so, or have no housing in order to cook food.",
+            "score": -0.6307836771011353
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 1,
+            "original_sentence": "They're people who have little help from their family and other people, they can also have problems to walk or move, so they can't go to a place where they feed in the neighborhood.",
+            "simplified_sentence": "Besides, it's about people who don't have social or family support enough or because of their mobility problems, they can't address their community's feed service.",
+            "score": -0.42549827694892883
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 2,
+            "original_sentence": "The professional teams of social services in the Barcelona City are reviewing how the person is and what he needs.",
+            "simplified_sentence": "The situation value is done by professional teams of social services in the City of Barcelona.",
+            "score": -1.3262256383895874
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 3,
+            "original_sentence": "The service takes food home to the person who needs it, the foods are preparing for good quality and good cleaning conditions, and the person eats well and looks after their health.",
+            "simplified_sentence": "The service is specific to the delivery of the person who will benefit from balanced and healthypaths in adequate conditions of quality and hygiene, in order to guarantee the coverage of their nutrient needs.",
+            "score": -2.1349074840545654
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 4,
+            "original_sentence": "The telephone number is 900 9257. You have to ask for an appointment to go to the Social Services Center to touch you.",
+            "simplified_sentence": "To apply this value, ask for a previous appointment on the Social Services phone 900922357 and to address you at the Work Services Center which corresponds to you by home.",
+            "score": -2.055133581161499
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 0,
+            "original_sentence": "Present a complaint when a complaint can be filed?",
+            "simplified_sentence": "Shapes a complaint when a complaint can be filed?",
+            "score": -0.2107810229063034
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 1,
+            "original_sentence": "You can present a complaint when you think the city council won't let you use your rights.",
+            "simplified_sentence": "It can be a complaint if it is considered the municipal Administration to prevent or make it difficult for the legitimate exercise of your fundamental rights.",
+            "score": -1.1031943559646606
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 2,
+            "original_sentence": "You can present a complaint if you've made a claim and you have no answer.",
+            "simplified_sentence": "A complaint can be filed after claiming to the organ or service involved and did not get answers or solution.",
+            "score": -1.7479296922683716
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 3,
+            "original_sentence": "A complaint can also be filed in these cases: - if the answer they have given you is not well explained. - If no rule has been applied. - If it has been acted unfairly.",
+            "simplified_sentence": "Also when the answer is considered not to have enough motivation or that an arbitrary error has been committed in the application of legal rules.",
+            "score": -2.121361494064331
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 4,
+            "original_sentence": "The Union's union acts in most of the issues that have to do with the services of the city council and affect the day of people. The Union is also called the Sydic of Catalonia. The Union is an institution that works to defend the rights of persons in front of the Administration and the companies that give services, like light or gas. Any person fears to go to the union to a complaint, also the companies and associations.",
+            "simplified_sentence": "The issues that the Union can intervene are almost every person who affect the daily lives of citizens and citizens, who have to do with municipal services.",
+            "score": -0.8590393662452698
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 5,
+            "original_sentence": "The one that makes the Union stay secret.",
+            "simplified_sentence": "The performance of the Union is always confidential.",
+            "score": -0.07735051214694977
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 6,
+            "original_sentence": "The data presented by a person when a complaint only can be seen by the people who have permission less if the person doesn't want to.",
+            "simplified_sentence": "The data presented by a person when a complaint is Reserved, less in cases when a statement is expressed by the claim.",
+            "score": -1.988534688949585
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 7,
+            "original_sentence": "To put a complaint about the Barcelona city council services must fill a form on the Internet. Any person or company can ask for help from the union when a complaint presents.",
+            "simplified_sentence": "Online form of complaint about Barcelona's municipal services The procedure of a complaint The Union's union acts for requesting any physical or legal person to present a complaint.",
+            "score": -2.083583116531372
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 8,
+            "original_sentence": "The Union's union can also investigate a problem for defending citizens' rights without a complaint.",
+            "simplified_sentence": "It can also be done in office, when you think you need to take some investigation into defense of citizenship's rights.",
+            "score": -1.3866832256317139
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 9,
+            "original_sentence": "What happens when a complaint is accepted? When a complaint is presented, the union starts an investigation and review the mayor's office.",
+            "simplified_sentence": "With a complaint, the lawyer of the Union began an investigation and supervision of the municipal activity.",
+            "score": -0.2286243587732315
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 10,
+            "original_sentence": "The city council sends documentation to the union.",
+            "simplified_sentence": "and receive documentation from the competent organ.",
+            "score": -1.3591670989990234
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 11,
+            "original_sentence": "The union can help find a solution to the person who has the complaint and the city council.",
+            "simplified_sentence": "If good, it can initiate an alternative resolution procedure of conflicts between citizens and the municipal administration.",
+            "score": -1.0917892456054688
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 12,
+            "original_sentence": "Then the union writes what he has decided about the complaint and makes recommendations to the city council to improve the situation.",
+            "simplified_sentence": "The Union also makes a resolution and makes recommendations to the city council.",
+            "score": 0.24111001193523407
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 13,
+            "original_sentence": "At the end of the Union, the Union keeps track of proof that the city council has made changes to improve.",
+            "simplified_sentence": "Finally, the advocate of tracking the implementation of the recommendations issued.",
+            "score": -1.9128563404083252
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 14,
+            "original_sentence": "The Union can run ways to fix the problems for the city council to give an answer to the complaint.",
+            "simplified_sentence": "In this phase, it can take conflict resolution mechanisms to give a municipal response to the problem.",
+            "score": -0.8737094402313232
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 15,
+            "original_sentence": "When a person has not been to the city council first or if the complaint is not responsibility for the union, 3 things can be done: \"Donar information and legal orientation.\"",
+            "simplified_sentence": "In the first instance of the city council or when the complaint is not a capacity for the Union, they can take three actions: technical and legal orientation, direct management of the union with competent organs (which can take the alternative form of conflict resolution), or derived to the public host or private standards.",
+            "score": -2.3125927448272705
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 16,
+            "original_sentence": "When you don't accept a complaint? The rules of the union say you can't accept a complaint in these cases: - the complaint does not have to do with the city council. - The complaint has to do with an ongoing trial.",
+            "simplified_sentence": "You do not apply to the bill The regulations of the Syura set that they will not be adopted: complaints that do not involve the municipal administration, those that are to-dos of judicial resolution, those relating to known facts more than a year, those that are anonymous, those in which feel bad, lack of ill, or unintentional, and when it provokes any judgment for the true interests of a third person.",
+            "score": -2.517979621887207
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 17,
+            "original_sentence": "Can the Union act if no one asks for it? The union can act without anyone making a complaint when they detect a major problem affecting the rights of citizenship.",
+            "simplified_sentence": "Acting office protection of a general interest problem affecting fundamental rights and public freedoms of citizenship.",
+            "score": -2.1123385429382324
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 18,
+            "original_sentence": "The union starts an investigation to see that the city council is doing a specific problem.",
+            "simplified_sentence": "A research and supervision of the municipal performance is started regarding a problem in particular.",
+            "score": -1.6245814561843872
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 19,
+            "original_sentence": "The Union demands information on the city council and the review can be in a way to fix the problems.",
+            "simplified_sentence": "It is requested and analyses municipal information, and if it is considered thought to be done by the alternative resolution actions of conflicts.",
+            "score": -2.238262891769409
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 20,
+            "original_sentence": "The Union decides the conclusions and makes recommendations to the city council and the situation.",
+            "simplified_sentence": "End resolution of the Union, which concludes, if you manage, with recommendations to the city council.",
+            "score": -1.514636754989624
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 21,
+            "original_sentence": "Then the Union is following up to check that the city council has made changes to improve what he does.",
+            "simplified_sentence": "In the meantime, the defense of the implementation of the recommendations issued to ensure the improvement of the municipal performance.",
+            "score": -1.950501799583435
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 0,
+            "original_sentence": "* The Union is present in all the territory to listen and help citizenship, the union is on the street, to know what's going on in Barcelona, it's necessary to walk through neighborhoods with the neighborhood, people who live in neighborhoods know a great deal about the city.",
+            "simplified_sentence": "Losing the Home Union's land, on the street The best way to find out what's going on in Barcelona is to walk in the hand of the people who know more about every corner of the city: the neighborhood.",
+            "score": -0.9679833650588989
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 1,
+            "original_sentence": "The Union is visiting for a day the streets of 73 neighborhoods of Barcelona.",
+            "simplified_sentence": "In this project, the team of the union does a whole day to meet, on the street, the major problems that are restless and restless of each of 73 neighborhoods in the city.",
+            "score": -1.559140920639038
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 2,
+            "original_sentence": "When the union talks with citizenship, it helps to find better solutions than what people need.",
+            "simplified_sentence": "The Union's union, near you the dialogue with citizenship makes the proposed solutions more effective and respond better to the needs and experiences of the people.",
+            "score": -1.1502293348312378
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 3,
+            "original_sentence": "The union talks to the neighborhood once in the month of the things they care about.",
+            "simplified_sentence": "Every month, the team of the union conversation with the city neighborhood about what concerns them.",
+            "score": -1.671439528465271
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 4,
+            "original_sentence": "The union is moving. The union is not in a fixed place and is present in the territory.",
+            "simplified_sentence": "The Union's union is not a static location, but is present in the territory.",
+            "score": 0.4189102053642273
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 5,
+            "original_sentence": "The Union's union now moves to different places in the city so everyone can put complaints, so that citizenship doesn't have to go to the center of the union.",
+            "simplified_sentence": "It's an institution in motion that, in a periodic way, will be moved to close equipment with the aim to collect complaints from citizenship, no need for that one to desciate ours.",
+            "score": -2.4394893646240234
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 6,
+            "original_sentence": "The Union's union to high schools The Union will visit to the institutes of Barcelona to know the complaints of the wing and their proposals to improve the neighborhood. These visits also serve to know whether young people believe their opinions are heard and if they believe they participate in the city's decisions.",
+            "simplified_sentence": "The Union's union, in institutes The People's Union of Barcelona is moved to the institutes of the city to discuss with the wing of what complaints have; how they would improve their neighborhood; if they believe they are involved in city decisions; if they consider them being taken into account, etc. As we all know that adolescents and young people have solutions and solutions for everything, with the serious language of Barcelona will be the best way to listen to them!",
+            "score": -2.0945231914520264
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 0,
+            "original_sentence": "The process of political budget with the political budget, citizenship can decide how to spend part of the public money.",
+            "simplified_sentence": "In this process, political budgets are a tool of direct democracy.",
+            "score": 0.10408216714859009
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 1,
+            "original_sentence": "Citizenship proposes and chooses projects to improve the neighborhood with the budget for the process of the city council.",
+            "simplified_sentence": "Citizenship proposes and choose investment projects for the district, which will be performed with the municipal budget assigned to the process.",
+            "score": -0.5458866357803345
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 2,
+            "original_sentence": "The political proceedings are made in all of the districts of Barcelona.",
+            "simplified_sentence": "The City of Barcelona has carried out the process of political budget in the 10 districts.",
+            "score": -0.7221357822418213
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 3,
+            "original_sentence": "They spend 30 million dollars in proposed projects and chosen by neighbors and neighbors.",
+            "simplified_sentence": "They spend 30 million dollars in proposed investment projects and chosen directly by neighbors and neighbors.",
+            "score": 0.40216678380966187
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 4,
+            "original_sentence": "30 million dollars must be dealt within the districts just like this.",
+            "simplified_sentence": "This amount has been distributed between districts considering territorial, population and socioeconomic criteria.",
+            "score": -1.0724539756774902
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 5,
+            "original_sentence": "This process wants to improve life in city neighborhoods. All views and proposals for people and entities that live in this process are created spaces where all people can participate, share ideas and share ideas. The goal is to listen to everyone and make projects to improve the city.",
+            "simplified_sentence": "This process has the will to foster debate around the reality of neighborhoods and consider projects that contribute to the improvement of citizen life, looking for this goal, have several spaces of participation, making emphasis on the research of a diverse participation, collect all voices, all reflections and all project proposals raised by citizenship and the associated tissue of the city.",
+            "score": -2.4562339782714844
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 6,
+            "original_sentence": "These projects are projects that are presented to the city council to build or buy everything you need in the city.",
+            "simplified_sentence": "Projecting projects in the budget process are investment projects all the city council can build or acquire.",
+            "score": -0.9200705885887146
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 7,
+            "original_sentence": "The following types of proposals can be made: best for public space: - fixed the streets. - putting urban elements like barans, banks, or paperrs. - Do green areas or fix what's in the city. - Building or improve the installations. - Make it wider the spaces to walk. - Better stretch around schools. - Put shades and places to refrify when it's hot. - placing trees and lawns in the city. - To play spaces and make spaces to play sports. - to play dogs.",
+            "simplified_sentence": "So investments are considered to be funded by the money from the budget involved in the following proposals: better from the Czech public space in a new tab): transformation, install the implementation of urban elements, create or conditioning green areas, construction or improvement of facility.",
+            "score": -2.6092238426208496
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 8,
+            "original_sentence": "• Improving spaces of the city council: - schools, sports centers, - cultural center, - spaces for specific groups. All these spaces can be improved in different ways: - that are accessible, - use spaces for other things, - change the minebilary, - which spends less energy. • buy or fix buildings, local places, or public usage. Buy ground to make equipment or public spaces.",
+            "simplified_sentence": "Environmental greenization, children's game areas and sports areas, improvement in the school environments, school equipment elements, urban-based, urban green-based areas, space-based areas, strategic areas for dogs, etc. • better from municipal equipment, (Obabris in a new tab): educational sports, cultural proximity, and for collectives: online space equation, use for accessibility, vocations, and energy care systems, improvement of problems and soils, myvium, etc. Admony and goods for public use.",
+            "score": -2.880373239517212
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 9,
+            "original_sentence": "The proposals that are presented with technical rules. These rules are written to the decree of the participating process. Decret: this is an official document written and approved by the city council. In the decree, the rules are told that everyone should fulfill rules.",
+            "simplified_sentence": "The proposals have to meet the technical requirements set by(Obabri in a new tab) in the decree of calling the external(Link process.",
+            "score": -2.06262469291687
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 10,
+            "original_sentence": "You make the process of participating budgets The process is done in 6 phases: • AUSE 1: people speak and present the FES2 proposals are reviewed if the proposals follow the rules. You can consult the answers of the proposals that have been presented.",
+            "simplified_sentence": "The phase of the process The process of participating budget is developed in 6 phases: • ATASE 1, debate and presentation of FESE2, technical assessment of the proposals for the proposed European Parliament's proposed proposals in a new tab).",
+            "score": -1.8137465715408325
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 11,
+            "original_sentence": "• FATSE 3: They are supported by the proposals you like most. • AUSE 4: they clear and detail the proposals.5: people vote which props they want to be done. • FES 6: track is done to see if the selected projects are OK. If you want more information from the phases of the process of participating.",
+            "simplified_sentence": "• BEASE 3, media drive or prioritization of the proposals • FATES 4, since 5, end voting of the projects • 6 evaluation and following the execution of the selected project projects more information about the phases of the(Obabri process in a new tab) of political budgets.",
+            "score": -2.211681842803955
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 12,
+            "original_sentence": "Do you have any doubts?",
+            "simplified_sentence": "Do you have any doubts?",
+            "score": 0.18977539241313934
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 0,
+            "original_sentence": "General Log The General is a tool for the City of Barcelona, which serves to control communication between: - the city council, - citizenship, and other organizations. This record leaves record whether the communication has been done.",
+            "simplified_sentence": "Electronic Log Content The General is the instrument of the Barcelona city council to control the communication flow between this administration, citizenship and other organizations, and a faith woman whether or not this communication has occurred.",
+            "score": -1.631742000579834
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 1,
+            "original_sentence": "The aim is to protect the rights of citizenship and the rights of the city council.",
+            "simplified_sentence": "Its purpose is to preserve the rights of citizenship and also the rights of the Administration.",
+            "score": 0.3798682987689972
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 2,
+            "original_sentence": "Instance by Internet, you can do a generic instance through the Internet. Before you have to check if what you want already exists as a proposal for the city council. If there is, you have to use that particular procedure. If you don't do so, your petition can be rejected according to regulations. To do the request is needed: that you will be notified with a digital certificate. Instance: An instance is an instance that you need to fill out when you want to ask for a public administration. For example, documentation or to make a claim to a city office or a general office office. Generic: when there is no specific form in order to ask for something specific.",
+            "simplified_sentence": "Generic online Instification content, it needs to be identified with digital certificate (check the methods of identification and technical requirements) before -- but it needs to be checked that the petition does not correspond to a specific billing of the Barcelona city council's bills, because, in this case, it could refuse to agree with the art.",
+            "score": -2.2334835529327393
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 3,
+            "original_sentence": "The Law 39/2015 explains: when a person acts in the name of another person in front of the administration, he has to prove that he has permission to do so. If he does not take this permission or is not well done, it does not happen at the same time.",
+            "simplified_sentence": "66.6 of Law 39/2015, 1 October, the common administrative procedure of public administrations.",
+            "score": -2.3096554279327393
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 4,
+            "original_sentence": "Check if the procedure already exists in the list of processings that can be done on the Internet. This list is sorted in alphabetical order.",
+            "simplified_sentence": "Verify that there is no specific telemmatic processing on the alphabetical list of electronic processings.",
+            "score": -1.3907310962677002
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 5,
+            "original_sentence": "When the logging instance is sent, it makes an automatic justified way. This account confirms that the city council has received the request. It also keeps the main data with a code that identifies your petition.",
+            "simplified_sentence": "At once the instance has been sent, the logging will automatically emit a right to the reception and leave a summary of the petition data, including the number of settlements.",
+            "score": -1.907670259475708
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 6,
+            "original_sentence": "In this part we tell you: - Where to find the generic instance of the Internet. - Where to find the specific applications on the Internet. - How do you calculate the days you have to deal with them. - Requests, written or communications that have to do with administrative management can be recorded every day in the entire day.",
+            "simplified_sentence": "Access to the generic telemmatic instance access to the specific Cymput term requests, written or related communications can be registered every day in the year, for 24 hours.",
+            "score": -2.3770599365234375
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 7,
+            "original_sentence": "What happens when you receive a document on an inhàbil day? If you send an instance on an inhbil day, even if the document comes that day, it doesn't count as being received until the next day. It is considered that the administration gets the first working day next. Inhbil: it is the days that offices are closed. It's Saturday, or day party days.",
+            "simplified_sentence": "The document reception on an inhbil day is considered to be made the first skilled day.",
+            "score": -1.8909544944763184
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 8,
+            "original_sentence": "When you send an Internet document to the Barcelona City City City, the date and official time are the one markings their character from the city council. Here is an electronic website for public administration. This page is on the Internet and can be used by any person. On their handheld, there are information from the administration, and can be handled and managed.",
+            "simplified_sentence": "The date and the time for which the record is to be counted is the stable for its handheld to the City of Barcelona City.",
+            "score": -2.4761202335357666
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 9,
+            "original_sentence": "What happens if the electronic record does not work? Sometimes for technical problems, the electronic log system does not work. This can happen, for example, when maintenance tasks are done or an avary. When the electronic log does not work: - The Barcelona city council will warn you people.",
+            "simplified_sentence": "When, for technical reasons, the record may not be operational, people will be informed from their electronics with the maximum possibility and as long as this situation is over.",
+            "score": -2.357889175415039
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 10,
+            "original_sentence": "What documents can you send? The documents that you attachment should be in one of these formats: - PDF - JPG (image) - TIFF (image) what size can they have? The maximum size of the documents depends on what you are doing. In the arrest page you will find this information.",
+            "simplified_sentence": "Documents Attachments If you need to attach documents, they have to be in one of the supported formats (PDF, JPG or TIFF) and have a limited size in the specific processing function.",
+            "score": -0.6670646667480469
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 11,
+            "original_sentence": "When you do an instance on the Internet with the generic instance, you can add as maximum 6 documents. The total size of the documents cannot pass 5 megabytes (Mb). If documents are too large, they cannot be sent. In this case, the request is sent but without the attachments.",
+            "simplified_sentence": "In the case of the generic telemmatic instance, there is a limit of six documents attached and a maximum size of 5 Mb in total; when documents overpasses the maximum size, and the request is still in progress, the request processing is finished without attachments.",
+            "score": -1.663615107536316
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 0,
+            "original_sentence": "What's the Movement Bank?",
+            "simplified_sentence": "What's the Movement Bank?",
+            "score": 0.11740848422050476
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 1,
+            "original_sentence": "The Movement Bank is a service for the Barcelona City City Hall. It is part of the Solid Network of Products of Barcelona.",
+            "simplified_sentence": "The Movement Bank is a municipal service for the Solid Network for Products of Barcelona.",
+            "score": -0.6076847910881042
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 2,
+            "original_sentence": "The Movement Bank helps Barcelona people with disabilities or with motion problems. The Bank leaves products to these people so they can be moved.",
+            "simplified_sentence": "Offering products to facilitate mobility to anyone in Barcelona who has disabilities or difficulty movement.",
+            "score": -0.7166001796722412
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 3,
+            "original_sentence": "Some of the products that leave are: • Crossies of wheels - the joint walks of technology products, like toys adapted to any disabled or devices for the computer.",
+            "simplified_sentence": "Some of the products offered are: • Cross Cadires of wheels • The joint walks of technology support products, such as computer devices or toys adapted to any type of disabilities.",
+            "score": -0.27677372097969055
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 4,
+            "original_sentence": "Supporters for walking or moving, and technological products from the Bank of the Movement (BdM), help complementing the ones that lead to the Generality. Generality has a program called AU. AU stands for Social Accesstion Program for People with Disability. Thus, people with more economic or social difficulties can have more options to get what they need.",
+            "simplified_sentence": "The products of support for mobility and technology products of BdM are also complementing the products that make it easier for the Generality Department through the Social Aid Program for People with Disability (AU), promoting access to the major social vulnerability.",
+            "score": -1.5809292793273926
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 5,
+            "original_sentence": "How functional the Movement Bank?",
+            "simplified_sentence": "How does the Bank of the Movement work?",
+            "score": -0.4202800989151001
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 6,
+            "original_sentence": "The Movement Bank works because of the help of people. Many people and entities support BdM products such as wheelchairs or walkers when they don't need them anymore. These products are left to be used by the people who ask for it.",
+            "simplified_sentence": "The Movement Bank works through the solidarity of many people and entities that support us so that people can use it.",
+            "score": -0.18111003935337067
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 7,
+            "original_sentence": "When a person or entity has a product of support, a team of professionals reviews it and repairs it if necessary. When a person asks for a product, this team comes with it and shows it how to use it.",
+            "simplified_sentence": "Once they're given to us, a team of professionals review them, they're being challenged and accompanied by the people who ask them to teach them how to use them.",
+            "score": -0.5367607474327087
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 8,
+            "original_sentence": "The Movement Bank also buys some new products, especially if they're products people ask for a lot, so people who need a product shouldn't wait.",
+            "simplified_sentence": "The Movement Bank also buys some new support products, especially to respond to the most frequent demands.",
+            "score": -0.08179043978452682
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 9,
+            "original_sentence": "The Movement Bank on May 2024 created a special form. This form can use the professional people of the council's social services. It helps to ask for a discount in the public price of support products that people leave behind.",
+            "simplified_sentence": "Since 9 May, 2024, the Bank of the movement active a form to allow municipal social services to apply a discount in the public price of giving in support of people.",
+            "score": -1.7623642683029175
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 10,
+            "original_sentence": "This form helps people have the help products that leave the Movement Bank. The Movement Bank is inside the Solid Product Network.",
+            "simplified_sentence": "This form provides access to the support products for giving in from the Movement Bank, Solid Product Network.",
+            "score": -0.799843430519104
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 11,
+            "original_sentence": "Before the form is sent by email, you need to call on the phone. This phone call serves to: check if the product is free, and know what steps should be done to receive the material.",
+            "simplified_sentence": "Before sending the form by email, you need to call on the phone to validate the availability of the product and know the steps to follow the material cresion.",
+            "score": -0.48228681087493896
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 12,
+            "original_sentence": "If you have to leave less money on bail, they'll tell you during the call. A security is a amount of money that a person leaves as a guarantee. In the case of the BdM is good to ensure that the person will return the product they've left to him. When the product gets returned, the money is returned.",
+            "simplified_sentence": "If you also need to reduce bail, it will be specific to this call.",
+            "score": -1.504279613494873
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 13,
+            "original_sentence": "The Movement Bank is a service for the People's Institute with Disability of the City of Barcelona · Global Voices",
+            "simplified_sentence": "The Bank of the movement is a municipal service led by the People's Institute with Disability of the City of Barcelona.",
+            "score": -0.43609917163848877
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 0,
+            "original_sentence": "Start working if you want to work in Spain, you need a social security number. This is necessary whether you work for a company or person or your own account.",
+            "simplified_sentence": "Start working if you want to perform a job activity in Spain, either on their own or by account of the altri, you have to get the number of Social Security.",
+            "score": -0.6972426772117615
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 1,
+            "original_sentence": "What's the number of social security? It's a personal number that identifies you in your relations with social security. Social Security is a public system that claims people at least benefit from these situations: - receiving assistance if you're sick, charged the unemployment if you're busy, - having protection if you have a job accident, they'll charge a pension when you're retiring, and aid to receive motherhood or other situations.",
+            "simplified_sentence": "This number will identify you in your relations with Social Security, which is the public system of protection before disease, invalidity, unemployment, old working accidents, motherhood or loss of family hold.",
+            "score": -1.2545238733291626
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 2,
+            "original_sentence": "In order to start working, you need to ask for high security on Social Security.",
+            "simplified_sentence": "The obtaining of your social security number is a previous and necessary step in order to apply high security, which is what actually enables the beginning of a work activity.",
+            "score": -0.3043328523635864
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 3,
+            "original_sentence": "Getting high on Social Security is mandatory to begin a job activity.",
+            "simplified_sentence": "Getting high on Social Security is mandatory to begin a job activity.",
+            "score": 0.1523047238588333
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 4,
+            "original_sentence": "If you work for a company or someone else, the company is the one that needs to be done in Social Security.",
+            "simplified_sentence": "• If you're going to work for care, it's the company or the person who needs to take down your top in the general government of Social Security.",
+            "score": -0.39154428243637085
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 5,
+            "original_sentence": "If you're working on the vote, you'll have to make the top of the ETA, the ETA is the special system of the autonomouss of Social Security.",
+            "simplified_sentence": "• If you're going to work on your own, you're the one who needs to apply the high school in the special regime of autonomous workers (RTA) from Social Security.",
+            "score": -1.029892921447754
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 6,
+            "original_sentence": "If you work for your own account, you also have to be raised to a business survey and professional from the Tributary Agency.",
+            "simplified_sentence": "And in case you work on your own, you're going to have to sign up or give you high birth to the business census, professionals, and retainers from the Tributary Agency.",
+            "score": -0.22080719470977783
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 0,
+            "original_sentence": "Change and problems of tourism in the city are increasingly tourists in cities, and citizenship thinks that the situation with tourism is worse, and that can be a problem if you lose separation between spaces for tourists and spaces where people live in the neighborhood, something that seems good as tourism is taking problems.",
+            "simplified_sentence": "Environmental tourism challenges and challenges, the danger of success, the perception of residents about urban tourism expansion, which leads to a solution to the border between tourist spaces and local spaces, getting worse and worse.",
+            "score": -1.985329508781433
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 1,
+            "original_sentence": "Some cities like Amsterdam or Copenhagen have begun to apply measures to reduce tourism problems.",
+            "simplified_sentence": "As a result, cities like Amsterdam and Copenhagen have taken steps to avoid their negative effects.",
+            "score": 0.7509139180183411
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 2,
+            "original_sentence": "Some measures succeed more than others, but they still have to wait to see if they work well.",
+            "simplified_sentence": "Some are more successful than others, but we'll have to wait to check their real effect.",
+            "score": 0.19571059942245483
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 3,
+            "original_sentence": "Cities have always been important for tourism, but urban tourism that's what's done inside the city is something quite new.",
+            "simplified_sentence": "cities have always had an important role in tourism, but the appearance of a specific sector of urban unemployment is relatively recent.",
+            "score": 0.43682509660720825
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 4,
+            "original_sentence": "In the south of Europe, in the 1960s and 70s, many tourist areas were built on the edge of the sea, in those places there were little people there.",
+            "simplified_sentence": "In the south of Europe, for example, the tourism processes of the 1960s and 1970s were focused on coastal deviations, with relatively small resident population.",
+            "score": -0.13159207999706268
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 5,
+            "original_sentence": "With tourism growth, hotels and apartment blocks were built near the sea.",
+            "simplified_sentence": "tourism expansion received the push of a new urban development, which included the construction of hotels and apartment blocks near the sea.",
+            "score": 0.477586030960083
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 6,
+            "original_sentence": "In the '60s and 70s, a lot of people talked about tourism problems, especially for their effects in the environment because of so much construction.",
+            "simplified_sentence": "[1] Most of the debates around the tourism progress at the time were focused on the environmental effects of the growing urbanization.",
+            "score": -1.6609766483306885
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 7,
+            "original_sentence": "Since the 1980s, the big cities in northern Europe were known as cultural tourism destinations, many cities had lost their industry and started gambling with services and tourism.",
+            "simplified_sentence": "In the north of Europe, large cities started to be recognized as cultural tourism centers in the 1980s, when economic pressures were encouraged to encourage desparisations in the process of spending the service industry.",
+            "score": -0.6153052449226379
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 8,
+            "original_sentence": "In the 1980s and 90s, many conferences and fires were opened, and cities became important places for business tourism.",
+            "simplified_sentence": "They also won more and more important as business tourism humbs, with the opening of many conferences and exhibitions in the summers of the 1980s and ninetys.",
+            "score": -1.5635629892349243
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 9,
+            "original_sentence": "By 2000, tourism was already a regular activity in many cities in Europe.",
+            "simplified_sentence": "So, with the change of millennium, in a lot of urban areas in Europe, a recognized tourist sector has already been established.",
+            "score": 0.4448593854904175
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 10,
+            "original_sentence": "However, tourism was still separate from the daily lives of neighbors.",
+            "simplified_sentence": "However, the development of Turkish activities was relatively separate from the daily lives of the city and its residents.",
+            "score": 0.054027143865823746
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 11,
+            "original_sentence": "The accommodations for tourists were built especially near train stations, airports, or partnership areas at the center of the city.",
+            "simplified_sentence": "Tourist accommodations would often be grouped around the main transport seasons or near the light districts of downtown cities.",
+            "score": -0.12668411433696747
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 12,
+            "original_sentence": "There are 2 authors called Gregory John Ashworth and John E. Tunbridge who explained this evolution of tourism in a city model who put the name of the town of turisothital town.",
+            "simplified_sentence": "This situation was described by Gregory John Ashworth and John E. Tunbridge in his model of turisthiticity town.",
+            "score": -0.9348937273025513
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 13,
+            "original_sentence": "tourism in cities has grown a lot, so spaces for tourists and spaces for people living in the city have begun to mix.",
+            "simplified_sentence": "With the expansion of urban tourism, however, divisions between tourist spaces and local spaces began to dissolve.",
+            "score": 0.6569486856460571
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 14,
+            "original_sentence": "The study of City Tourism & Culture.",
+            "simplified_sentence": "The study of City Tourism & Culture.",
+            "score": 0.04832210764288902
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 15,
+            "original_sentence": "A study in 2005 by the European Travel Commission said urban and cultural tourism grew very between 1993 and 2000, the past nights in European cities grew up almost 4 of every 10 nights more than before.",
+            "simplified_sentence": "The European experience about urban tourism and culture, drawn by 2005 by the European Travel/ OMT Commission, indicated a significant growth of this type of tourism, with an increase in 38% in the pernoctations in European cities between 1993 and 2000.",
+            "score": -1.8796297311782837
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 16,
+            "original_sentence": "This upload of tourists took great interest in people responsible for cities, they wanted to take advantage of the most tourists who have a lot of money and travel for cultural reasons.",
+            "simplified_sentence": "A phenomenon that attracted attention to urban political responsible, delerous to achieve the greatest performance of high-power cultural tourists.",
+            "score": -2.2949366569519043
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 17,
+            "original_sentence": "Some cities, such as Barcelona, took great celebrations to grow tourism, for example, the Olympics in 1992 andAny Gaudin of 2002. These celebrations helped bring more visitors and projects to improve the spaces of the city.",
+            "simplified_sentence": "Some cities, such as Barcelona, also took advantage of the tourist development driven by great celebrations, such as the 1992 Olympics andAny Gaudin of 2002, to attract visitors and supportplaceing initiatives.",
+            "score": -0.1298029124736786
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 18,
+            "original_sentence": "The success of celebrations such as the Olympics led Barcelona to organize the Universal Convention of Cultures in 2004. It was a meeting to talk about the dialogue between cultures. This act was promoted by UNESCO. The Aquaco is the UN Organization for Education, Science and Culture.",
+            "simplified_sentence": "[2] The success of these actions led the Catalan capital to organize, in 2004, the Universal Forum of Cultures, a meeting about the Cultural dialog promoted by UNESCO.",
+            "score": -1.4898079633712769
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 19,
+            "original_sentence": "At first, tourism liked political officials and also the people who lived in the city",
+            "simplified_sentence": "At first, tourism was seen with good eyes for both political and political officials and residents.",
+            "score": 0.4610038697719574
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 20,
+            "original_sentence": "In 2004, they started to notice the first changes. They were signals that things were about to change.",
+            "simplified_sentence": "In 2004, however, the first indications of the changes they came.",
+            "score": -1.1828469038009644
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 21,
+            "original_sentence": "The Universal Culture Forum did not like many people who lived in the city. Many people were excluded because the entries were very expensive, the food had very high prices and there were many companies who did advertising.",
+            "simplified_sentence": "The forum generated a negative feeling among many residents, who were excluded by the high entry rates, the puffy prices of food and business sponsor.",
+            "score": -0.984673261642456
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 22,
+            "original_sentence": "This was a warning that something didn't work well in the city model Barcelona followed after the Olympics.",
+            "simplified_sentence": "It was an premature alert to the achievements of the kolabmodel Barcelona post-limica.",
+            "score": -1.6365348100662231
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 23,
+            "original_sentence": "In the past year, the way to see tourism changed, the political class was getting more worried about the situation, so at the end of 2004, Jordi Porte, who at the time was a sports councilman, asked for a study, and this study was made to know that people thought about tourism.",
+            "simplified_sentence": "A change of perception over the years, the growing concern of political officials brought Jordi Portebelle, then a tourism councilman to deal with, at the end of 2004, a study about residents' positioning on tourism.",
+            "score": -1.8586817979812622
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 24,
+            "original_sentence": "But the results of the study showed that most of the barelonists were still very much in support of tourism, especially in cultural tourism, mostly the population wanted tourism to grow, and the majority of them agreed to grow cultural tourism.",
+            "simplified_sentence": "The research, however, showed that barelons continued to be very supporters, in particular, from cultural tourism: more than 90% were favorable to higher growth in tourism, and 91 percent agreed to develop cultural tourism.",
+            "score": -0.31041842699050903
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 25,
+            "original_sentence": "Although the first results were not expected, they decided to continue with the study to know what the citizens of Barcelona thought about tourism were also added to the Observation of Barcelona's tourism, which is a space that studies how tourism evolves in the city.",
+            "simplified_sentence": "Although the initial results didn't fit with what politicians had planned, they decided to continue to supervise the position of residents, and the research in progress was incorporated into the tourism Observatory in Barcelona.",
+            "score": 0.19188910722732544
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 26,
+            "original_sentence": "The studio helps to see how the relationship has changed between tourism and the city with the passing of time. The studio also teaches how people's opinions have been changing while tourism in the city has been growing.",
+            "simplified_sentence": "The studio provides a unique longitudinal image of the relationship between tourism and the city, and shows how the opinions have changed as urban tourism has increased.",
+            "score": 0.49409404397010803
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 27,
+            "original_sentence": "In 2005 and 2006, most citizens of Barcelona agreed that the city received more tourists. But in 2007, this opinion came down in half. This showed that each time citizens liked the less fast pace that tourism was growing.",
+            "simplified_sentence": "If in 2005 and 2006, around 70% of residents supported the idea that Barcelona attracted more tourists, this number fell sharply to about 50% in 2007, which reflected a discomfort on increasing growth rates of tourism.",
+            "score": 0.4057468771934509
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 28,
+            "original_sentence": "In the 1970s 2007 and 2012, tourism support went back up again, which happened because in those years there was an economic crisis and tourism was seen as a help for the economy.",
+            "simplified_sentence": "In 2007 and 2012 it increased again, probably because of the influence of the economic crisis of those years.",
+            "score": -0.17995931208133698
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 29,
+            "original_sentence": "In recent years, in Barcelona there are increasingly fewer people in support of tourism, more neighbors and neighbors who think the city has arrived at the limits of tourists.",
+            "simplified_sentence": "Since then, tourism support hasn't been decreased, accompanied by an increasing percentage of people who believe Barcelona has touched a roof.",
+            "score": 0.4840756356716156
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 30,
+            "original_sentence": "This change of opinion was made clear in 2016, when most people had negative opinion about tourism.",
+            "simplified_sentence": "The tipping point was produced in 2016, when negative positions in tourism happened to be majority.",
+            "score": -0.2525399625301361
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 31,
+            "original_sentence": "\"From pandemia, many people remain against tourism, more than half the citizenship thinks Barcelona can no longer receive tourists.\"",
+            "simplified_sentence": "Since pandemia, anti-turmical sentiment has been held up: over 60 percent of residents show that the city has reached the limit, a level matched at 2019.",
+            "score": -1.0115448236465454
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 32,
+            "original_sentence": "The change of tourism has also led people to behave differently.",
+            "simplified_sentence": "Changing positioning has also affected behaviors.",
+            "score": 0.23613296449184418
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 33,
+            "original_sentence": "In 2011, more than half of Barcelona's citizenship said in the poll that had a common contact with tourists.",
+            "simplified_sentence": "In 2011, around 60 percent of the population protested, in the poll, who had had regular contact with tourists in the city.",
+            "score": 0.341617226600647
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 34,
+            "original_sentence": "In 2014, even more people weren't happy with tourism because they sold more tourists in town.",
+            "simplified_sentence": "This figure increased 70 percent in 2014 as the number of tourists grew.",
+            "score": 0.5441467761993408
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 35,
+            "original_sentence": "But from 2015, the contact of citizenship with tourists came down, and the Venezuelas avoided going to the most touristal areas in the city so they don't have contact with tourists.",
+            "simplified_sentence": "Since 2015, however, the contact with tourists decreased, which suggests that the local population actively avoided them, and derails the tourist zones.",
+            "score": 0.5533940196037292
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 36,
+            "original_sentence": "This study teaches that the concern for tourism in the city already existed before Airbnbab arrived in 2011. Airbbbbb is an Internet platform where you can rent a house or a room to other people for a few days.",
+            "simplified_sentence": "This analysis shows that the concern for urban tourism growth is earlier than the arrival of Airbbb in Europe in 2011.",
+            "score": 0.4759441018104553
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 37,
+            "original_sentence": "But the Airbnb platform has caused a lot of struggling problems with tourism.",
+            "simplified_sentence": "However, the platform has come to represent many of the challenges associated with this activity.",
+            "score": -0.052140649408102036
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 38,
+            "original_sentence": "At the same time, tourists have changed their way of tourism. Before, tourists were sleeping in hotels and left in areas that were thought for tourism only, now, with Airbnbbbbbb, tourists can sleep in particular houses, that makes tourists live in neighborhoods where people live in the city and out of the neighborhood.",
+            "simplified_sentence": "He's been a pioneer in a new model, which integrates tourists into the city's tissue itself: they're no longer confined in slavery with hotels and tour facilities, but now they can penetrate residential neighborhoods.",
+            "score": -0.03597874566912651
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 39,
+            "original_sentence": "This change transformed the way of tourism, in the '90s, cities were preparing to receive tourists in cultural and historical sites -- now tourists want to live like citizenship -- that means sleeping in apartments and living like neighbors and neighbors in the neighborhood -- this model is called living like locals.",
+            "simplified_sentence": "This change transformed the old model of the city of Thristropic city of the 1990s into the modern concept of kilvirure as locals.",
+            "score": -0.9112110137939453
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 40,
+            "original_sentence": "Many foreign people have started traveling to Barcelona, Lisbon and Berlin, they do it eagerly and in a mass way, while they are tourism trying to live in the neighborhoods of these cities -- that happens because Airbn and low-cost plane companies like Vueling, make it easier and travel in particular homes.",
+            "simplified_sentence": "The visitors have been released in too much to experience local life in cities like Barcelona, Lisbon and Berlin, thank you in part, Airbnb and low-cost airlines, like EasyJet and Vueling.",
+            "score": -0.7401672601699829
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 41,
+            "original_sentence": "Now it's much more economic travel to famous cities and sleep there, that's made a new way of tourism -- this new urban tourism is called urban tourism.",
+            "simplified_sentence": "The cost of getting to popular cities and homes has dramatically reduced, and has given its way to what's been called the urban tourism.",
+            "score": 0.6392644047737122
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 42,
+            "original_sentence": "In 2004, Barcelona was visited nearly 4 million and half tourists.",
+            "simplified_sentence": "[3] In 2004, Barcelona received 4,4 million tourists.",
+            "score": 0.19026587903499603
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 43,
+            "original_sentence": "By 2019, the arrivals had grown to 20 million people.",
+            "simplified_sentence": "On 2019, the arrivals had grown up to 20 million.",
+            "score": 0.4879434406757355
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 44,
+            "original_sentence": "New tourism in cities grows in neighborhoods of fashion, these neighborhoods have bars, restaurants and neighborhood culture that very much like people visiting the city.",
+            "simplified_sentence": "Share this fragment Prospera urban tourism in cool neighborhoods, offering a nice mix of bars, restaurants and local culture.",
+            "score": -1.4589009284973145
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 45,
+            "original_sentence": "A survey of Time Out asks what are the most fashionable neighborhoods in the world, this survey shows that tourism is increasingly looking for these sites.",
+            "simplified_sentence": "The Time Out poll on the world's most cool neighborhoods (World's Colest Neighbourhohoods) follows this trend.",
+            "score": -0.7442984580993652
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 46,
+            "original_sentence": "In 2024 the results of the world's most fashionful neighborhoods gave these results: - the Nore-Dreme-du-Mont neighborhood in the city of Marseille, the Mers Sultan neighborhood, in the city of Casablanca, - and the neighborhood of Pererenan, in Bali Island",
+            "simplified_sentence": "In 2024, the results place Nore-Dame-Mont, in Marseille; Mers Sultan, in Casablanca, and Pereren, in Bali, like the three most fashional neighborhoods in the world.",
+            "score": -0.8092142939567566
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 47,
+            "original_sentence": "The last 7 years Barcelona has left 6 times in the classification of the poll. The fashion neighborhoods according to the poll are: - Gàcia, the Clot, - and the 19 People. These neighborhoods before they had a lot of visitors.",
+            "simplified_sentence": "Barcelona has emerged six times in ranking the last seven years, in neighborhoods such as Gàcia, the Clot and the townnono, zones that didn't record a significant tourism flow before.",
+            "score": -1.049550175666809
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 48,
+            "original_sentence": "Many more tourists have arrived in the city, and this has caused there to be less space for the life of the day.",
+            "simplified_sentence": "The focus of visitors has increased pressure on urban space.",
+            "score": 0.39470693469047546
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 49,
+            "original_sentence": "In 2004, Barcelona lived over 1 million people, and received nearly 4 million and half tourists.",
+            "simplified_sentence": "In 2004, Barcelona, with a resident population of 1,6 million, received 4,4 million tourists.",
+            "score": 0.759973406791687
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 50,
+            "original_sentence": "In 2019, 20 million tourists came in Barcelona, the city had more than one million people, which means that every person living in Barcelona shared the city with many tourists than before.",
+            "simplified_sentence": "In 2019, the arrivals had grown up to 20 million, for a population of 1,7 million, and that was translated into a increase in the ratio of tourists per resident of 2,75 to 118, so more than four times above.",
+            "score": -1.4669311046600342
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 51,
+            "original_sentence": "During the pandemia, there were fewer tourists, but then the number came up again -- 2023, more than 15 million and a half of tourists came.",
+            "simplified_sentence": "The figures fell during the pandemy, but then, with 15,6 million in 2023, [4] the ratio continued to be 92 tourists for every resident.",
+            "score": -1.915766716003418
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 52,
+            "original_sentence": "This upload of tourists wasn't just by Arbb. It also grew the number of hotels and cheap flights to come to the city.",
+            "simplified_sentence": "This step cannot only be attributed to Airbnb; it also reflects the growth of accommodation in hotels and spaces in low-cost air lines.",
+            "score": 0.5594006776809692
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 53,
+            "original_sentence": "This model of tourism is based on having more visitors, and not so much when tourists spend more money, or people are interested in meeting the city well.",
+            "simplified_sentence": "In other words, it's the result of a tourist model based on increasing the number of visitors, instead of maximizeing the expense of each tourist or focusing on particular visitors groups.",
+            "score": -0.5210050344467163
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 54,
+            "original_sentence": "Some actions to improve the problem in the last few days, this tourism model has received a lot of criticism in other cities.",
+            "simplified_sentence": "Some integral measures in the last few days, this kind of tourist development has become the white of criticism in other cities.",
+            "score": -1.3845068216323853
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 55,
+            "original_sentence": "There have been protests in places like Tenerfe, Alicante and Eivissa, many people are asking for change in tourism, and people who live in these places think that tourism causes problems like: - the rental price climbs a lot,--the life is much more expensive, - the neighborhoods lose quality of life, - and the environment is damaged.",
+            "simplified_sentence": "A series of protests in Tenefe, Alicante or Eivissa, among others, have claimed a change in the tourism model, where some residents blame problems such as the rise of rents, the rise of the cost of life, the decay of communities and degradation of the environment.",
+            "score": 0.19475986063480377
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 56,
+            "original_sentence": "Some cities have made decisions to deal with the new problems that tourism has brought.",
+            "simplified_sentence": "In response, some cities have entered measures to face these new challenges.",
+            "score": 0.04498227313160896
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 57,
+            "original_sentence": "One of the most complete examples is Amsterdam, which has applied many actions to improve the situation.",
+            "simplified_sentence": "Among the most integrals there are applied to Amsterdam.",
+            "score": -1.3600068092346191
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 58,
+            "original_sentence": "The city of Amsterdam created a plan called tourism in balance. This plan started in 2019. It was done because 30,000 people living in the city asked for changes in the way that tourism was handled.",
+            "simplified_sentence": "The measures to control tourism in this New York City were introduced through the turmism policy in globalization, developed in 2019 after 30,000 residents were asking for a new approach to tourism politics.",
+            "score": -0.4674398601055145
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 59,
+            "original_sentence": "Right now, the city pays a tourist tax that's the highest tax to pay for people sleeping in tourist accommodations, such as hotels or rental apartments, which means that visitors have to pay more money to stay in the city.",
+            "simplified_sentence": "Currently, the city imposes a rate of 12,5 percent of the price of tourist accommodations, the highest in Europe.",
+            "score": -1.2065811157226562
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 60,
+            "original_sentence": "They have also set up rules to control Airbnb. In March 2021 there were 16.600 apartment ads. Then, in October of the same year, with the new norm there were fewer than 3,000 commercials.",
+            "simplified_sentence": "The regulatoral actions have also included restrictions on Airbnbb: apartment ads were reduced from 16.648 on March 2021, under 3,000 of the same year.",
+            "score": -1.3955581188201904
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 61,
+            "original_sentence": "Also banned from opening new hotels.",
+            "simplified_sentence": "Also banned from opening new hotels.",
+            "score": 0.2254188358783722
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 62,
+            "original_sentence": "The city's office has also set new rules to improve cohabitation in downtown the city. It is now forbidden: smoking porros and drinking alcohol in public spaces. - using large bikes with a bar to drink beer while it's pedaled. These bikes are called Bierkes.",
+            "simplified_sentence": "In addition, the city has implanted the ban of smoking porros and drinking alcohol in public areas of rich areas, and illegal the bikes' beer (classic groups with a bar built in drinking beer while riding) and the tourists with large groups.",
+            "score": -0.9442384243011475
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 63,
+            "original_sentence": "The city of Amsterdam wants tourists not only to stay in the center, so it encourages visitors to meet other neighborhoods and interesting places in the city and around.",
+            "simplified_sentence": "Amsterdam has also tried to distribute tourism more uniformly for the city by encouraging visitors to explore new neighborhoods and regional attractions.",
+            "score": 0.6473742127418518
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 64,
+            "original_sentence": "The city also campaigns to avoid problematic tourism, use social networks to warn some groups, such as young Brits, which are not allowed in bad behavior.",
+            "simplified_sentence": "Local efforts also include campaigns of demating address to certain environmental groups, to young British British Brits, who use social media to dissuade from unsirent behaviors.",
+            "score": -1.7061569690704346
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 65,
+            "original_sentence": "A new study says that Amsterdam's resort is too low. This tax serves to help the city better manage tourism. According to a report that has been done recently, the tourist's apt should be three times higher to have a real effect.",
+            "simplified_sentence": "A recent report on the application of the tourist rate in Amsterdam concludes that thepost should be three times above because it has a real impact on the number of visitors.",
+            "score": -0.8804728984832764
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 66,
+            "original_sentence": "Share this text is not yet clear if actions come not as many tourists who have been made in Amsterdam and in other cities work. Although tourist taxes have been pushed, tourists are still coming.",
+            "simplified_sentence": "Share this fragment all of this, yet it's not yet clear how much impact measures taken in Amsterdam or in other cities may have, and it's that despite the rise of tristic rates, visitors continue to come.",
+            "score": -1.6806279420852661
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 67,
+            "original_sentence": "In 2023, in Amsterdam, they slept more than 22 million tourists, which is higher than the city council wanted, which was 20 million.",
+            "simplified_sentence": "2023, this city registered more than 22 million pernoctations, despite the agreement of the city council to restrict this number to 20 million.",
+            "score": -1.1337757110595703
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 68,
+            "original_sentence": "A recent report says this tourist tax is too low. According to the report, thepost should be three times higher to have a real effect.",
+            "simplified_sentence": "A recent report on the application of the tourism rate concludes that thepost should be three times higher because it has a real impact on the number of visitors.",
+            "score": 0.043366674333810806
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 69,
+            "original_sentence": "At the same time, they've gone back up a lot of tourist tourist ads from Arbb. In 2024, they arrived almost at 10,000 advertisements.",
+            "simplified_sentence": "In the meantime, the advertisement offer of Arbnb has gone back up and arrived at almost 10,000 in 2024.",
+            "score": 0.01563025638461113
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 70,
+            "original_sentence": "Although this number is lower than before, when they weren't making controls, it came up slowly.",
+            "simplified_sentence": "Although the number is lower than the registered levels before the new controls, gradually it's going back to the previous amounts.",
+            "score": -1.3315129280090332
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 71,
+            "original_sentence": "They're also opening new hotels. This happens because some permissions were passed before they banned building new hotels in April 2024.",
+            "simplified_sentence": "They also continue to open new hotels, as some development licenses were given before the top in hotels, April 2024.",
+            "score": -0.43163394927978516
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 72,
+            "original_sentence": "The tourism expert Stephen Hodes has studied tourism in Amsterdam, according to him, the attempts to make tourists visit other areas outside the city's center didn't work very well, so most tourists continue to visit the same places as always",
+            "simplified_sentence": "According to tourism expert Stephen Hodes, the attempts to extend visitors to areas outside Amsterdam have not had much effect either.",
+            "score": 0.25158336758613586
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 73,
+            "original_sentence": "The expert Stephen Hodes says that when tourists sleep outside the city, this doesn't reduce tourism, it leaves more free in the center for more visitors to go.",
+            "simplified_sentence": "Hodes argue that visitors left outside the city don't do but free space at the center for tourists.",
+            "score": -0.6910127997398376
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 74,
+            "original_sentence": "He also says tourists who sleep outside the city are going to the centre of public transportation every day, that makes more people using public transportation.",
+            "simplified_sentence": "In addition, those who get thrown out of town tend to move daily, which increases the pressure on transport services.",
+            "score": 0.846548855304718
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 75,
+            "original_sentence": "In Amsterdam, various rules and controls have been applied to reduce the problems of tourism, but so far these changes have not worked very well, so we may need to think more creative and different ideas to improve the situation.",
+            "simplified_sentence": "Given that it seems that economic controls, normatives and spaceships have had so little impact in Amsterdam, we may need to adopt more creative developments.",
+            "score": -0.25354212522506714
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 76,
+            "original_sentence": "The City of Copenhagen has highlighted because he has made decisions to improve tourism, to improve tourism, he has tried to convince and engage everyone.",
+            "simplified_sentence": "In this sense, Copenhagen has highlighted between other cities to take a series of measures based on persuasion, rather than in the direct controls.",
+            "score": -1.4761977195739746
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 77,
+            "original_sentence": "In 2021, the city of Copenhagen began a new plan called Tourism for Good. Tourism for Good means tourism for the good.",
+            "simplified_sentence": "2021, the city introduced the Tourism strategy for Good.",
+            "score": 0.44330307841300964
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 78,
+            "original_sentence": "This plan wants to do tourism with these goals: to help the planet and environment, create positive encounters, and bring benefits for more people.",
+            "simplified_sentence": "It's a broader approach for tourism development, with goals of sustainability based on three pillars: tourism has to speed up the ecological transition, create enquisive encounters and generate more socioeconomic value for more people.",
+            "score": -0.45782917737960815
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 79,
+            "original_sentence": "The changes started in 2022, so it's still early to know if they're going to work.",
+            "simplified_sentence": "Because control didn't start until 2022, it's still early to know whether the strategy will succeed.",
+            "score": -0.20751793682575226
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 80,
+            "original_sentence": "There's an organization called Wonderder Copenhagen that promotes tourism in the city. This organization is working to improve tourism, and it's created a space called legacy lab. It's a space to think about how to make the big events help the territory for time.",
+            "simplified_sentence": "However, Wonderful Copenhagen, the tourist marketing organization in this city, is doing efforts for the tourism sector to go down and have created a left-of-the-the-the-the-the-world linguist, which is to promote the events of the city to have a more positive impact on long-term territory.",
+            "score": -2.2399137020111084
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 81,
+            "original_sentence": "We still don't know if this model of Copenhagen will work in the amount of tourists who will visit the city or whether it will improve the quality of their urban tourism.",
+            "simplified_sentence": "It will take you to wait to see if the Copenhagen efforts influence the volume or quality of their urban tourism.",
+            "score": -1.027846336364746
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 82,
+            "original_sentence": "It's also hard to know if it's going to work because the covid-19 pandemy came down very much in tourism.",
+            "simplified_sentence": "Following trends on this ground has been particularly difficult because of the impact of covid-19, which dramatically narrowed down these tourist streams.",
+            "score": -0.21987833082675934
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 83,
+            "original_sentence": "The first data in the year 2024 shows that many cities already have so many tourists or even more, than before pandemy.",
+            "simplified_sentence": "However, the earliest tourist data for 2024 suggest that most cities have already recovered or overcome the levels of visitors in 2019.",
+            "score": -0.12715955078601837
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 84,
+            "original_sentence": "For the first eight months of the year 2024, the European cities received more visitors than in other years, there have been a little more visitors than last year.",
+            "simplified_sentence": "The increase in the number of visitors in cities feeding the TourMIS[5] database has been from 5,5% during the first eight months of 2024.",
+            "score": -1.9841370582580566
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 85,
+            "original_sentence": "In 2023, they visited the tourist attractions of Europe more people than the year before.",
+            "simplified_sentence": "Similarly, the number of visitors at the tourist attractions of European cities increased almost 14 percent of average 2023.",
+            "score": -0.734057605266571
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 86,
+            "original_sentence": "After covid, people want to take advantage of any opportunity to tourism and visit cities.",
+            "simplified_sentence": "These figures seem to indicate that the urbs continue to experience the effects of the▁venjançaturism of covid, with consumers of taking opportunities to travel.",
+            "score": -2.2845935821533203
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 87,
+            "original_sentence": "The data indicates that tourism in cities will continue to grow. This will also cause the problems to grow with this tourism. These problems can be even greater if more people live in cities.",
+            "simplified_sentence": "The data suggests that urban tourism will continue to grow, and so it also grows the pressures that associated with it, which are probably excluded from the rise of the resident population in many cities.",
+            "score": 0.0797949880361557
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 88,
+            "original_sentence": "In the future, people who organize cities will have to think new and imaginative solutions.",
+            "simplified_sentence": "In the future, the scheduler will have to think even more creative solutions to deal with inevitable challenges.",
+            "score": 0.030527327209711075
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 0,
+            "original_sentence": "The city used to be the differences between rich and poor people are getting bigger and larger -- and so it happens in the whole world and in cities.",
+            "simplified_sentence": "The city solidified economic and social inequality does not stop growing on both global and local scales.",
+            "score": -0.10769067704677582
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 1,
+            "original_sentence": "In Barcelona, new initiatives have begun to appear to improve the situation. These initiatives want to achieve a city and a more fair world for everyone, which is that all people can live in peace with their own rights, and have covered their basic needs.",
+            "simplified_sentence": "To reverse this situation, they have emerged in Barcelona a number of initiatives that inspire global justice, where individuals, communities, identities, generations, ethnic generations, and organisations become peace, opt to the same rights, and have basic needs covered.",
+            "score": -1.9446505308151245
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 2,
+            "original_sentence": "To achieve a fair and equal city for everyone, they work on it: the public institutions, such as the city council and other government services. - Citizenship, through NGOs and associations that help people and communities. NGOs: An NGO is a non-government Organization. This means that it does not depend on the government and seeks no money. NGOs work to help people, protect the environment or defend other causes.",
+            "simplified_sentence": "For this purpose, public andquad citizens work for NGOs.",
+            "score": -0.9041643142700195
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 3,
+            "original_sentence": "The Barcelona City Hall destina money to help other countries and communities through international cooperation, in the last few years, has spent almost all the money planned for this goal. Most of these money are dealt through grants. These grants aimed at NGOs and entities working in solidarity projects.",
+            "simplified_sentence": "High level of execution The municipal investment in international cooperation maintains the last few years a high level of execution, over 90%, and is largely channeled through the annual grant creation for NGOs and entities.",
+            "score": -2.2561566829681396
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 4,
+            "original_sentence": "All initiatives are part of the areas and objectives of the Director of Cooperation for the Global Justice.",
+            "simplified_sentence": "All initiatives are taken into those and targets established at the Director of Cooperation for the Global Justice.",
+            "score": -1.090343952178955
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 5,
+            "original_sentence": "Amistt with Ukraine Since Russia invaded Ukraine in February 2022, Barcelona has helped Kív municipal services. Kíïv is Ukraine's capital.",
+            "simplified_sentence": "Amistt with Ukraine Following the Russian invasion of February 2022, Barcelona started helping Ukrainian capital municipal services, Kív.",
+            "score": -0.4811623692512512
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 6,
+            "original_sentence": "First they were given to Kív: fire vehicles, electric generators and health care and rescue materials from within October, a bridge of constant aid was created with a collaboration and friendship between the two cities.",
+            "simplified_sentence": "First, the fire drive was handled, electric and health care generators and rescues of people, and from October on October a stable humanitarian bridge with the signature of a collaboration agreement and friendship between the two cities.",
+            "score": -2.0561835765838623
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 7,
+            "original_sentence": "Places which are more important to receive help by the Barcelona city council has an international cooperation plan that lasts 4 years. It is now applying the fifth plan. This plan is now used to organize how money is used to help other countries and communities. Many of these projects are done with other administrations and entities.",
+            "simplified_sentence": "This fifth plane of international cooperation channels the resources of the Barcelona city council to four areas of global justice and five strategic axes around which the cooperation programmes have been submitted, which largely run into alliances with other administrations and entities.",
+            "score": -1.9835528135299683
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 8,
+            "original_sentence": "The geographical areas that need more aid are: - the Mediterranean, the Middle East, - Africa under Sahara, Mexico, Central America - Caribbean, South America, and in general, the zones in war.",
+            "simplified_sentence": "The prior geographic areas are the Mediterranean and the Middle East, Africa in Southern Sahara, Mexico, Central and Caribbean America, South America, and in general, the conflict areas.",
+            "score": 0.3898189067840576
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 9,
+            "original_sentence": "Actions in South and home The first 3 areas make actions especially in South countries, while the other two do local actions (in Barcelona, Catalonia, Spain, and the European Union).",
+            "simplified_sentence": "Acting in the South and at home the first three strategic axes displeplements mainly in South countries, while the other two incorporate local actions (Barcelona, Catalonia, Spanish state and European Union).",
+            "score": -1.4535512924194336
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 10,
+            "original_sentence": "They can all include actions in processes that happen between countries, regions, or throughout the world. They can help one or more of the issues of global justice, such as equality between men and women and the environment.",
+            "simplified_sentence": "They can all include performances in transnational, regional or global processes, and they can pursue one or more dimensions of global justice (economic, social, gender, or environmental).",
+            "score": -0.45161890983581543
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 11,
+            "original_sentence": "Working from the basis of NGOs supporting communities with difficulty are very important because they know the area they work with. They have good relations with local people, and they are fast and efficient at the time to act. It's also important the experience they have.",
+            "simplified_sentence": "Working from base The role of NGOs of cooperation and development is essential for their knowledge of the land, in addition to their relationships, quality and experience.",
+            "score": -1.3128150701522827
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 12,
+            "original_sentence": "At the same time, they also work: partners, unions, unions, universities, studio centers, companies -- and other groups.",
+            "simplified_sentence": "In parallel, they also work cooperative, unions, universities, research centers, companies and other agents.",
+            "score": -0.235088512301445
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 13,
+            "original_sentence": "For a Barcelona include in Barcelona there are many people and entities working to help others. In 2005, a work group is created called Ccordaudà by a Barcelona Inclusva. This group wants to get a city where everyone is treated with respect and has the same opportunities. In this group, eight59 entities are involved. These entities that have some disabilities: - they have no home, - they have no work, - they have problems with drugs, they have come from another country, - they are women or they need support.",
+            "simplified_sentence": "For a Barcelona include public policies and social tissue influences the action of social justice in a forum source in 2005, the Cautajadian Agreement by a Barcelona Incusva, which is part 859 entities working in areas like persons with disabilities, no home, no stop, drogodependents, women, etc.",
+            "score": -2.4653947353363037
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 14,
+            "original_sentence": "The reality of homeless people in Barcelona, there are many people who don't have a place where they live. According to data from root agencies, there are almost 5,000 people in this situation. These people live in different ways: - almost 1,400 people in the street. - 2800 people live in thebergs or neighborhood centers, which can be public or private. 600 people live in places not ready to live in, such as solar, local ships, or abandoned ships.",
+            "simplified_sentence": "The reality of unsoldism in Barcelona is at least 4,88883 people without home, according to the latest estimates of Arrrels: 1.38 people sleep in the streets, 2803 are covered in public resources and private that exist in the city and 605 more are in informal transactions, i. e. in local solar and deuses.",
+            "score": -2.211380958557129
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 15,
+            "original_sentence": "And the lack of housing is just one of the social emergency that needs to attend.",
+            "simplified_sentence": "And the lack of housing is just one of the social emergency that needs to attend.",
+            "score": 0.10636816918849945
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 0,
+            "original_sentence": "Subvenations of Barcelona's city and district activities and services. It starts the Manries bills to identify this procedure for grants, which are for support, which can ask for people or entities who do activities or not want to earn money. These services and services can be done in the city of Barcelona or outside the city, if they help to meet other sites in Barcelona.",
+            "simplified_sentence": "Subvenations of the Barcelona City city's Council of activities and city services begin the bill of supportation This procedure allows for grants to people and entities carrying out activities and non-profit services in Barcelona County, or outside of this country, if they contribute to promoting outside of the city.",
+            "score": -1.888207197189331
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 1,
+            "original_sentence": "What can you do with this procedure? With this bill you can also: Download the form to explain your project. - Attaching documents - Other communications related to aid. Both of the current summons, and the year of 2024",
+            "simplified_sentence": "It also allows to download the form of the project description and attach complementary documents, such as the rightification of expenses, reformations, and other communications, both of the current summons and the 2024s.",
+            "score": -1.9593780040740967
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 2,
+            "original_sentence": "You can consult more information about the rules to ask for subvenation and issues that can be subscribed to the website of the general grants of the Barcelona city council: a subvenation is an economic help which gives an administration as the city council, Generality or State to an entity, or company to make some activity or project.",
+            "simplified_sentence": "You can get more information about bases and thematic areas on the general summons website.",
+            "score": -0.0956336110830307
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 3,
+            "original_sentence": "You can present your application: From 9 to 29 January 2025 both days included",
+            "simplified_sentence": "Tramit_Page. Used presentations: 9 to 29 January 2025, both included.",
+            "score": -1.5232454538345337
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 4,
+            "original_sentence": "You must present the rightification of the project as maximum, two months after the project has finished subtitled. Justify: it's a document or set of documents that serve to prove that money from a help or subvention has been used well.",
+            "simplified_sentence": "• Justification presentation: maximum of two months since the end of the sub-ventive project.",
+            "score": -1.5397844314575195
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 5,
+            "original_sentence": "The subvention gives money for half the total cost of the project.",
+            "simplified_sentence": "Tramit_Page.price Per rule, subvenation does not cover more than 50 %s of the total cost of activities or services.",
+            "score": -1.6639752388000488
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 6,
+            "original_sentence": "You can look at how much money can be asked in the Out of the summons that is called the Fypation and imports",
+            "simplified_sentence": "See the sub-inserable task force in the back of the budget and imports of the summons.",
+            "score": -1.3085699081420898
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 7,
+            "original_sentence": "This bill is free.",
+            "simplified_sentence": "This bill is free.",
+            "score": 0.21518956124782562
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 8,
+            "original_sentence": "People and entities can only do Internet processing.",
+            "simplified_sentence": "Tramit_Page. Important_Intellation • physical persons and entities are forced to do online processing.",
+            "score": -1.153379201889038
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 9,
+            "original_sentence": "You can find help and resources materials to understand better how municipal subsidies work.",
+            "simplified_sentence": "• Get more information about resources and support materials for municipal subsidies.",
+            "score": -0.6456011533737183
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 10,
+            "original_sentence": "How to apply the procedure, you can use different systems to identify you and sign them in a way of the acronic: -idCATular or Cl@ve: receive a password to use once on your phone. - DON electronic. - idAT Certificate or other digital certificates supported by public administrations.",
+            "simplified_sentence": "Supported methods This procedure supports the following identification and electronic signing systems: • idCAT Mobile and Cl@ve (based on sending passwords from a single usage on mobile phone).",
+            "score": -1.5596365928649902
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 13,
+            "original_sentence": "You can query the complete list of digital certificates on the trusted email service web.",
+            "simplified_sentence": "You can consult them in the address engine for trusted services in the Spanish State.",
+            "score": -1.669417381286621
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 14,
+            "original_sentence": "If you want more information, see this link",
+            "simplified_sentence": "See this link for more information.",
+            "score": 0.1288398802280426
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 15,
+            "original_sentence": "How do you do that?",
+            "simplified_sentence": "How do you do that?",
+            "score": 0.09118378162384033
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 16,
+            "original_sentence": "Select a option: Description of the project you can choose between two options: - Download and fill a template called basic document 2. - writing your own document.",
+            "simplified_sentence": "Select a option: Project Description: You can choose to download and fill in the project description template (the basic document 2) or make up a document.",
+            "score": -0.04530477151274681
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 17,
+            "original_sentence": "If you want to write your document to explain the project you will find a guide where all the points needed to be done.",
+            "simplified_sentence": "If you opt to draw your own project description document, you will find a \"Guia\" in which all the necessary points for your correct drawing.",
+            "score": -1.639526128768921
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 18,
+            "original_sentence": "Help and subsidies request: You can do your application during the period provided for creation.",
+            "simplified_sentence": "Help and subsidies request: It will allow you to draw the application for subvenation within the calling application presentation.",
+            "score": -1.649584174156189
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 19,
+            "original_sentence": "Attaching documents: If you have already made the application online, you can also add new documents to complete it.",
+            "simplified_sentence": "Print documents to registered requests: allows you to attach documentation that complement a request already present by telemmatic log.",
+            "score": -2.459404230117798
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 20,
+            "original_sentence": "You can also send the right accounts for money spent in each project.",
+            "simplified_sentence": "You can also present the right accounts for the expenditure made out of each project presented.",
+            "score": -0.25838029384613037
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 21,
+            "original_sentence": "Fill in the form.",
+            "simplified_sentence": "Fill in the form.",
+            "score": 0.14172427356243134
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 22,
+            "original_sentence": "Attach the project description document if you ask for subvenation. This document is called basic document 2. If you only add documents to an already created application, attach the supplementary documents.",
+            "simplified_sentence": "Append the project's description document ( basic document 2), if you ask for subvenation request, or supplementary documentation, in case of document exports to already registered requests.",
+            "score": -1.6773351430892944
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 23,
+            "original_sentence": "Check that the data is okay.",
+            "simplified_sentence": "Confirm data.",
+            "score": -0.39437317848205566
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 24,
+            "original_sentence": "Send Internet Request",
+            "simplified_sentence": "Present the application to the telemmatic log.",
+            "score": -1.1616870164871216
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 25,
+            "original_sentence": "What happens after the procedure?",
+            "simplified_sentence": "What happens after the procedure?",
+            "score": 0.04210503771901131
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 26,
+            "original_sentence": "When the test is done: •Gard or print the account of the procedure. The right-justification is in a format called PDF.",
+            "simplified_sentence": "Once the bill is done, we recommend to save it to you by justify PDF or printing it.",
+            "score": -1.052477240562439
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 27,
+            "original_sentence": "The council will review the documents and publish a first result with their decision.",
+            "simplified_sentence": "• The city council will review the documents and publish the temporary resolution and the documents to present.",
+            "score": -1.5938057899475098
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 28,
+            "original_sentence": "If you have to present more documents or make any complaint, you will have 10 days to do so. You have to go to the option called Annexion of documents to already restriculate requests",
+            "simplified_sentence": "• If you have to present a document or make allegations, you will have 10 days to do it through the option illa Annexion of documents to already registered devices.",
+            "score": -1.4770981073379517
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 29,
+            "original_sentence": "After that, the city council is going to review all information and claims, it will post the final decision.",
+            "simplified_sentence": "• The city council will review the documents and allegations and publish the final resolution.",
+            "score": 0.05963214859366417
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 30,
+            "original_sentence": "When will you get an answer from the city council?",
+            "simplified_sentence": "When will you get an answer from the city council?",
+            "score": 0.17181898653507233
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 31,
+            "original_sentence": "You'll have an answer as maximum 6 months after you close your time to present your requests.",
+            "simplified_sentence": "The maximum term for receiving an answer is 6 months since the application period ends.",
+            "score": 0.05404268577694893
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 32,
+            "original_sentence": "If you haven't received any answers this time, it means that subvention hasn't been passed and you won't have subvention.",
+            "simplified_sentence": "In case you don't get any response in this period, your request hasn't been approved and you won't receive sub-vention.",
+            "score": 0.6404989957809448
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 0,
+            "original_sentence": "It's a good place to live, but here's tax, everyone has to pay taxes, even if you don't have revenue!",
+            "simplified_sentence": "Imposted on Image Barcelona income is a great place to live, but there are taxes, even if you don't have revenue!",
+            "score": -1.429063320159912
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 1,
+            "original_sentence": "The taxes are necessary and they can't be avoided, even if no one likes it.",
+            "simplified_sentence": "Even if no one likes to pay them, they're necessary and inevitable.",
+            "score": 0.04326329752802849
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 2,
+            "original_sentence": "In Spain, the tax system is complicated.",
+            "simplified_sentence": "The Spanish tribe system is complex.",
+            "score": 0.25347185134887695
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 3,
+            "original_sentence": "This summary will help you understand the primary taxes people pay, it's mostly thought for people from another country who come to live in Barcelona.",
+            "simplified_sentence": "So in this section, you will find basic information about the main tribe affecting physical people -- with a special focus on the people of foreign origin who move to live in our city.",
+            "score": -0.2724512219429016
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 4,
+            "original_sentence": "If you have important doubts, you'd better talk to an expert that will give you all the necessary information.",
+            "simplified_sentence": "To counsel a prosecutor or legal advice, or to solve concrete issues, we recommend that you contact specialists.",
+            "score": -1.534599781036377
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 5,
+            "original_sentence": "What taxes do people pay in Spain? IRPF: if they live in Spain in a common way.",
+            "simplified_sentence": "In Spain, the performances that provide physical people are subject to taxation in the following taxes: • IRF for prosecutors' residents in Spain.",
+            "score": -2.046368360519409
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 6,
+            "original_sentence": "IRNR: if you don't live in Spain but you have revenue here, IRNR means Impost on the gross income of Nosids",
+            "simplified_sentence": "• IRNR for non-citizens who get reindeer in Spain.",
+            "score": -1.1352829933166504
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 7,
+            "original_sentence": "If you receive a inheritance or a donation you'll have to pay a tax called IDS. IDS means Impost about Sucions and Women.",
+            "simplified_sentence": "Be aware that if you receive a donation or inheritance, the no tribe for any of these taxes, but by the tax bet on juices and donations (IDS), in their case.",
+            "score": -2.3025286197662354
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 8,
+            "original_sentence": "If you are not Spanish but come to work for a while, it is important that you know a law known as Beckham Act. This law allows foreign people to work in Spain to pay less taxes.",
+            "simplified_sentence": "Besides, if you're a Spanish worker, it's also interesting for you to meet the popularity called Beckham Act.",
+            "score": 0.11769910156726837
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 9,
+            "original_sentence": "There's a tax that pays when you don't have revenue and live from your savings.",
+            "simplified_sentence": "You also need to know there's a tax that's paid even if you don't have revenue and live from your savings.",
+            "score": 0.6311203837394714
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 10,
+            "original_sentence": "This tax is called Impost on the heritage (IP) and explained later.",
+            "simplified_sentence": "It's the tax on the heritage (IP), which explains later.",
+            "score": 0.11256638169288635
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 11,
+            "original_sentence": "Sometimes it is mandatory to present an information document if you have money or properties out of Spain, to do so fill the 720 Model for the heritage you have outside Spain, or Model 721 if you have cryptoides out of Spain.",
+            "simplified_sentence": "Another important question is that, in certain circumstances, it is mandatory to present an information statement about the heritage you own outside Spain, through the 720 Model for goods and rights located abroad and Model 721 for crypto minemones.",
+            "score": 0.13035522401332855
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 12,
+            "original_sentence": "Even if you don't have to pay anything, if you don't present these documents, you can be fined.",
+            "simplified_sentence": "Although it has only validity and you don't pay tributes, if you don't make the statement, you can have economic sanctions.",
+            "score": -0.7808766961097717
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 13,
+            "original_sentence": "IRPF (Impost on the income of physical people) IRPF is a tax that should pay the people who live in Spain. This tax is calculated to take account of revenue and personal situation and family.",
+            "simplified_sentence": "Impost on the income of physical people (IRPF) the IRPF is a tribute that drives the income of physical residents (in direct terms) in Spain according to their personal and family circumstances.",
+            "score": -1.2476115226745605
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 14,
+            "original_sentence": "The statement can be presented in individual or joint form.",
+            "simplified_sentence": "The statement can be presented in both individual and joint ways.",
+            "score": 0.184120312333107
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 15,
+            "original_sentence": "The joint statement can make: • married people, with or without children and child children under age or with children and daughters older than age in prison for judge.",
+            "simplified_sentence": "This last option will be possible for: • married persons, be without children/ children (intentions of age or major inability).",
+            "score": -1.663306713104248
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 16,
+            "original_sentence": "• Different people in a legal way and couples indeed: - who have children or children of age, - or have older children and daughters intention for the judge. Couple of fact: they are two people living together like marriage, but they are not married. In fact they must live together for a while, and they must be registered as an official record couple.",
+            "simplified_sentence": "• legally separated people and couples in fact with children in charge (the oldmen or major inability).",
+            "score": -2.4058146476745605
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 17,
+            "original_sentence": "Only one parent can make a joint statement with children and daughters.",
+            "simplified_sentence": "In this case, only one of the progenitors can present the joint statement with the children.",
+            "score": -0.6604868769645691
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 18,
+            "original_sentence": "• When do you understand that the prosecutor's residence in Spain?",
+            "simplified_sentence": "• When do you understand that the obligation has the prosecutor's residence in Spain?",
+            "score": -0.5025532841682434
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 19,
+            "original_sentence": "• a) the living attribute of more than 183 days a year in Spanish territory.",
+            "simplified_sentence": "• a) The agreement is longer than 183 days during the natural year (from January 1 on December 31) in Spanish territory.",
+            "score": -1.4708302021026611
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 20,
+            "original_sentence": "• b) the obligation to Spain has your primary job or economic interests.",
+            "simplified_sentence": "• b) Radiusca in Spain its main core or the basis of their activities or economic interest (innominated as well as the center of vital interests).",
+            "score": -2.187539577484131
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 21,
+            "original_sentence": ") They live in a common way the co-njuge of the connjuge of the signing of the legal way, and children and child daughters, if they depend on the signing, except if they show the opposite. Colojuge: is the person you're married or married. This means you've made a legal marriage and you're a legal couple. If you have a husband or wife, or he's your conjuge.",
+            "simplified_sentence": "• c) When it regularly resides in Spain its conjuge does not separately legally and the younger children who depend on this one, except proof otherwise.",
+            "score": -2.308884382247925
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 22,
+            "original_sentence": "What do you have to pay with IRPF?",
+            "simplified_sentence": "• What do IRPF record?",
+            "score": -1.0328627824783325
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 23,
+            "original_sentence": "IRPF is paid for money that earns the contract and for what he earns or loses from his heritage, such as selling a house or actions, it doesn't matter where these facts or where the person who pays.",
+            "simplified_sentence": "• The IRPF object is the performances of the contributions and gains and heritage losses, with independence from where they have been produced and what the payr residence is.",
+            "score": -2.2556183338165283
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 24,
+            "original_sentence": "This tax also pays for some money that hasn't been charged directly, but are considered as profit.",
+            "simplified_sentence": "• one of the peculiarities of this tax is in the tribulation by certain imputations of income.",
+            "score": -2.1349010467529297
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 25,
+            "original_sentence": "These are revenues you're supposed to have.",
+            "simplified_sentence": "These are some alleged revenues for the I.R.S., i., i. stocking those charges.",
+            "score": -1.875354528427124
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 26,
+            "original_sentence": "For example, a person has an apartment where he lives and one has another flat where he doesn't live and he doesn't have the rent, but he doesn't have anything to charge for this second floor, he has to pay the IRPF as if he makes money.",
+            "simplified_sentence": "An example is given when, apart from their main housing, one person has another property housing that is not rented.",
+            "score": -0.8367205858230591
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 27,
+            "original_sentence": "• In general, IRPF is paying for money that you earn: Antarctica the money that promotes the working people for work.",
+            "simplified_sentence": "• In general, performances related to the IRPF are: • job performances, such as the salary that perceives a worker or pension.",
+            "score": -1.5866267681121826
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 28,
+            "original_sentence": "Economic activities Performance: it's the money you win for your work if you have your own business. For example: if you're autonomous and offer services or sell products.",
+            "simplified_sentence": "• economic activity performances, such as performances obtained by a standalone worker who has a business.",
+            "score": -2.0095949172973633
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 29,
+            "original_sentence": "• Yields of the family capital: it's money you receive to get invested money. For example: the interests of a bank account, loan or profit to have actions. It's money you receive to have properties. For example: money from the rent of a flat or local that is yours.",
+            "simplified_sentence": "• the performances of the mybriary capital, including the interests of bank accounts or loans, the splits of stocks, etc. • the performances of the real estate capital, as for example the perceived revenue for the rent of an imble of your property.",
+            "score": -2.524170160293579
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 30,
+            "original_sentence": "The reindeer imputments are revenue that you're supposed to have, even though you haven't paid them. For example, if you have an empty floor, you won't hire, the I.R. may consider that you're paying money, according to your value.",
+            "simplified_sentence": "• The reindeer imputments, such as the suspicious performance that the I.R.I. gives you depending on the value of an immoble of your property you have not rented.",
+            "score": -2.0506598949432373
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 31,
+            "original_sentence": "Gains and heritage losses are the money you can earn or lose when you sell a flat, a house or actions.",
+            "simplified_sentence": "• Gains and heritage losses, such as gain or loss obtained in the sale of a stock or an immble.",
+            "score": -2.0725061893463135
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 32,
+            "original_sentence": "How much is it paid?",
+            "simplified_sentence": "How much is it paid?",
+            "score": 0.1117371916770935
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 33,
+            "original_sentence": "IRF is a progressive tax. That means that the more money you earn, the more tax you have to pay.",
+            "simplified_sentence": "• IRPF is a progressive tax, which means its kind of gravel is increasing as revenue, revenue and income gains.",
+            "score": -1.6499590873718262
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 34,
+            "original_sentence": "To know how much tax a person has to pay for IRPF first is calculated a amount called liquidable base. This amount includes money, decompensing some expenses or reductions according to personal and familiar situation.",
+            "simplified_sentence": "• To determine how much each attribute must be paid by IRPF is determined a amount called the liquidable base, which are included in the clean revenue of deductions and tax reductions according to personal and family circumstances.",
+            "score": -1.3128637075424194
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 35,
+            "original_sentence": "In IRPF, taxes are calculated according to what you win. The more money you win, the more tax you have to pay, this is done to make the system fairer.",
+            "simplified_sentence": "• on the liquidable base apply a percentage or imposed number of IRPF which represent a progressive scale, as it is intended for people who win the most people who pay most.",
+            "score": -2.275813341140747
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 36,
+            "original_sentence": "The tax types are equal to all Spain. You need to add the imposed kinds of individual community. This means that you can pay a different amount depending on where you live. It's the tax percentage a person needs to pay depending on the money you earn or get. The higher you have, the higher the percentage is this percentage and you pay more taxes.",
+            "simplified_sentence": "• national imposed (state-state) imposed by IRPF are equal to all of Spain, but these types need to also add self-atomic imposed imposed countries.",
+            "score": -2.3539507389068604
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 37,
+            "original_sentence": "If you live in Barcelona you have to look at the kind of impossibleness that apply to Catalonia.",
+            "simplified_sentence": "That's why you live in Barcelona, you have to look at the corresponding actual imposences in Catalonia.",
+            "score": -0.36773088574409485
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 38,
+            "original_sentence": "The marginal type is the highest tax percentage a person can afford. It applies to the highest percentage of revenue.",
+            "simplified_sentence": "• The marginal type is the highest you can pay for a matching, i. e. the highest percentage stretch that applies to your liquidable base.",
+            "score": -2.336989641189575
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 39,
+            "original_sentence": "In Catalonia, the most marginal type that can be applied is the half of what you win in the highest revenue stretch. This half is dealt like this: A part of the Spanish State is accomplished.",
+            "simplified_sentence": "In the case of Catalonia, the latest marginal type has been 50% (24,50% state writer + 25,50% audio autonomic).",
+            "score": -1.8887330293655396
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 40,
+            "original_sentence": "In all Spain, no matter which autonomous community you live in, there's a general rule: money you win to get money in the bank, by actions or to sell a house, they have to pay taxes, the amount of money you pay may be lower or higher, according to the money you earn with these operations.",
+            "simplified_sentence": "• On the other hand, you have to know that, with general character, whether the autonomous community resides in, the performances of the family capital and the heritage gains are subject to the kind of decline that ranges between 19% and 28 percent.",
+            "score": -2.4567341804504395
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 41,
+            "original_sentence": "• What expenses can you subtract from income's statement?",
+            "simplified_sentence": "What can I do with my rent?",
+            "score": 0.23683185875415802
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 42,
+            "original_sentence": "• The expenses you can subtract can be different depending on whether they are for all of Spain or only for your autonomous community.",
+            "simplified_sentence": "• allowed deductions would also vary depending on whether it is a general deduction or self-noomics.",
+            "score": -1.6539089679718018
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 43,
+            "original_sentence": "Right now, there are several general deductions that you can apply to your statement. For example: - If you've invested money in a new company or a company created a little while ago. - If you've done business or contributes to entities. - If you've done work to improve the energy efficiency of your housing. Remember: every autonomous community has its own deductions. So they can change depending on where you live.",
+            "simplified_sentence": "• So, currently between general deductions, you can find the reduction of investment in new or recent creation companies, for women and other inputs, for improvement of energy efficiency in housing, etc.",
+            "score": -2.5230748653411865
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 44,
+            "original_sentence": "In Catalonia today, various deductions are allowed. Some of these deductions are: - For birth or child adoption. - For a little bit of life (when the partner dies) - for rehab works in the housing where you live. - For certain women. Remember: If you are new ones and live on rent, you will not be able to deduce the monthlyities of the rent.",
+            "simplified_sentence": "Thus, currently in Catalonia, among others, the portions of birth or adoption, for liveitting, for regular housing rehab, for certain females, for investment for an angel investor for acquisition of new agencies or recent creation, etc. Finally, remember that if as a new generation of rent, you will not be able to deduce these monthlyities.",
+            "score": -2.4237759113311768
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 45,
+            "original_sentence": "If you recently bought a place where you're living, you won't be able to degrade your mortgage.",
+            "simplified_sentence": "Otherwise, if you recently bought an immmoble and live there, you won't be able to degrade the mortgage.",
+            "score": -0.47379520535469055
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 46,
+            "original_sentence": "• When is IRPF's statement present? The statement of IRPF is known as the income statement.",
+            "simplified_sentence": "• When does IRPF declaration occur?",
+            "score": -0.13445277512073517
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 47,
+            "original_sentence": "• The statement of IRPF can be presented until June 30 a year. For example, the reindeer in the year 2023 are declared and the bet is paid until June 30, in 2024.",
+            "simplified_sentence": "• Normally, the statement of IRPF must be presented until June 30 a year (e.g. 2023's reindeer are declared and the bet is paid until 30.06.2024).",
+            "score": -0.505334734916687
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 48,
+            "original_sentence": "The statement of income can be made from the first week of April, which means you have 3 months to do it.",
+            "simplified_sentence": "Normally, the presentation has been achieved since the end of the first week of April, so you have nearly three months.",
+            "score": -0.4509960412979126
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 49,
+            "original_sentence": "It's important to look at the prosecutor's calendar every year to know exact dates.",
+            "simplified_sentence": "However, it is convenient to review the fiscal calendar every year.",
+            "score": 0.4507128596305847
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 50,
+            "original_sentence": "If you present the statement later in June 30, volunteerly, without the Tributary Agency asked you to pay more.",
+            "simplified_sentence": "• In the presentation case of IRPF's statement in voluntary form (no request from the Tributary Agency) outside term, you'll have to pay more.",
+            "score": -1.7606537342071533
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 51,
+            "original_sentence": "This extra payment can be a commission or interest, according to the days that have passed since June 30 to the day you paid the bet. Checking: This is a amount of money that is added to the payment of a tax.",
+            "simplified_sentence": "Well a commission or interests of delaying for delayed payment, depending on the time elapsed from the date limit (30 June) and the date where you made the payment of the tax.",
+            "score": -2.1044468879699707
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 52,
+            "original_sentence": "Can you present an income declaration in a joint way?",
+            "simplified_sentence": "Can IRPF declaration be presented in a joint manner?",
+            "score": -0.4651981294155121
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 53,
+            "original_sentence": "The income statement is often presented in an individual way.",
+            "simplified_sentence": "IRPF's statement is usually presented in an individual way.",
+            "score": -0.4373065233230591
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 54,
+            "original_sentence": "But people who are part of a family unit can do it together.",
+            "simplified_sentence": "However, people who are part of a family unit can present it together.",
+            "score": 0.3478202223777771
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 55,
+            "original_sentence": "The joint statement may present it: • married people, with or without children and child children under age, or with children and daughters older than age intention for the judge.",
+            "simplified_sentence": "Heavy features, can present the set statement: • married persons, be without children or children with children/mens of age or old inability.",
+            "score": -2.0935556888580322
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 56,
+            "original_sentence": "• Different people in a legal way and couples in fact: - who have children or child daughters under old care - or have children and children who have older sons and daughters of age intention for the judge.",
+            "simplified_sentence": "• legally separated people and couples in fact with children in charge (year-oldmen or major inability).",
+            "score": -1.9433810710906982
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 57,
+            "original_sentence": "In this case, only one of the parents or mothers can present the joint statement with children or daughters.",
+            "simplified_sentence": "In this case, only one of the progenitors can present the joint statement with the children.",
+            "score": -0.005348254926502705
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 58,
+            "original_sentence": "It's important to know that, if a family makes a statement from the joint income, it can have a discount. This happens when the family's made up of conjuges that are not separated by law and children or children who live with them.",
+            "simplified_sentence": "It is important to highlight that there is a reduction of the imposed base for the set of families integrated by the two conjuges not legally separated and, if there is, for children/ minors who become with them.",
+            "score": -2.322148561477661
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 59,
+            "original_sentence": "It's an tax tax to pay for companies or people who don't live in Spain, but make money here. This tax serves to pay for what is won inside Spain, even if you live in another country.",
+            "simplified_sentence": "Imposted on residents' income (IRNR) Thepost on residents' income of non-RRR is a direct character tribe that registered income in Spanish territory by physical people and non- residents in Spain.",
+            "score": -2.379234552383423
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 60,
+            "original_sentence": "If you have a flat or a house in Spain and you don't have it rent, you have to pay for this tax as well.",
+            "simplified_sentence": "In case of immobles goods that do not generate reindeer as such (for example, because they are not rented), it also applies this tax, as we explain later.",
+            "score": -2.003056764602661
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 61,
+            "original_sentence": "The special prosecutor for people who come to work in Spain, there is a special rule for people who come to work in Spain, and this rule was created to attract highly skilled professionals, with the aim of improving Spanish companies and helping them become more competitive to international level.",
+            "simplified_sentence": "It involves a special prosecutor's rule of work which applies to Spanish workers (Lastackham), there is a special regime for people who moved to the Spanish territory that was conceived in order to attract highly qualified people to improve internationalization and competitiveness of local companies.",
+            "score": -0.8619425296783447
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 62,
+            "original_sentence": "This special regime is known as Law Beckham. It's called this because some football clubs used it to hire foreign players, one of the first to benefit from it was the footballist David Beckham.",
+            "simplified_sentence": "This regime is popularly known as Law Beckham because initially some football clubs used it for players, and the English footballer David Beckham was one of the first to benefit from this special regime.",
+            "score": 0.3252179026603699
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 63,
+            "original_sentence": "Now the law doesn't allow people to run on sports in a professional way to use this special regime.",
+            "simplified_sentence": "Despite that, currently the law excluded the special regime's professional sportsists.",
+            "score": -0.05595405027270317
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 64,
+            "original_sentence": "If a person comes to live and work in Spain, he can choose to pay taxes as if he did not live here in a common way, even if he actually resides. This is possible according to current regulations.",
+            "simplified_sentence": "According to the ongoing regulation, the physical people who collect the prosecutor's residence in Spain, as a result of their movement in Spanish territory, for career reasons, may choose to tribe to the IRRR, despite being a fact of financial residents.",
+            "score": -2.4727864265441895
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 65,
+            "original_sentence": "With recent changes in the law, this special regime is no longer just for people with a lot of training. They can also access digital nhomies, people who create companies and invest in new companies recognized as popups. Digital people: they are workers who don't have a office. They are working with a computer and internet connection. They can live and work from different countries or Company. This is a new company that has a different and creative idea. They want to grow fast and grow to a lot of people.",
+            "simplified_sentence": "Thanks to recent legislative changes, not only highly qualified people can benefit from this regime, but also digital nhomodes and people who use reverses in companies that are pop-up.",
+            "score": -1.8127676248550415
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 66,
+            "original_sentence": "How many years can the Beckham Act apply?",
+            "simplified_sentence": "What's the application time for Law Beckham?",
+            "score": -0.3186190128326416
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 67,
+            "original_sentence": "The Beckham Act can be applied for six years: the year that the person reaches Spain and the next five years.",
+            "simplified_sentence": "The Beckham Act is applicable in the period where the residence change is performed and during the five imposed periods of the following (1+5).",
+            "score": -2.2311360836029053
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 68,
+            "original_sentence": "An example: A working person is arriving in Spain on September 2024. They approved this special regime, which will begin to apply in 2025, which is when it happens to be a prosecutor's resident in Spain. The Beckham Act would be applied for 5 years until 2030 years.",
+            "simplified_sentence": "For example, if a working person scrolls to Spain on September 2024, he requests the application of this prosecutor's regime, and they grant it, this law will be applied since 2025 (first year) and the next 5 years are applied to 2030.",
+            "score": -1.073460578918457
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 69,
+            "original_sentence": "Another example: If the person starts working in Spain on May 2024 this year already counts as the first year of prosecutor's residence. Therefore, he can apply the Beckham Act from 2024 to 2029.",
+            "simplified_sentence": "However, if the shift and beginning of labor activities begin with, for example, May 2024, the validity of this special prosecutor's regime will cover the period of 2024-29 years, considering 2024 the first year of the prosecutor's residence in Spain.",
+            "score": -1.7456707954406738
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 70,
+            "original_sentence": "What are the requirements to be granted to the Beckham Act?",
+            "simplified_sentence": "What are the requirements for the Beckham Act?",
+            "score": 0.5781131982803345
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 71,
+            "original_sentence": "In order to choose this special regime, these conditions should be kept: a) not to have lived in Spain as a resident of prosecutor for the past five years before the transfer.",
+            "simplified_sentence": "To choose this special regime, the following conditions must be met: a) should not have been resident in Spain during the five previous imposed periods of the movement.",
+            "score": 0.17502416670322418
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 72,
+            "original_sentence": "The transfer can be done if any of these situations happen: they use a work contract with a Spanish company, unless in the case of professional sportsmen. Or the company where you work, they send you to work elsewhere and give you a letter to move it.",
+            "simplified_sentence": "b) that the scrolling occurs as a result of some of the following circumstances: • a work contract (such as professional sportsmen) with a Spanish company or when the offset is ordered by the employer and a letter of this offset exists.",
+            "score": -2.298316717147827
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 73,
+            "original_sentence": "• the manager of a Spanish company.",
+            "simplified_sentence": "• the acquisition of the administrator condition in a Spanish society.",
+            "score": -1.2402023077011108
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 74,
+            "original_sentence": "The rule that used to say that it could not have less than a quarter of the company, now only applies if the company is a heritage, which means that if the company serves only to have money or property, then it does keep that limit.",
+            "simplified_sentence": "(The prior measure of the performance of lower participation at 25% in this company is now maintained for heritage companies).",
+            "score": -2.09743070602417
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 75,
+            "original_sentence": "• grant the residence license to Spain thanks to the visa for people working on the Internet from another country (nomodes digital) Visat: it's an official document that can be entered and live in another country for a certain time.",
+            "simplified_sentence": "• Get out of residence through an international TV visa.",
+            "score": -0.065107062458992
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 76,
+            "original_sentence": "Important: This visa is not for European citizens, since they don't need this visa to live or work in Spain.",
+            "simplified_sentence": "Important: This visa is not applicable for people with European citizenship.",
+            "score": 0.46396324038505554
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 77,
+            "original_sentence": "• to start a project or new business in Spain according to the Act 14/2013.",
+            "simplified_sentence": "• Realization of a consumer activity according to the terms of the Act 14/2013.",
+            "score": -1.2372254133224487
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 78,
+            "original_sentence": "• to do a very specialized job for new and innovative companies, or to do training and research on new issues.",
+            "simplified_sentence": "• borrowing professional services highly qualified to innovative emerging companies or implementation of training and research in innovation.",
+            "score": -2.2076356410980225
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 79,
+            "original_sentence": "(Laughter) That money is not won as if you have a fixed or office in Spain.",
+            "simplified_sentence": "(Laughter) That they didn't get washed up who was referred to as obtained by permanent establishment in Spain.",
+            "score": -1.6716492176055908
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 80,
+            "original_sentence": "It's very important to know that there is a deadline to ask for this special regime.",
+            "simplified_sentence": "It's very important to highlight that there's a deadline to choose for this special regime.",
+            "score": 0.41616755723953247
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 81,
+            "original_sentence": "If you want to use this special regime, you have to ask the Tributary Agency. You have until 6 months to do so, counting from the day you get high on Social Security in Spain, if you don't get high on Spanish Social Security because you're still covered by your country before, you can also ask for this regime. In this case, you have to bring documents that prove it.",
+            "simplified_sentence": "If you want to take him in, you'll have to apply to the Tributary Agency as maximum in the next six months since the high date of Social Security in Spain or the documentation that allows you, if it is your case, the maintenance of Social Security legislation in the previous country of residence.",
+            "score": -2.0637154579162598
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 82,
+            "original_sentence": "If you don't do the paperwork within the set term, you'll lose this opportunity so good.",
+            "simplified_sentence": "If you don't do it during this deadline, you'll lose this advantageous opportunity.",
+            "score": 0.17223604023456573
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 83,
+            "original_sentence": "There are conditions and special cases according to which you come to work in Spain, which is recommended for you to talk to a lawyer or lawyer who knows this issue.",
+            "simplified_sentence": "It is crucial to note that there are certain requirements and exceptions regarding the conditions that motivate the move to Spain; therefore, it is important to review your particular situation with an attorney or a specialist.",
+            "score": 0.3293294906616211
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 84,
+            "original_sentence": "There's also an important novelty: some family from the person who uses this special regime can seize it.",
+            "simplified_sentence": "Finally, you need to highlight another recently introduced novelty about applied to relatives of people in this fiscal regime's headlines.",
+            "score": -1.938800573348999
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 85,
+            "original_sentence": "From now on they can also do it: their husband or wife, or father or mother of children and daughters, even if they are not married, if they meet any requirements, and children under 25 or any age if they are handicapped.",
+            "simplified_sentence": "From now on, they will be able to host the regime: • the conjuge of the host person in this regime (or in the assumption of marrying marriage, the progenitor of children), as long as they meet certain conditions; and their children under 25 years or any age in case of disabilities.",
+            "score": -2.122082233428955
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 86,
+            "original_sentence": "What advantages does Law Beckham have?",
+            "simplified_sentence": "What are the main incentives for the Law Beckham?",
+            "score": 0.20365051925182343
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 87,
+            "original_sentence": "With the Beckham Act, the person who has only to pay taxes for the money earnings in Spain, except for wages or wages, who tribees the whole thing, whether he pays a company from here and is from another country.",
+            "simplified_sentence": "In the frame of Law Beckham, the person whose tributeally obtained in Spanish territory, except for job performances, whose subjects remain to tribe in their full independence from the place they have produced and what residence they are paid for.",
+            "score": -2.28859543800354
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 88,
+            "original_sentence": "In other words, although you live and work in Spain, if you use the Beckham Act, you are considered that you are not tax residents in Spain to tax effects.",
+            "simplified_sentence": "In other words, despite being a prosecutor's resident in Spain, the person has the prosecutor's treatment applies to non- fiscal residents.",
+            "score": -0.8997851014137268
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 89,
+            "original_sentence": "The claim that money is paid is fixed, it doesn't change. It's paid for a 24% tax fee for the first 600,000 dollars to win. If you earn more than 600,000 euros, you have to pay a higher tax, almost 50% for the part that passes from that amount.",
+            "simplified_sentence": "The negative type applies is fixed (the difference of IRPF), 24% to 600,000 euros and 47% for the excess.",
+            "score": -2.086949110031128
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 90,
+            "original_sentence": "The money they earn for bank interests, money from the company or to sell stock, they have another tax that can go from 19% to almost 30 percent according to the amount.",
+            "simplified_sentence": "However, divided them, interests and earnings of the capital will tribute to an imposed union between 19% and 28 percent.",
+            "score": -2.194537401199341
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 91,
+            "original_sentence": "Although this prosecutor's regime can pay less taxes, you need not to know that there are some expenses, as they can do people who tribe as residents.",
+            "simplified_sentence": "It's important to realize that, even if you get a very high prosecutor's economy, certain expenses and concepts are not dedusable (a difference in IRPF applies to prosecutors' residents).",
+            "score": -1.259374737739563
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 92,
+            "original_sentence": "There are also two more benefits for taxpayers who apply the Beckham Act: • only have to pay for the money worth of goods or money in Spain.",
+            "simplified_sentence": "Finally, it is interesting to highlight two additional advantages for the taxpayers to which the Beckham Act is applicable: they are subject to the host of the heritage (IP) solely for goods or rights of which are headlines and that are located or can be practiced or must be served in Spain.",
+            "score": -2.114095449447632
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 93,
+            "original_sentence": "• They must not inform the goods or money outside Spain. In exchange for residents to report with forms that are called 720 Model and Model 721.",
+            "simplified_sentence": "• They have no obligation, unlike prosecutor residents, to inform their goods and rights outside Spain through the 720/721 Model.",
+            "score": -0.22341348230838776
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 94,
+            "original_sentence": "* More information to finish, we want to remind you that this information we've given you applies only to physical people, that is, to individual people, companies have their own system.",
+            "simplified_sentence": "For more information to finish, we want to remember that all this information is applicable to physical people (people), and that Egyptian people have their own tribe system.",
+            "score": 0.22270797193050385
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 95,
+            "original_sentence": "If you want to create a company in Barcelona or open a branch of a foreign company, it is recommended for you to consult with expert people as companies rules are different.",
+            "simplified_sentence": "So if you want to create a new company in Barcelona or, for example, set up a branch of a foreign company, we'll advise you to consult the relevant information with specialists.",
+            "score": 0.29947173595428467
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 0,
+            "original_sentence": "How does your personal data protect the City of Barcelona?",
+            "simplified_sentence": "What guarantees do you offer me the City of Barcelona regarding my personal data?",
+            "score": -1.1322287321090698
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 1,
+            "original_sentence": "Content when you use the website of the city council, you need to give personal data necessary so you can do the procedure or the service you ask.",
+            "simplified_sentence": "Content as municipal websites, you have to supply personal data necessary for service benefits.",
+            "score": -0.35820263624191284
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 2,
+            "original_sentence": "They'll use your personal data to manage the bill you requested, according to what the law says.",
+            "simplified_sentence": "Your personal data will be discussed in order to manage the applied procedure, according to the specific administrative legislation.",
+            "score": -0.856622576713562
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 3,
+            "original_sentence": "The Barcelona city ensures that it makes good use of the personal data of citizenship. Data is treated legally and clear. The Barcelona city council uses personal data always legal: - because it says it is a law, - because it has the obligation to do so - or because the person has granted permission.",
+            "simplified_sentence": "The Barcelona city council ensures that the personal data of the citizens will be: compulsory and transparent, all treatments of the Barcelona city council are legitimate: by a legal basis, in compliance with a obligation or also to the consent of the person interested.",
+            "score": -1.5149986743927002
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 4,
+            "original_sentence": "The Barcelona city reports clearly how the data is used. For each procedure, explain what it will do with the data and why it needs them. In addition, it is published as the information and women rights are used to control it. This is the transparency principle.",
+            "simplified_sentence": "Offing specific information on each treatment and spreading this general privacy policy is the beginning of transparency.",
+            "score": -1.6091549396514893
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 5,
+            "original_sentence": "* Just the data needed by the Barcelona City is just asking for personal data required to do the bill. For example, sending notifications or work on your petition among others. This means that you will not be asked for more information than needed.",
+            "simplified_sentence": "Asquas, relevant and limited data collected by the Barcelona city council contributes to the evaluation of the treatment (reforce processing, sending notifications, etc) and only the necessary ones to be collected for the compliment of this purpose.",
+            "score": -2.4719526767730713
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 6,
+            "original_sentence": "Your personal data is kept in an internal record of the Barcelona City. These data are used only for what is necessary. The city council follows the European data protection rules to ensure that a good use of information is made. These rules are explained to the Rule by 2016/679 of the European Parliament.",
+            "simplified_sentence": "These data of a personal character is represented in the corresponding record of activities of the Barcelona City treatment and are treated with the specific purpose of each treatment, as set regulation established by the Rule (EU) 2016/679 of the European Parliament and the Council on protection of personal character data.",
+            "score": -2.3448545932769775
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 7,
+            "original_sentence": "For how long the data is kept? The City of Barcelona keeps personal data just the right time and necessary to do the bill and fulfill what the laws say.",
+            "simplified_sentence": "Given a period not above the need for Barcelona City to keep personal data only as long as necessary to fulfill legal obligations.",
+            "score": -1.7187237739562988
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 8,
+            "original_sentence": "The city council only uses personal data for which he's asked for. He always reports to the person interested in how these data will be used.",
+            "simplified_sentence": "The city council is not treating personal data for any other purpose than the source given to its collected, and always according to the information that is made previously to the/national/an.",
+            "score": -2.0303289890289307
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 9,
+            "original_sentence": "Good and updated data. The Barcelona city council gives the possibility to change or correct its personal data. For example, if the name is misspelled, it can also be updated information like the post address. All this without losing the right to correct the data, according to data protection law.",
+            "simplified_sentence": "Exactly and updated The Barcelona City is at the disposal of the media allowing to amend its personal data (for example, a bad name written name) or update them (for example, the postal address), without the right-justification court recognized in data protection regulation.",
+            "score": -2.1335766315460205
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 10,
+            "original_sentence": "Data dealt safely. The Barcelona City is very careful that personal data is protected. This uses security actions that demand the law, especially according to the National Security Bureau. This is made up of what kind of data they are, where possible and possible dangers are stored. National Security schemes: it is a set of rules and rules that serve to protect information. The public administrations use it as a matter of file.",
+            "simplified_sentence": "Safely treated The Barcelona City applies to personal data treatments for security measures required by legal regulation, especially by the National Security Bureau, in account of the majorityology of data, context and predictable risks.",
+            "score": -2.2458198070526123
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 11,
+            "original_sentence": "'The City of Barcelona City's security and security ensures that your personal data is treated in confidential ways. It also puts into ongoing technical and organized measures to protect them. This follows the European law and current regulations of data protection.",
+            "simplified_sentence": "The Barcelona Council guarantees the secrecy in the treatment of personal character data as well as measures, technical and organized order, which guarantees security of agreement with the Rule (EU) 2016/679 of the European Parliament and legislation in matters of data protection",
+            "score": -2.520089864730835
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 0,
+            "original_sentence": "As the Giraes Union's union acts as the Grees Union of Barcelona acts when any person or company presents a complaint about some action from the local public administration.",
+            "simplified_sentence": "As The Barcelona Union's union acts to request any physical or legal person to present a complaint about local public administration's actions.",
+            "score": 0.012236091308295727
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 1,
+            "original_sentence": "It can also act on its own initiative, without anyone asking you, when you think you need to investigate to protect the rights of citizenship.",
+            "simplified_sentence": "It can also be done in office, that is, by its own initiative, when you think you need to take some research into defense of citizenship rights.",
+            "score": -1.282202959060669
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 2,
+            "original_sentence": "When you present a complaint or claim, the union checks if it's okay, and if you're going to start stretching, you're studying the case, and you're asking the information that you need in the city departments.",
+            "simplified_sentence": "When a complaint or claim is presented, the union evaluates whether the requirements are required to be admissive for approval or not, and in the positive case, studies the case, demanding information necessary to the proper municipal agencies.",
+            "score": -1.567417860031128
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 3,
+            "original_sentence": "When the Union ends the case study, he writes a decision about what happened. This decision is published and communicates to the persons involved.",
+            "simplified_sentence": "Once the case study is complete, we make a resolution on how to publish and communicate to the parts.",
+            "score": -0.7943966388702393
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 4,
+            "original_sentence": "The Union's services are free. You do not need to bring an attorney or seek to present a complaint. Furthermore, presenting a complaint to the Union's union does not change the limit you have to make claims before the administration or the Jugats.",
+            "simplified_sentence": "Its performance is free and there is no need for the lawyer's assistance or proxy, and complaints that form it do not affect the scheduled deadlines for the exercise of action via administrative or jurisdiction.",
+            "score": -2.1049020290374756
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 5,
+            "original_sentence": "The Greges Union's union watches the office's activities, the Union makes warnings, recommendations and suggestions to the city council to help solve complaints' problems, the goal is to improve how the mayor works.",
+            "simplified_sentence": "The Union's union oversees the activities of the municipal administration, marking warning, recommendations and suggestions that make it easier to resolve the problems of complaints, which is to improve the functioning of the municipal administration.",
+            "score": 0.060315657407045364
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 6,
+            "original_sentence": "The Union's union can also make proposals for parts to come to an agreement, so the complaint can be fixed faster and with a good solution for all parts.",
+            "simplified_sentence": "At the same time, it can propose conciliation formulas or agree to facilitate a quick, successful resolution of the complaint.",
+            "score": -1.597222924232483
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 7,
+            "original_sentence": "The Union is doing his job freely and fair, and he does not receive orders from any authority or office.",
+            "simplified_sentence": "The Union's union exercises its functions with independence and impartiality, and therefore does not receive instructions of any authority or the municipal charge.",
+            "score": -0.7513407468795776
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 8,
+            "original_sentence": "To do your job, the Union is working with all departments and council teams.",
+            "simplified_sentence": "To develop their functions, it has the collaboration of all municipal bodies.",
+            "score": -1.4293043613433838
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 10,
+            "original_sentence": "The Union's union in Barcelona acts when people or groups present complaints or problems with the mayor's office or some service that the city council participates in.",
+            "simplified_sentence": "The Union's union in Barcelona can intervene for citizens and citizens, or the collectives who show complaints or problems with the municipal administration or a service to which the city council has participation.",
+            "score": -0.9585047960281372
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 11,
+            "original_sentence": "The Union's union can also act on its own initiative, without anyone asking for him, when he thinks the mayor has not respected, directly or direct hint, the rights of the people who are protected by the Constitution.",
+            "simplified_sentence": "It can also intervene, on its own initiative, when he understands that the municipal administration may have violations, directly or indirectly, the constitutional rights of the people.",
+            "score": -0.781968355178833
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 12,
+            "original_sentence": "The union can't help in these cases: when the problem is between particular people and it has nothing to do with the city council.",
+            "simplified_sentence": "The Union's union cannot intervene in the following cases: if it is a problem between particular ones that do not involve the municipal administration at all.",
+            "score": -0.04250806197524071
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 13,
+            "original_sentence": "• When the complaint is waiting for a decision of a judge or court.",
+            "simplified_sentence": "• If the reason for the complaint is pending a court resolution.",
+            "score": -0.013646506704390049
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 14,
+            "original_sentence": "• When the complaint is anonymous, it is made badly or has no reason to be considered.",
+            "simplified_sentence": "• If the complaint is anonymous, it denotes bad faith or not enough to foundation.",
+            "score": -0.8750501871109009
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 15,
+            "original_sentence": "When the Union's union can't help in a case, he gives information and advice about what he can do.",
+            "simplified_sentence": "When it cannot intervene, the Greage of Barcelona-oriented Gores and advisers about manages that can be done.",
+            "score": -2.18155574798584
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 0,
+            "original_sentence": "On the MESS project means mechanism for Barcelona's Energy Sostenible. The MES is a tool that helps make it faster and easy to make the transformation of the city into a more sustainable energy. The MES works with private investors that are private people or private companies that put money on the project.",
+            "simplified_sentence": "On the project The Environmental mechanism for Barcelona Energy (ESES Barcelona), an instrument to escort and accelerate the energy transition of the city by private investor.",
+            "score": -1.8401345014572144
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 1,
+            "original_sentence": "With this tool, you want to invest when you put solar and renovated buildings to consume less energy.",
+            "simplified_sentence": "With this instrument, it is intended to invest in the storage of photovolic boards and energy rehabilitation in the city.",
+            "score": -1.5593681335449219
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 2,
+            "original_sentence": "The city council offers a new plan to put solar boards in your building.",
+            "simplified_sentence": "It's the new energy transformation plan of the city council that allows you to install photovotic boards in your building by a solution funded by the materials.",
+            "score": -1.1921451091766357
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 3,
+            "original_sentence": "People or companies who pay the installation of solar boards will sell the energy to the own people in the building. When the contract is finished, the boards will be from their own people and they're not going to have to pay anything else.",
+            "simplified_sentence": "The photovolica funding are going to sell the energy to the home owners of the building, and by the end of the energy contract, the asset will be able to belong to the owners at zero.",
+            "score": -2.1121768951416016
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 4,
+            "original_sentence": "Targets The mechanism wants to help most solar boards in the city with the aid of private investor. It focuses on - in large spaces: • covered by industries, warehouses, offices, and other places in the city - on roofs and roofs of your buildings where people live. It also seeks to join various buildings to make the most easy investment and the same time.",
+            "simplified_sentence": "Targets The mechanism is seeking to prioritizarily increase the photovovolical energy generation into the city from the private initiative and are broadcast to projects that consider both large spaces (caves of industrial ships, logistics, office buildings or other city spaces), and roofs and roofs of residential buildings, with the grouping of different residential buildings which, sums, can make the set of the investment manageable at once.",
+            "score": -2.4897825717926025
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 5,
+            "original_sentence": "Also, you want to invest in improving buildings that spend a lot of energy, like hospitals, hotels -- and sports centers, among others.",
+            "simplified_sentence": "They are also seeking to invest in energy rehab projects that have high energy use, such as hospitals, hotels and sports centers, among others.",
+            "score": 0.4860159158706665
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 6,
+            "original_sentence": "Finally, the MES Barcelona also wants to help projects that bring new and innovation into the field of renewable energies. It's energy coming from nature and it's never finished. They're good for the planet to not pollute. For example, solar energy coming from the sun or wind energy.",
+            "simplified_sentence": "Finally, the MES Barcelona also wants to invest in projects that promote innovation in the economic sector of renewable energy.",
+            "score": -0.055674176663160324
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 7,
+            "original_sentence": "How does the MES Barcelona work?",
+            "simplified_sentence": "How does it work?",
+            "score": 0.19952096045017242
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 8,
+            "original_sentence": "The MES Barcelona is a way that the Barcelona city council has to make economic investments, which means the city council puts money to improve the future.",
+            "simplified_sentence": "The MES Barcelona is a financial investment mechanism for the City of Barcelona.",
+            "score": 0.06356494873762131
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 9,
+            "original_sentence": "That's why the 50 million of the city council will be used for special projects that want to improve the city. They can only present these projects or persons approved by the city council.",
+            "simplified_sentence": "So these 50 municipal dollars are being transferred to investment projects presented by investors who are worried about the city council.",
+            "score": -0.43878549337387085
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 10,
+            "original_sentence": "These investors authorized are people or companies who already have experience investing in solar boards and making buildings consume less energy.",
+            "simplified_sentence": "These investors are a set of investors who have experience investing in picturesvot and energy rehabilitation.",
+            "score": -1.3099861145019531
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 11,
+            "original_sentence": "When the city council selects investments, he's going to ask them to focus on putting solar boards or improving buildings to spend less energy, without the homes of buildings having to make money.",
+            "simplified_sentence": "At the time to select investments, the city council will demand to focus on the computer's photovolmatic boards or the energy rehab in which the business model does not require co-finance from the owners of the buildings.",
+            "score": -1.8999563455581665
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 12,
+            "original_sentence": "investors will pay all the cost of investment and retrieve the money by selling the energy that's left or the energy savings they're getting because of the projects.",
+            "simplified_sentence": "investors will assume 100% of investment and they will recover from exceency or energy savings generated by funded operations.",
+            "score": -0.8162344694137573
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 13,
+            "original_sentence": "When investors working with solar boards are present, they will have to meet some requirements. For example: people need to install solar boards in different types of buildings: housing, offices, offices, or factories. - they will have to foster selfconum, so people can use their own energy. -They also have to drive energy communities, where various people share energy. - they have to put points of charge for electrical cars. - investors can also make proposals to improve the use of the roof buildings.",
+            "simplified_sentence": "In the case of specialized investor in photovoltaic, among other criteria, it will ensure that these diverse funds will be guaranteed that these diverse backgrounds will be able to put together the photovotic installation of different types of buildings (rescial, drug, industrial), promote self-conum, energy communities, load points for electric vehicles, etc., while private investors will be able to propose improvements in relation to use, and taking advantage of the community roofs.",
+            "score": -2.480315923690796
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 14,
+            "original_sentence": "As an recognition of investor in March 2021, the city council in Barcelona passed the first companies that can participate as official investors in the programme: mechanism for the Energy Sostenible of Barcelona. This means that these companies are authorised to make renewable energy projects with the support of the city council.",
+            "simplified_sentence": "Hymologation of investor in March 2021, the Committee of Economics and Finance of the Barcelona City passed the first business and business groups that can be investors that can be homologated in the mechanism for the Sostenible Energy of Barcelona (MES Barcelona).",
+            "score": -2.0676004886627197
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 15,
+            "original_sentence": "There are many different companies approved by the city council. This is good because they can make very diverse projects. They can work in: houses and apartments, offices - factories and industrial ships, apartments, buildings such as schools and markets. Their projects can include solar boards, - rehalararar buildings, and even produce green energy, which is a green form.",
+            "simplified_sentence": "This diversity of companies allows you to propose very diverse investment strategies, which engloben different siteologies and performances: residential, offices, industrial vessels, parking, infrastructure, and public buildings that implement clean energy (the photo voltic energy), the rehab of buildings and even the possibility of green hydrogen production.",
+            "score": -2.3860905170440674
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 16,
+            "original_sentence": "The process to recognize reverse companies is open, so in the next summonment, more companies will be able to join the MES Barcelona project.",
+            "simplified_sentence": "The process of investor is wide open; therefore, in the next summonment, new companies will be able to incorporate new companies into the project of MES Barcelona.",
+            "score": -0.42789310216903687
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 17,
+            "original_sentence": "In the beginning, there are 2 different summons to the year. It also summons to add new reverse companies.",
+            "simplified_sentence": "Initially two a year has been scheduled, including the new summons of homomotion that will be producing.",
+            "score": -2.34416127204895
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 18,
+            "original_sentence": "Where investment is going to be done, the investment will be allocated to different projects to improve the energy of the city. These projects include: active collaborations: put solar boards and other clean energy.",
+            "simplified_sentence": "Action Scope The co investment will be specific to different groups of projects led to the energy improvement of the city for: active hosts: installing photo-volmatic plates and other clean energy sources.",
+            "score": -2.1864335536956787
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 19,
+            "original_sentence": "• Passions: - improve isolation, change windows and closings, fixing suites, and others. • new improvements and technologies to do clean energy in a more efficient and more modern way.",
+            "simplified_sentence": "• Passive steps: improvement of isolation, reposition of windows and closures, improvement of suites, etc. • Innovation of clean energy.",
+            "score": -1.8200932741165161
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 20,
+            "original_sentence": "The stock will be done in every building in the city:  Builds of services, and for example: offices, hotels, sports centers, • industrial buildings, public and private buildings.",
+            "simplified_sentence": "The measures will be used throughout the city building park: Atomic Buildings or public and private organizations (in offices, hotels, sports centers, etc.) and industrial organisations.",
+            "score": -1.486281394958496
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 21,
+            "original_sentence": "The European Union is the only one-man homes who hires homes and neighbors, and others.",
+            "simplified_sentence": "Atomic housing Buildings (unique owners, owned owners, immotables at rent, neighbouring communities, etc.).",
+            "score": -2.518188714981079
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 22,
+            "original_sentence": "Public space elements.",
+            "simplified_sentence": "Public space elements.",
+            "score": -0.06169969215989113
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 23,
+            "original_sentence": "THEY'RE GONNA load electric vehicles, but also in public and private parking lots.",
+            "simplified_sentence": "Points of repacking (public and private parking).",
+            "score": -1.8409837484359741
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 24,
+            "original_sentence": "opem and entrepreneurs who work in new projects to improve energy.Compreneator: person who transforms an idea into a business.",
+            "simplified_sentence": "BUT I WANT TO SEE WHAT I WANT TO SEE-- IT'S REMUNlTlTlNG FOR COMMUNICATlONS.",
+            "score": -1.4891287088394165
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 25,
+            "original_sentence": "• Other directly related.",
+            "simplified_sentence": "• Other directly related.",
+            "score": -0.22371676564216614
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 26,
+            "original_sentence": "It's thought that putting more solar plates and fixing buildings will make the city spend less energy and more local energy.",
+            "simplified_sentence": "It is expected that the increasing photo-voluted power and the building rehab allows the energy consumption of the city to increase local production.",
+            "score": -1.3728830814361572
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 27,
+            "original_sentence": "It's estimated that this mechanism can make the renewable energy production of the city growing up, a little bit more than half of it is now.",
+            "simplified_sentence": "It is calculated that potentially the mechanism will allow you to increase in 66% the current local renewable generation.",
+            "score": -1.8052291870117188
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 28,
+            "original_sentence": "Coyphics from the program úr Make sure he is in Barcelona.",
+            "simplified_sentence": "The program's Beneflicies Garantir investment in Barcelona.",
+            "score": -1.0328819751739502
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 29,
+            "original_sentence": "In Spain there are different new initiatives that offer projects to put more solar boards.",
+            "simplified_sentence": "Different initiatives in Spain (or energy operators and investment fund proposals) are shown to grow the volume of photovotic installing.",
+            "score": -2.1376688480377197
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 30,
+            "original_sentence": "The mechanism for Sostenible Energy helps ensure that a part of the investment in solar boards is done in Barcelona, although it can be difficult to invest in a city like Barcelona where buildings are very close and there is little free space.",
+            "simplified_sentence": "The mechanism for Sostenible energy may be an element that guarantees that part of this investment is done in Barcelona despite the difficulties that, in prior and, it can suppose to invest in photovovic energy in a city like Barcelona.",
+            "score": -1.6466155052185059
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 31,
+            "original_sentence": "Finland ensures a model for investing money that offers real benefits to citizenship.",
+            "simplified_sentence": "ş Garanting a investment model that produces a value added to the citizens.",
+            "score": -1.88461172580719
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 32,
+            "original_sentence": "This model to invest money makes solar boards at the end of the own buildings.",
+            "simplified_sentence": "This is based on an investment model where the assets, the photovolic boards, are at the end of the citizens, home of buildings.",
+            "score": -1.8866362571716309
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 33,
+            "original_sentence": "The added value is also to use the roofs better, not just to put solar boards on it, but also to convert the roofs into spaces for people, such as in green spaces or in activities to do.",
+            "simplified_sentence": "But the added value is also based on taking advantage of the roofs, not only from a solar point of view, but from the same space, which can be converted into a space of social or green use.",
+            "score": 0.082566037774086
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 34,
+            "original_sentence": "Finland ensures a plan to invest money that is interesting to all the citizens of Barcelona, without depending on the money he has every person.",
+            "simplified_sentence": "Atomic Garantir a investment model which is attractive for all the citizens of Barcelona, with independence from their economic capacity.",
+            "score": -1.9976482391357422
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 35,
+            "original_sentence": "According to the business plan, you don't have to own people pay for investment. money is retrieved with the savings you get at least to consume energy.",
+            "simplified_sentence": "In the planned business model, investment is not retrieved via payment from housing owners, but because of the savings generated by a more sustainable consumption.",
+            "score": -0.466442734003067
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 36,
+            "original_sentence": "So, the mechanism for Sostenible Energy ensures that this investment comes to all the neighborhoods of Barcelona. The mechanism for Sosten energy: it's a plan or system that helps us to make the energy that we use is cleaner, more efficient and respectful of the environment.",
+            "simplified_sentence": "So the impulse of the mechanism for Sostenible Energy guarantees that this investment can be extended to every neighbourhood in Barcelona.",
+            "score": -0.7649523615837097
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 37,
+            "original_sentence": "Do your request to value your building. If you want to participate, you can send us a high request.",
+            "simplified_sentence": "Make your application request for the value of your building to participate, you can send us a high application.",
+            "score": -0.5036163926124573
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 38,
+            "original_sentence": "When we get your application, we send it to the authorised companies. The companies will contact you to see if the project can be done and how it could be done.",
+            "simplified_sentence": "Once we receive your petition, we're going to get to the homologated companies, which will be put in touch with you to study the project's pathability and define the conditions.",
+            "score": -1.263548493385315
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 39,
+            "original_sentence": "Once you have finished your application, you will receive a request code. The contact data of your companies will also come to you.",
+            "simplified_sentence": "When you have completed your application, you will receive a request code and the contact data from the companies we made it to.",
+            "score": -0.17128175497055054
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 40,
+            "original_sentence": "If you have any query or if you want to track the project, go to the tracking space.",
+            "simplified_sentence": "For any query or tracking the project, access the tracking space.",
+            "score": -0.4543578028678894
+        }
+    ],
+    "statistics": {
+        "average_score": -1.0086974119939105,
+        "std_dev": 0.956015351733217
+    }
+}

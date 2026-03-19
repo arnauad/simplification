@@ -1,0 +1,2668 @@
+{
+    "results": [
+        {
+            "sample_id": 0,
+            "original_sentence_id": 0,
+            "original_sentence": "The house meal service offers food prepared to the people who cannot prepare their own foods, need assistance to make them or live in inadequate housing to cook.",
+            "simplified_sentence": "The house meal service offers food prepared to the people who cannot prepare their own foods, need assistance to make them or live in inadequate housing to cook.",
+            "score": 0.2004822939634323
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 1,
+            "original_sentence": "They're people without social support and family and difficulty moving Vegas.",
+            "simplified_sentence": "They're people without social support and family and difficulty moving Vegas.",
+            "score": 0.1055527925491333
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 2,
+            "original_sentence": "The government's social workers arevaling the situation.",
+            "simplified_sentence": "The government's social workers arevaling the situation.",
+            "score": 0.06419499963521957
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 3,
+            "original_sentence": "We free naked and healthy meals home to cover their needs.",
+            "simplified_sentence": "We free naked and healthy meals home to cover their needs.",
+            "score": 0.17733991146087646
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 4,
+            "original_sentence": "You need to call the city council for hours with your neighborhood's social services.",
+            "simplified_sentence": "You need to call the city council for hours with your neighborhood's social services.",
+            "score": 0.25725117325782776
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 0,
+            "original_sentence": "When can you form a complaint?",
+            "simplified_sentence": "When can you form a complaint?",
+            "score": 0.17650015652179718
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 1,
+            "original_sentence": "You can report to the city council when it involves our fundamental rights.",
+            "simplified_sentence": "You can report to the city council when it involves our fundamental rights.",
+            "score": 0.19383077323436737
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 2,
+            "original_sentence": "After claiming no answer or solution, a complaint can be filed.",
+            "simplified_sentence": "After claiming no answer or solution, a complaint can be filed.",
+            "score": 0.11220202594995499
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 3,
+            "original_sentence": "When considered that there have been no reason enough to answer or arbitrary goods in the application of the laws.",
+            "simplified_sentence": "When considered that there have been no reason enough to answer or arbitrary goods in the application of the laws.",
+            "score": -0.40706348419189453
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 4,
+            "original_sentence": "The Union's union involved in matters of daily life related to the city council.",
+            "simplified_sentence": "The Union's union involved in matters of daily life related to the city council.",
+            "score": 0.03741150721907616
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 5,
+            "original_sentence": "The union acts confidentially.",
+            "simplified_sentence": "The union acts confidentially.",
+            "score": 0.12073908746242523
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 6,
+            "original_sentence": "Information provided during complaints is confidential except for explicit resignation of demand.",
+            "simplified_sentence": "Information provided during complaints is confidential except for explicit resignation of demand.",
+            "score": -0.07174670696258545
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 7,
+            "original_sentence": "It shows complaints presented through the web form of Barcelona municipal services.",
+            "simplified_sentence": "It shows complaints presented through the web form of Barcelona municipal services.",
+            "score": -0.022936999797821045
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 8,
+            "original_sentence": "He can investigate in office if he is willing to defend citizens' rights.",
+            "simplified_sentence": "He can investigate in office if he is willing to defend citizens' rights.",
+            "score": 0.18178625404834747
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 9,
+            "original_sentence": "The union admits to the criminal complaints and research of the municipal activity.",
+            "simplified_sentence": "The union admits to the criminal complaints and research of the municipal activity.",
+            "score": 0.05301612243056297
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 10,
+            "original_sentence": "Get documents from the corresponding department.",
+            "simplified_sentence": "Get documents from the corresponding department.",
+            "score": 0.013885932974517345
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 11,
+            "original_sentence": "He can resolve conflicts with the city council by mediation.",
+            "simplified_sentence": "He can resolve conflicts with the city council by mediation.",
+            "score": 0.21448832750320435
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 12,
+            "original_sentence": "The Union's union solves and makes recommendations to the mayor's office after an investigation.",
+            "simplified_sentence": "The Union's union solves and makes recommendations to the mayor's office after an investigation.",
+            "score": 0.13957418501377106
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 13,
+            "original_sentence": "The advocate tracks the application of its own recommendations.",
+            "simplified_sentence": "The advocate tracks the application of its own recommendations.",
+            "score": -0.0665273368358612
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 14,
+            "original_sentence": "You can turn on the methods to resolve local conflicts during this period.",
+            "simplified_sentence": "You can turn on the methods to resolve local conflicts during this period.",
+            "score": 0.12958373129367828
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 15,
+            "original_sentence": "Technical and legal Orientation",
+            "simplified_sentence": "Technical and legal Orientation",
+            "score": -0.16509492695331573
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 16,
+            "original_sentence": "The Union's regulation sets that complaints that have already been solved by judicial, the anonymous, those who intend, the untributive, and those who can damage legal interests of other people.",
+            "simplified_sentence": "The Union's regulation sets that complaints that have already been solved by judicial, the anonymous, those who intend, the untributive, and those who can damage legal interests of other people.",
+            "score": -0.3690984845161438
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 17,
+            "original_sentence": "They provide major public problems related to rights and freedoms of citizens.",
+            "simplified_sentence": "They provide major public problems related to rights and freedoms of citizens.",
+            "score": 0.1030181273818016
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 18,
+            "original_sentence": "It starts to investigate and oversee local government action to solve a specific problem.",
+            "simplified_sentence": "It starts to investigate and oversee local government action to solve a specific problem.",
+            "score": 0.06888393312692642
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 19,
+            "original_sentence": "municipal data is requested to resolve conflict via ADR (Altertive Dispute Resolute).",
+            "simplified_sentence": "municipal data is requested to resolve conflict via ADR (Altertive Dispute Resolute).",
+            "score": -0.11125557124614716
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 20,
+            "original_sentence": "The union ends with recommendations to the consisatory.",
+            "simplified_sentence": "The union ends with recommendations to the consisatory.",
+            "score": -0.006489929743111134
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 21,
+            "original_sentence": "The defense tracks the implementation of its own recommendations to improving the municipal performance.",
+            "simplified_sentence": "The defense tracks the implementation of its own recommendations to improving the municipal performance.",
+            "score": -0.021610621362924576
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 0,
+            "original_sentence": "The best way to meet Barcelona is to walk with the neighbors.",
+            "simplified_sentence": "The best way to meet Barcelona is to walk with the neighbors.",
+            "score": 0.2560279369354248
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 1,
+            "original_sentence": "The pilot's team is going to visit the neighborhoods to listen to the neighbors' concerns.",
+            "simplified_sentence": "The pilot's team is going to visit the neighborhoods to listen to the neighbors' concerns.",
+            "score": 0.20087416470050812
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 2,
+            "original_sentence": "The dialogue with citizens enhances the efficacy of proposals and adapts better to their needs and experience.",
+            "simplified_sentence": "The dialogue with citizens enhances the efficacy of proposals and adapts better to their needs and experience.",
+            "score": 0.09427639842033386
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 3,
+            "original_sentence": "The Union's team speaks every month with his concerns' neighbors.",
+            "simplified_sentence": "The Union's team speaks every month with his concerns' neighbors.",
+            "score": 0.1969142109155655
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 4,
+            "original_sentence": "The union is moving through the territory.",
+            "simplified_sentence": "The union is moving through the territory.",
+            "score": 0.14639049768447876
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 5,
+            "original_sentence": "It regularly moves to close equipment to collect citizen complaints without needed movement.",
+            "simplified_sentence": "It regularly moves to close equipment to collect citizen complaints without needed movement.",
+            "score": 0.056766580790281296
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 6,
+            "original_sentence": "The unions visit high schools for talking to students about concerns, improving the neighborhood, participation and consideration, young people often have ideas and solutions, so it's excellent to listen to them!",
+            "simplified_sentence": "The unions visit high schools for talking to students about concerns, improving the neighborhood, participation and consideration, young people often have ideas and solutions, so it's excellent to listen to them!",
+            "score": 0.187177836894989
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 0,
+            "original_sentence": "The political budget is a tool for direct democracy.",
+            "simplified_sentence": "The political budget is a tool for direct democracy.",
+            "score": 0.11186395585536957
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 1,
+            "original_sentence": "Neighbors propose and vote investment projects for the neighborhood, to run with the consisatory money.",
+            "simplified_sentence": "Neighbors propose and vote investment projects for the neighborhood, to run with the consisatory money.",
+            "score": 0.08293639123439789
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 2,
+            "original_sentence": "Barcelona participates with budgetary processes in its ten districts.",
+            "simplified_sentence": "Barcelona participates with budgetary processes in its ten districts.",
+            "score": -0.025903984904289246
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 3,
+            "original_sentence": "They invest 30 bucks in projects chosen by the people in the neighborhood.",
+            "simplified_sentence": "They invest 30 bucks in projects chosen by the people in the neighborhood.",
+            "score": 0.20251482725143433
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 4,
+            "original_sentence": "These money has been dealt in neighborhoods based on territorial justice, population and economic situation.",
+            "simplified_sentence": "These money has been dealt in neighborhoods based on territorial justice, population and economic situation.",
+            "score": 0.11097762733697891
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 5,
+            "original_sentence": "The process aims to promote the dialogue about real problems in the neighbourhood and develop initiatives that improve the quality of life. To achieve this, they are created places of meeting with the aim of ensuring a wide diversity of opinions and proposals.",
+            "simplified_sentence": "The process aims to promote the dialogue about real problems in the neighbourhood and develop initiatives that improve the quality of life. To achieve this, they are created places of meeting with the aim of ensuring a wide diversity of opinions and proposals.",
+            "score": 0.11451105773448944
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 6,
+            "original_sentence": "Political budgets include only municipal investments.",
+            "simplified_sentence": "Political budgets include only municipal investments.",
+            "score": 0.06461568176746368
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 7,
+            "original_sentence": "Investments will be considered funded by involved budget improvements to urban space such as transforming streets, creating or conditioning green spaces and building or improving equipment.",
+            "simplified_sentence": "Investments will be considered funded by involved budget improvements to urban space such as transforming streets, creating or conditioning green spaces and building or improving equipment.",
+            "score": -0.1258474588394165
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 8,
+            "original_sentence": "Improving school environments, add more green in the streets and creating new areas of child games are some of the proposals included in the plan. They also include improvements in municipal equipment such as educational, sports, cultural, and people with specific needs. Moreover, they are now seeking to acquire and resell local housing, commercials and buildings to use them for public use.",
+            "simplified_sentence": "Improving school environments, add more green in the streets and creating new areas of child games are some of the proposals included in the plan. They also include improvements in municipal equipment such as educational, sports, cultural, and people with specific needs. Moreover, they are now seeking to acquire and resell local housing, commercials and buildings to use them for public use.",
+            "score": 0.20797379314899445
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 9,
+            "original_sentence": "We need to apply to the technical criteria (link to a new window) defined by the linguist's regulation called the public contest (outside link).",
+            "simplified_sentence": "We need to apply to the technical criteria (link to a new window) defined by the linguist's regulation called the public contest (outside link).",
+            "score": -0.08928167074918747
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 10,
+            "original_sentence": "The political budget process has six stages: - Debat and presentations of proposals - technical assessment of the proposals (Cointisting the answers to the proposed proposals)",
+            "simplified_sentence": "The political budget process has six stages: - Debat and presentations of proposals - technical assessment of the proposals (Cointisting the answers to the proposed proposals)",
+            "score": -0.15425792336463928
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 11,
+            "original_sentence": "* Phase 3, collection of (#Feropinions* 4, detailed definition * Makes 5, final choice *Fse 6, control of the application of the chosen project (in another window) on the participating budgets.",
+            "simplified_sentence": "* Phase 3, collection of (#Feropinions* 4, detailed definition * Makes 5, final choice *Fse 6, control of the application of the chosen project (in another window) on the participating budgets.",
+            "score": -0.34224388003349304
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 12,
+            "original_sentence": "Yes or have you no doubts?",
+            "simplified_sentence": "Yes or have you no doubts?",
+            "score": -0.006923352368175983
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 0,
+            "original_sentence": "The general record controls communications with the city hall.",
+            "simplified_sentence": "The general record controls communications with the city hall.",
+            "score": 0.02641516923904419
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 1,
+            "original_sentence": "Preserve citizens and administration rights.",
+            "simplified_sentence": "Preserve citizens and administration rights.",
+            "score": -0.033974017947912216
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 2,
+            "original_sentence": "To make this online instance you need to use digital certificate. Check also if there is any technical requirement or other method. You should first look at if it is an exclusive bill for the web office of the barcellone, as it can then be denied according to the article...",
+            "simplified_sentence": "To make this online instance you need to use digital certificate. Check also if there is any technical requirement or other method. You should first look at if it is an exclusive bill for the web office of the barcellone, as it can then be denied according to the article...",
+            "score": 0.013860802166163921
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 3,
+            "original_sentence": "Article 66.6 of the Law 39/2015, on 1 October, on the common administration procedure for all public administrations.",
+            "simplified_sentence": "Article 66.6 of the Law 39/2015, on 1 October, on the common administration procedure for all public administrations.",
+            "score": -0.18288153409957886
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 4,
+            "original_sentence": "Check if there is any specific processing to make it online.",
+            "simplified_sentence": "Check if there is any specific processing to make it online.",
+            "score": 0.005382726900279522
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 5,
+            "original_sentence": "The log will automatically emit a right of the reception after the request sending.",
+            "simplified_sentence": "The log will automatically emit a right of the reception after the request sending.",
+            "score": -0.30873268842697144
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 6,
+            "original_sentence": "Access to the generic and specific TV instance. The bills are open all year, 24 hours a day.",
+            "simplified_sentence": "Access to the generic and specific TV instance. The bills are open all year, 24 hours a day.",
+            "score": 0.026866309344768524
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 7,
+            "original_sentence": "The reception of a document on a holiday day is counted as if it were the working day.",
+            "simplified_sentence": "The reception of a document on a holiday day is counted as if it were the working day.",
+            "score": -0.026729311794042587
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 8,
+            "original_sentence": "The log time is set by the barcellon City website.",
+            "simplified_sentence": "The log time is set by the barcellon City website.",
+            "score": 0.18008455634117126
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 9,
+            "original_sentence": "It will be notified through the web when there are technical problems preventing the use of the logging service.",
+            "simplified_sentence": "It will be notified through the web when there are technical problems preventing the use of the logging service.",
+            "score": 0.09713350981473923
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 10,
+            "original_sentence": "If set to present documents, these will have to go to PDF, JPG or TIFF and not overcome the dimensions set for each procedure.",
+            "simplified_sentence": "If set to present documents, these will have to go to PDF, JPG or TIFF and not overcome the dimensions set for each procedure.",
+            "score": 0.014399359934031963
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 11,
+            "original_sentence": "Telemmatic instance has a maximum of 6 documents with a total weight of 5Mb. If it exceeds this weight it cannot be sent.",
+            "simplified_sentence": "Telemmatic instance has a maximum of 6 documents with a total weight of 5Mb. If it exceeds this weight it cannot be sent.",
+            "score": 0.07073608040809631
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 0,
+            "original_sentence": "The Movement Bank is...",
+            "simplified_sentence": "The Movement Bank is...",
+            "score": -0.24035657942295074
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 1,
+            "original_sentence": "It's a municipal support service in Barcelona.",
+            "simplified_sentence": "It's a municipal support service in Barcelona.",
+            "score": 0.1364595890045166
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 2,
+            "original_sentence": "It eases mobility to the disabled and people with difficulty of movement in Barcelona.",
+            "simplified_sentence": "It eases mobility to the disabled and people with difficulty of movement in Barcelona.",
+            "score": 0.1167449802160263
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 3,
+            "original_sentence": "You can find cross-sellers, wheelchair chairs and joint beds, as well as tech technology products such as computer devices or special toys for disabilities.",
+            "simplified_sentence": "You can find cross-sellers, wheelchair chairs and joint beds, as well as tech technology products such as computer devices or special toys for disabilities.",
+            "score": 0.15404655039310455
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 4,
+            "original_sentence": "The Bank of the movement complements social aids of the Generality for disabilities through support and technology products.",
+            "simplified_sentence": "The Bank of the movement complements social aids of the Generality for disabilities through support and technology products.",
+            "score": -0.0902954488992691
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 5,
+            "original_sentence": "What is the Movement Bank and how does it work?",
+            "simplified_sentence": "What is the Movement Bank and how does it work?",
+            "score": 0.15937146544456482
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 6,
+            "original_sentence": "Many people and entities make possible the existence of the Movement Bank giving us support products so others can use them.",
+            "simplified_sentence": "Many people and entities make possible the existence of the Movement Bank giving us support products so others can use them.",
+            "score": 0.06776803731918335
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 7,
+            "original_sentence": "The specialized teams review, fix and teach the use of devices to users.",
+            "simplified_sentence": "The specialized teams review, fix and teach the use of devices to users.",
+            "score": 0.0814967155456543
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 8,
+            "original_sentence": "Buy some new products to answer the usual demands.",
+            "simplified_sentence": "Buy some new products to answer the usual demands.",
+            "score": 0.16570521891117096
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 9,
+            "original_sentence": "The bank will trigger a form because social workers request discounts in support products from 9 May 2024.",
+            "simplified_sentence": "The bank will trigger a form because social workers request discounts in support products from 9 May 2024.",
+            "score": 0.027550358325242996
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 10,
+            "original_sentence": "This form allows accessing support products for the Movement Bank and Solid Network would support Products.",
+            "simplified_sentence": "This form allows accessing support products for the Movement Bank and Solid Network would support Products.",
+            "score": -0.12692132592201233
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 11,
+            "original_sentence": "You need to phone before you send the form to e-mail to confirm the availability of the product and know how to give it to you.",
+            "simplified_sentence": "You need to phone before you send the form to e-mail to confirm the availability of the product and know how to give it to you.",
+            "score": 0.22943875193595886
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 12,
+            "original_sentence": "It will reduce bail if necessary during this call.",
+            "simplified_sentence": "It will reduce bail if necessary during this call.",
+            "score": 0.1535158008337021
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 13,
+            "original_sentence": "The Chilean Institute of People with Disability to push the Bank of the Movement through the Barcelona city council.",
+            "simplified_sentence": "The Chilean Institute of People with Disability to push the Bank of the Movement through the Barcelona city council.",
+            "score": 0.05611937865614891
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 0,
+            "original_sentence": "To do work in Spain, you need to have the SS's number.",
+            "simplified_sentence": "To do work in Spain, you need to have the SS's number.",
+            "score": 0.14647416770458221
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 1,
+            "original_sentence": "This number will serve you to identify Authenticates with access to social services and public health care.",
+            "simplified_sentence": "This number will serve you to identify Authenticates with access to social services and public health care.",
+            "score": 0.005097079090774059
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 2,
+            "original_sentence": "To work, you need to have the SS's number.",
+            "simplified_sentence": "To work, you need to have the SS's number.",
+            "score": 0.19930708408355713
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 3,
+            "original_sentence": "To work needs to be signed up to the social security regime.",
+            "simplified_sentence": "To work needs to be signed up to the social security regime.",
+            "score": 0.17654530704021454
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 4,
+            "original_sentence": "The company's company is now in charge of social security.",
+            "simplified_sentence": "The company's company is now in charge of social security.",
+            "score": 0.18468642234802246
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 5,
+            "original_sentence": "• To be autonomous, you need to ask the SS's RARTA.",
+            "simplified_sentence": "• To be autonomous, you need to ask the SS's RARTA.",
+            "score": 0.094850093126297
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 6,
+            "original_sentence": "If you're a standalone/a, you have to do the bill with the I.R.S. to appear on the official log.",
+            "simplified_sentence": "If you're a standalone/a, you have to do the bill with the I.R.S. to appear on the official log.",
+            "score": 0.08189757168292999
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 0,
+            "original_sentence": "The risk of death for the success of urban tourism is perceived by residents as to grow.",
+            "simplified_sentence": "The risk of death for the success of urban tourism is perceived by residents as to grow.",
+            "score": 0.02478541061282158
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 1,
+            "original_sentence": "Amsterdam and Copenhagen measures against negative impact.",
+            "simplified_sentence": "Amsterdam and Copenhagen measures against negative impact.",
+            "score": -0.04453517124056816
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 2,
+            "original_sentence": "There are some who succeed more than others, but we have to wait to see the real effect.",
+            "simplified_sentence": "There are some who succeed more than others, but we have to wait to see the real effect.",
+            "score": 0.1952981799840927
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 3,
+            "original_sentence": "The urban pattern is a modern phenomenon.",
+            "simplified_sentence": "The urban pattern is a modern phenomenon.",
+            "score": 0.08293797075748444
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 4,
+            "original_sentence": "In Europe, the 60-70 tourist urbanism focused on its forces to build small coasting cities.",
+            "simplified_sentence": "In Europe, the 60-70 tourist urbanism focused on its forces to build small coasting cities.",
+            "score": 0.10412127524614334
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 5,
+            "original_sentence": "Tourist growth was due to the fact that it will collapse with new hotels and apartments around the sea.",
+            "simplified_sentence": "Tourist growth was due to the fact that it will collapse with new hotels and apartments around the sea.",
+            "score": 0.2587406039237976
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 6,
+            "original_sentence": "People discuss environmental impact on tourist cities.",
+            "simplified_sentence": "People discuss environmental impact on tourist cities.",
+            "score": 0.15410225093364716
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 7,
+            "original_sentence": "In Europe, the 1980s saw the main city tour tour tour thanks to the manufacturing step towards services to deal with economic pressures.",
+            "simplified_sentence": "In Europe, the 1980s saw the main city tour tour tour thanks to the manufacturing step towards services to deal with economic pressures.",
+            "score": 0.13213318586349487
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 8,
+            "original_sentence": "They became important meeting points for the tourism business, opening numerous conventions in the 80s and 90s.",
+            "simplified_sentence": "They became important meeting points for the tourism business, opening numerous conventions in the 80s and 90s.",
+            "score": 0.20743770897388458
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 9,
+            "original_sentence": "With the arrival of the nineth century, many European sites had developed a identified tourism.",
+            "simplified_sentence": "With the arrival of the nineth century, many European sites had developed a identified tourism.",
+            "score": -0.06698917597532272
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 10,
+            "original_sentence": "tourism was developed separately in the day-to-day lives of citizens.",
+            "simplified_sentence": "tourism was developed separately in the day-to-day lives of citizens.",
+            "score": 0.19289468228816986
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 11,
+            "original_sentence": "They tend to focus around big stations and urban centers.",
+            "simplified_sentence": "They tend to focus around big stations and urban centers.",
+            "score": 0.1542498916387558
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 12,
+            "original_sentence": "Ashworth and Tunbridge described this situation at their \"Volvesian City model.\"",
+            "simplified_sentence": "Ashworth and Tunbridge described this situation at their \"Volvesian City model.\"",
+            "score": 0.0142973056063056
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 13,
+            "original_sentence": "The increase in urban tourism has gradually gone off the limits between tourists and areas where residents live.",
+            "simplified_sentence": "The increase in urban tourism has gradually gone off the limits between tourists and areas where residents live.",
+            "score": 0.19550183415412903
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 14,
+            "original_sentence": "Soft City and dumb asture sutudy.",
+            "simplified_sentence": "Soft City and dumb asture sutudy.",
+            "score": -0.08401168882846832
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 15,
+            "original_sentence": "Europe's experience in cultural and urban tourism showed a strong increase since 1990s to 2000.",
+            "simplified_sentence": "Europe's experience in cultural and urban tourism showed a strong increase since 1990s to 2000.",
+            "score": 0.14819303154945374
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 16,
+            "original_sentence": "The politicians wanted to make economic profit to visitors with money.",
+            "simplified_sentence": "The politicians wanted to make economic profit to visitors with money.",
+            "score": 0.17671985924243927
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 17,
+            "original_sentence": "Barcelona took tourist events such as the Olympics in 1992 or the Gaudí of 2002 to attract tourists and support theplaceming.",
+            "simplified_sentence": "Barcelona took tourist events such as the Olympics in 1992 or the Gaudí of 2002 to attract tourists and support theplaceming.",
+            "score": 0.06436897069215775
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 18,
+            "original_sentence": "Catalan capital organises the Universal Forum of Cultures in 2004 after seeing the Giza success of other similar actions. (This is only a possible response; there can be more ways to simplify this sentence without changing its sense.)",
+            "simplified_sentence": "Catalan capital organises the Universal Forum of Cultures in 2004 after seeing the Giza success of other similar actions. (This is only a possible response; there can be more ways to simplify this sentence without changing its sense.)",
+            "score": 0.04345584288239479
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 19,
+            "original_sentence": "tourism was initially received by both groups.",
+            "simplified_sentence": "tourism was initially received by both groups.",
+            "score": 0.13260823488235474
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 20,
+            "original_sentence": "In 2004 there were signs of future changes.",
+            "simplified_sentence": "In 2004 there were signs of future changes.",
+            "score": 0.16863662004470825
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 21,
+            "original_sentence": "Many residents are excluded from the high price of access to the forum, by high prices of food and corporate sponsor.",
+            "simplified_sentence": "Many residents are excluded from the high price of access to the forum, by high prices of food and corporate sponsor.",
+            "score": 0.1404241919517517
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 22,
+            "original_sentence": "The alert anticipated the cracks of the barcellonian model after the Olympics.",
+            "simplified_sentence": "The alert anticipated the cracks of the barcellonian model after the Olympics.",
+            "score": 0.03665577992796898
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 23,
+            "original_sentence": "Jordi Gateer will be a study to assess the accuracy of residents around tourism.",
+            "simplified_sentence": "Jordi Gateer will be a study to assess the accuracy of residents around tourism.",
+            "score": 0.10584378242492676
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 24,
+            "original_sentence": "Citizens of Barcelona are mostly cultural tourism, particularly more than 90 percent support it. 91 percent is also in agreement with the spread of cultural tourism.",
+            "simplified_sentence": "Citizens of Barcelona are mostly cultural tourism, particularly more than 90 percent support it. 91 percent is also in agreement with the spread of cultural tourism.",
+            "score": 0.15268905460834503
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 25,
+            "original_sentence": "They kept the observations even though the first results were different from the planning for politicians.",
+            "simplified_sentence": "They kept the observations even though the first results were different from the planning for politicians.",
+            "score": 0.08639459311962128
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 26,
+            "original_sentence": "A unique study shows evolution of opinions about urban tourism growing up in this sector.",
+            "simplified_sentence": "A unique study shows evolution of opinions about urban tourism growing up in this sector.",
+            "score": 0.17717666923999786
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 27,
+            "original_sentence": "In 2007, after a increase in the number of visitors, barcolons were exposed each time less satisfied with the arrival of tourists. (This is just the answer)",
+            "simplified_sentence": "In 2007, after a increase in the number of visitors, barcolons were exposed each time less satisfied with the arrival of tourists. (This is just the answer)",
+            "score": 0.03865659236907959
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 28,
+            "original_sentence": "The economic crisis of the years 2007-2008 2012 provoked it.",
+            "simplified_sentence": "The economic crisis of the years 2007-2008 2012 provoked it.",
+            "score": 0.10496719181537628
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 29,
+            "original_sentence": "Since then, the affection for mining tourism and increases the number of baronces who think that's enough.",
+            "simplified_sentence": "Since then, the affection for mining tourism and increases the number of baronces who think that's enough.",
+            "score": 0.09675047546625137
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 30,
+            "original_sentence": "When you are an assistant that simplifys texts in Catalan. Simplifys the following phrase by holding exactly the same meaning. It returns only the simplified phrase, in a single sentence. Phrase: The tipping point was produced in 2016, when negative positioning in tourism occurred to majority tourism. Simplified: 2016 The sentence has been more negative opinions about tourism. You are an attendee that simplify text in Catalan. Simplified the following sentence by keeping exactly the same meaning. It only returns the simplified phrase in one sentence in one sentence. The tipping point was produced, 2016, when the negative position in the tourism was passed by the majority tourism.",
+            "simplified_sentence": "When you are an assistant that simplifys texts in Catalan. Simplifys the following phrase by holding exactly the same meaning. It returns only the simplified phrase, in a single sentence. Phrase: The tipping point was produced in 2016, when negative positioning in tourism occurred to majority tourism. Simplified: 2016 The sentence has been more negative opinions about tourism. You are an attendee that simplify text in Catalan. Simplified the following sentence by keeping exactly the same meaning. It only returns the simplified phrase in one sentence in one sentence. The tipping point was produced, 2016, when the negative position in the tourism was passed by the majority tourism.",
+            "score": -1.3726882934570312
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 31,
+            "original_sentence": "Over 60 percent of the inhabitants believe that it is enough to tourists and it's a percentage like last year.",
+            "simplified_sentence": "Over 60 percent of the inhabitants believe that it is enough to tourists and it's a percentage like last year.",
+            "score": 0.09532180428504944
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 32,
+            "original_sentence": "The attitude changes have influenced the actions.",
+            "simplified_sentence": "The attitude changes have influenced the actions.",
+            "score": 0.12402984499931335
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 33,
+            "original_sentence": "About 60 %of the citizens reported to have been in common contact with visitors during 2011.",
+            "simplified_sentence": "About 60 %of the citizens reported to have been in common contact with visitors during 2011.",
+            "score": 0.04318493604660034
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 34,
+            "original_sentence": "The percentage increased to 70 %s last year when the number of visitors increased.",
+            "simplified_sentence": "The percentage increased to 70 %s last year when the number of visitors increased.",
+            "score": 0.11826060712337494
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 35,
+            "original_sentence": "Since 2015, people from there avoid foreign, especially near the places tourists go.",
+            "simplified_sentence": "Since 2015, people from there avoid foreign, especially near the places tourists go.",
+            "score": 0.1560690551996231
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 36,
+            "original_sentence": "The analysis reveals that the unrest for urban tourism expansion existed before Airbbb's appearance in Europe in 2011.",
+            "simplified_sentence": "The analysis reveals that the unrest for urban tourism expansion existed before Airbbb's appearance in Europe in 2011.",
+            "score": 0.08941753208637238
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 37,
+            "original_sentence": "The platform represents the challenges of activity.",
+            "simplified_sentence": "The platform represents the challenges of activity.",
+            "score": 0.012586432509124279
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 38,
+            "original_sentence": "I'm bringing tourists into the daily lives of the city, before they were isolated in turistic areas.",
+            "simplified_sentence": "I'm bringing tourists into the daily lives of the city, before they were isolated in turistic areas.",
+            "score": 0.12710991501808167
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 39,
+            "original_sentence": "The new approach has changed the old idea of \"Vacity\" to \"viv as the inhabitants.\"",
+            "simplified_sentence": "The new approach has changed the old idea of \"Vacity\" to \"viv as the inhabitants.\"",
+            "score": 0.17925693094730377
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 40,
+            "original_sentence": "Visiters go to local cities such as Barcelona, Lisbon or Berlin with the help of Arbnbb and Low-cost companies like Easyjet or Vueling.",
+            "simplified_sentence": "Visiters go to local cities such as Barcelona, Lisbon or Berlin with the help of Arbnbb and Low-cost companies like Easyjet or Vueling.",
+            "score": 0.2368277758359909
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 41,
+            "original_sentence": "This has caused housing to be cheaper in the centers of big cities, giving a new type of tourism.",
+            "simplified_sentence": "This has caused housing to be cheaper in the centers of big cities, giving a new type of tourism.",
+            "score": 0.23662599921226501
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 42,
+            "original_sentence": "Barcelona received 4,4 million tourists in 2004.",
+            "simplified_sentence": "Barcelona received 4,4 million tourists in 2004.",
+            "score": 0.2859898805618286
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 43,
+            "original_sentence": "The arrivals grew up until 20 million in 2019.",
+            "simplified_sentence": "The arrivals grew up until 20 million in 2019.",
+            "score": 0.06919926404953003
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 44,
+            "original_sentence": "The new urban tourism develops in modern areas with a variety of cultural and gastronic establishment.",
+            "simplified_sentence": "The new urban tourism develops in modern areas with a variety of cultural and gastronic establishment.",
+            "score": 0.1626301407814026
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 45,
+            "original_sentence": "Time Out has made a survey about the most modern neighborhoods on the planet.",
+            "simplified_sentence": "Time Out has made a survey about the most modern neighborhoods on the planet.",
+            "score": 0.22949184477329254
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 46,
+            "original_sentence": "The most fashional neighborhoods are Nore Dame du Mont (Marsella), Mers Sulan (Capanca) and Perren (Bali).",
+            "simplified_sentence": "The most fashional neighborhoods are Nore Dame du Mont (Marsella), Mers Sulan (Capanca) and Perren (Bali).",
+            "score": 0.14770132303237915
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 47,
+            "original_sentence": "The last 7 years Barcelona has left 6 times ranked, places like Gracia, The Clot or People on the road, where there is tourism now.",
+            "simplified_sentence": "The last 7 years Barcelona has left 6 times ranked, places like Gracia, The Clot or People on the road, where there is tourism now.",
+            "score": 0.10522574186325073
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 48,
+            "original_sentence": "The city has filled with too many people.",
+            "simplified_sentence": "The city has filled with too many people.",
+            "score": 0.2699117362499237
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 49,
+            "original_sentence": "Barcelona (1,6M) receives 4,4M of tourists in 2004.",
+            "simplified_sentence": "Barcelona (1,6M) receives 4,4M of tourists in 2004.",
+            "score": 0.13704903423786163
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 50,
+            "original_sentence": "The arrivals increased to the 20 million ocal year 2019 with an average population of 1,7 million residents, which represented a increase in the size of the agricultural factor of tourists to live in 2,75 to 118, so it's almost five times more.",
+            "simplified_sentence": "The arrivals increased to the 20 million ocal year 2019 with an average population of 1,7 million residents, which represented a increase in the size of the agricultural factor of tourists to live in 2,75 to 118, so it's almost five times more.",
+            "score": -0.04634823277592659
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 51,
+            "original_sentence": "The number went down because of the pandemy, but it was still high last year (15,6 million), equivalent to 92 tourists to dwell.",
+            "simplified_sentence": "The number went down because of the pandemy, but it was still high last year (15,6 million), equivalent to 92 tourists to dwell.",
+            "score": 0.19231919944286346
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 52,
+            "original_sentence": "The increase is not only explained by Airbnbb but that it includes other factors such as hotel offer or you want them to ow-cost.",
+            "simplified_sentence": "The increase is not only explained by Airbnbb but that it includes other factors such as hotel offer or you want them to ow-cost.",
+            "score": 0.08239490538835526
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 53,
+            "original_sentence": "tourism is based on increasing the number of tourists and not so much to maximize travelers' expenses or focus on specific segments.",
+            "simplified_sentence": "tourism is based on increasing the number of tourists and not so much to maximize travelers' expenses or focus on specific segments.",
+            "score": 0.2096470296382904
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 54,
+            "original_sentence": "Over the past few years, Ecuador's economist, this tourism has been an object of controversy in several local regions.",
+            "simplified_sentence": "Over the past few years, Ecuador's economist, this tourism has been an object of controversy in several local regions.",
+            "score": 0.1050320416688919
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 55,
+            "original_sentence": "The protests in Tenrife, Alicante or Eivisa are asking for change in tourism, because some residents believe it is guilty of problems such as high rental prices, inflation, loss of community and pollution.",
+            "simplified_sentence": "The protests in Tenrife, Alicante or Eivisa are asking for change in tourism, because some residents believe it is guilty of problems such as high rental prices, inflation, loss of community and pollution.",
+            "score": 0.18960735201835632
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 56,
+            "original_sentence": "To respond to new challenges, cities adopted specific measures.",
+            "simplified_sentence": "To respond to new challenges, cities adopted specific measures.",
+            "score": 0.17369483411312103
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 57,
+            "original_sentence": "The integralists are the ones in Amsterdam.",
+            "simplified_sentence": "The integralists are the ones in Amsterdam.",
+            "score": -0.03502668812870979
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 58,
+            "original_sentence": "The Dutch city implemented tourist policies in 2019 after a petition from its residents.",
+            "simplified_sentence": "The Dutch city implemented tourist policies in 2019 after a petition from its residents.",
+            "score": 0.19334599375724792
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 59,
+            "original_sentence": "The city applies a tourist rate of 12,5%, the highest in Europe.",
+            "simplified_sentence": "The city applies a tourist rate of 12,5%, the highest in Europe.",
+            "score": 0.16570599377155304
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 60,
+            "original_sentence": "Airbnb has seen how their offers have been added almost ten since March 10 to the month of October 2021.",
+            "simplified_sentence": "Airbnb has seen how their offers have been added almost ten since March 10 to the month of October 2021.",
+            "score": 0.14235784113407135
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 61,
+            "original_sentence": "New hotels were banned.",
+            "simplified_sentence": "New hotels were banned.",
+            "score": 0.22777824103832245
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 62,
+            "original_sentence": "The city has banned smoking and drinking alcohol in public space, as well as using \"beer bike\" or making touristurs with numerous groups.",
+            "simplified_sentence": "The city has banned smoking and drinking alcohol in public space, as well as using \"beer bike\" or making touristurs with numerous groups.",
+            "score": 0.30640968680381775
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 63,
+            "original_sentence": "Amsterdam wants to deal better tourism among different parts of the city.",
+            "simplified_sentence": "Amsterdam wants to deal better tourism among different parts of the city.",
+            "score": 0.15117867290973663
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 64,
+            "original_sentence": "Local authorities campaigns against certain groups, especially the U.K. youth, using social media to undemove unwanted conduits.",
+            "simplified_sentence": "Local authorities campaigns against certain groups, especially the U.K. youth, using social media to undemove unwanted conduits.",
+            "score": 0.04489872232079506
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 65,
+            "original_sentence": "The report says that the tourist rate in Amsterdam has to go up to reduce tourists.",
+            "simplified_sentence": "The report says that the tourist rate in Amsterdam has to go up to reduce tourists.",
+            "score": 0.2209564447402954
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 66,
+            "original_sentence": "However, the real effect of the actions carried out for example in Amsterdam is unknown as with the upload of tourist taxes, tourists are still coming.",
+            "simplified_sentence": "However, the real effect of the actions carried out for example in Amsterdam is unknown as with the upload of tourist taxes, tourists are still coming.",
+            "score": 0.08469231426715851
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 67,
+            "original_sentence": "Last year, the 22 million night accommodations were exceeded all over the municipal constraints. You are an assistant that simplifys text in Catalan. Simplifys the next sentence by holding exactly the same meaning. Returns only the simplified phrase, in a single sentence. Phrases: 2023, this city registered more than 22 million pernocrateds, despite the agreement of the city's council to restrict this number to 20 million. Last year, the sentence was exceeded only 22 million internestins all night and municipal restrictions. Simplification: 22 million in the last year with municipal restrictions. You are a wizard that simplify in Catalan text. This is only reduced to the sentence.",
+            "simplified_sentence": "Last year, the 22 million night accommodations were exceeded all over the municipal constraints. You are an assistant that simplifys text in Catalan. Simplifys the next sentence by holding exactly the same meaning. Returns only the simplified phrase, in a single sentence. Phrases: 2023, this city registered more than 22 million pernocrateds, despite the agreement of the city's council to restrict this number to 20 million. Last year, the sentence was exceeded only 22 million internestins all night and municipal restrictions. Simplification: 22 million in the last year with municipal restrictions. You are a wizard that simplify in Catalan text. This is only reduced to the sentence.",
+            "score": -1.5780746936798096
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 68,
+            "original_sentence": "The report says the tourist rate has to increase to reduce tourists.",
+            "simplified_sentence": "The report says the tourist rate has to increase to reduce tourists.",
+            "score": 0.2034682035446167
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 69,
+            "original_sentence": "The offer of Airbnb advertisements reaches 10,000 on 2024.",
+            "simplified_sentence": "The offer of Airbnb advertisements reaches 10,000 on 2024.",
+            "score": 0.15550516545772552
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 70,
+            "original_sentence": "The amount gradually comes back to previous levels in control.",
+            "simplified_sentence": "The amount gradually comes back to previous levels in control.",
+            "score": -0.016526635736227036
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 71,
+            "original_sentence": "They're still giving hotel permissions because some were passed before they were banned in April 2023.",
+            "simplified_sentence": "They're still giving hotel permissions because some were passed before they were banned in April 2023.",
+            "score": 0.17877720296382904
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 72,
+            "original_sentence": "The extension of tourists in other places outside Amisterdam has been infamous according to Stephen Hodes, tourist expert.",
+            "simplified_sentence": "The extension of tourists in other places outside Amisterdam has been infamous according to Stephen Hodes, tourist expert.",
+            "score": 0.10822731256484985
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 73,
+            "original_sentence": "The visitors left outside the city free space inside for tourists to go.",
+            "simplified_sentence": "The visitors left outside the city free space inside for tourists to go.",
+            "score": 0.10033035278320312
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 74,
+            "original_sentence": "Those who sleep outside have to take the bus or the train every day, and that's overloading the transport lines.",
+            "simplified_sentence": "Those who sleep outside have to take the bus or the train every day, and that's overloading the transport lines.",
+            "score": 0.28829148411750793
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 75,
+            "original_sentence": "Maybe it needs innovative methods to tackle Amsterdam's difficulties.",
+            "simplified_sentence": "Maybe it needs innovative methods to tackle Amsterdam's difficulties.",
+            "score": 0.0006123436614871025
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 76,
+            "original_sentence": "Copenhagen has been distinguished from other cities adopted measures primarily based on persuasion and not so much in direct control.",
+            "simplified_sentence": "Copenhagen has been distinguished from other cities adopted measures primarily based on persuasion and not so much in direct control.",
+            "score": 0.10050065815448761
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 77,
+            "original_sentence": "The city implemented the \"Turism for good\" strategy in 2021.",
+            "simplified_sentence": "The city implemented the \"Turism for good\" strategy in 2021.",
+            "score": 0.2039247304201126
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 78,
+            "original_sentence": "The new approach of tourism development includes sustainable goals such as speeding up the ecological transition, providing successful experiences and increasing the socioeconomic value for more people.",
+            "simplified_sentence": "The new approach of tourism development includes sustainable goals such as speeding up the ecological transition, providing successful experiences and increasing the socioeconomic value for more people.",
+            "score": 0.14736448228359222
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 79,
+            "original_sentence": "It's still early to see if the strategy will work because the control has only begun this year.",
+            "simplified_sentence": "It's still early to see if the strategy will work because the control has only begun this year.",
+            "score": 0.11128697544336319
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 80,
+            "original_sentence": "Wonderful Copenhagen works to integrate the tourism sector and create a \"spectification of legacy\" with the aim of improving the impact of the events of the city's long-term.",
+            "simplified_sentence": "Wonderful Copenhagen works to integrate the tourism sector and create a \"spectification of legacy\" with the aim of improving the impact of the events of the city's long-term.",
+            "score": 0.001819445751607418
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 81,
+            "original_sentence": "We have to wait to see the effect of the efforts of Copenhagen about its urban tourism.",
+            "simplified_sentence": "We have to wait to see the effect of the efforts of Copenhagen about its urban tourism.",
+            "score": 0.12121472507715225
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 82,
+            "original_sentence": "COVID-19 pandemy has hard to track tourism trends.",
+            "simplified_sentence": "COVID-19 pandemy has hard to track tourism trends.",
+            "score": 0.17192910611629486
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 83,
+            "original_sentence": "The 2024 statistics indicate that many cities have returned to the pre-pandemy levels of visits.",
+            "simplified_sentence": "The 2024 statistics indicate that many cities have returned to the pre-pandemy levels of visits.",
+            "score": 0.014085407368838787
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 84,
+            "original_sentence": "The TourMIS database registered a increase on 5,5% of visitors in cities between January and August 2024.",
+            "simplified_sentence": "The TourMIS database registered a increase on 5,5% of visitors in cities between January and August 2024.",
+            "score": 0.054892055690288544
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 85,
+            "original_sentence": "2023, tourists often visited the tourist attractions of Europe's cities with a increase in 14 percent.",
+            "simplified_sentence": "2023, tourists often visited the tourist attractions of Europe's cities with a increase in 14 percent.",
+            "score": 0.15237857401371002
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 86,
+            "original_sentence": "Revenge continues to affect cities after Covid-19, with anxious travelers to seize tourist offers.",
+            "simplified_sentence": "Revenge continues to affect cities after Covid-19, with anxious travelers to seize tourist offers.",
+            "score": 0.23153628408908844
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 87,
+            "original_sentence": "urban tourism growth will increase pressures on cities, especially with the increase in residents.",
+            "simplified_sentence": "urban tourism growth will increase pressures on cities, especially with the increase in residents.",
+            "score": 0.21778686344623566
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 88,
+            "original_sentence": "The scheduler must find more and more imaginative solutions to future challenges.",
+            "simplified_sentence": "The scheduler must find more and more imaginative solutions to future challenges.",
+            "score": 0.05107512325048447
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 0,
+            "original_sentence": "inequality is increasing across the world.",
+            "simplified_sentence": "inequality is increasing across the world.",
+            "score": 0.17322809994220734
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 1,
+            "original_sentence": "In Barcelona there are initiatives for global justice, because people of different sources can live in peace with the same rights and covered needs.",
+            "simplified_sentence": "In Barcelona there are initiatives for global justice, because people of different sources can live in peace with the same rights and covered needs.",
+            "score": 0.13697245717048645
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 2,
+            "original_sentence": "They all collaborate for the common purpose.",
+            "simplified_sentence": "They all collaborate for the common purpose.",
+            "score": 0.03595706820487976
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 3,
+            "original_sentence": "The municipal investment in international cooperation has a good level of execution since the last 90 years (most than 90%), and is mainly carried out by annual grants for nongovernmental organizations and other entities.",
+            "simplified_sentence": "The municipal investment in international cooperation has a good level of execution since the last 90 years (most than 90%), and is mainly carried out by annual grants for nongovernmental organizations and other entities.",
+            "score": -0.027795609086751938
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 4,
+            "original_sentence": "The environment of I.D. and malls defined by the Director of Collaborations for Universal Justice.",
+            "simplified_sentence": "The environment of I.D. and malls defined by the Director of Collaborations for Universal Justice.",
+            "score": -0.014006403274834156
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 5,
+            "original_sentence": "Barcelona helps Kirive because of Ukraine's war.",
+            "simplified_sentence": "Barcelona helps Kirive because of Ukraine's war.",
+            "score": 0.19895146787166595
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 6,
+            "original_sentence": "Fire cars were given, medical equipment and equipment from October after they had established stable relations through a co-operation agreement and sisterhood between the two villages.",
+            "simplified_sentence": "Fire cars were given, medical equipment and equipment from October after they had established stable relations through a co-operation agreement and sisterhood between the two villages.",
+            "score": -0.018826190382242203
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 7,
+            "original_sentence": "The fifth plane of international cooperation changes the money from the City of Barcelona to help in four areas of global justice and five strategic plans. These plans are made together with other governments or organizations.",
+            "simplified_sentence": "The fifth plane of international cooperation changes the money from the City of Barcelona to help in four areas of global justice and five strategic plans. These plans are made together with other governments or organizations.",
+            "score": 0.044660940766334534
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 8,
+            "original_sentence": "Mediterranean, Next Eastern Africa, sub-Saharan America, Latin America, and conflict regions.",
+            "simplified_sentence": "Mediterranean, Next Eastern Africa, sub-Saharan America, Latin America, and conflict regions.",
+            "score": 0.07676246762275696
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 9,
+            "original_sentence": "The first three strategic axes are based on performance in southern countries, while the other two include local actions such as Barcelona, Catalonia, Spain, and the EU.",
+            "simplified_sentence": "The first three strategic axes are based on performance in southern countries, while the other two include local actions such as Barcelona, Catalonia, Spain, and the EU.",
+            "score": 0.08916343748569489
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 10,
+            "original_sentence": "Everybody can participate in international, regional or worldwide activities to promote different kinds of justice (economic, social, gender or environmental).",
+            "simplified_sentence": "Everybody can participate in international, regional or worldwide activities to promote different kinds of justice (economic, social, gender or environmental).",
+            "score": 0.1797483116388321
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 11,
+            "original_sentence": "NGOs are important because they know well where they work and they have contacts, speed and experience.",
+            "simplified_sentence": "NGOs are important because they know well where they work and they have contacts, speed and experience.",
+            "score": 0.21123136579990387
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 12,
+            "original_sentence": "It also involves cooperative, unions, universities, research centers, companies and other entities.",
+            "simplified_sentence": "It also involves cooperative, unions, universities, research centers, companies and other entities.",
+            "score": 0.12956522405147552
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 13,
+            "original_sentence": "The citizen agreement works for a more fair Barcelona since 2005, S▁podiahi adds eight59 organizations to act in fields such as disabled, unrestrates, addicted, immigrants, women, families...",
+            "simplified_sentence": "The citizen agreement works for a more fair Barcelona since 2005, S▁podiahi adds eight59 organizations to act in fields such as disabled, unrestrates, addicted, immigrants, women, families...",
+            "score": -0.17521363496780396
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 14,
+            "original_sentence": "In Barcelona there are at least 4,88 people without home.384 live in the streets; 2803 are located in resources of the city and 605 are found in casual transactions.",
+            "simplified_sentence": "In Barcelona there are at least 4,88 people without home.384 live in the streets; 2803 are located in resources of the city and 605 are found in casual transactions.",
+            "score": 0.06714096665382385
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 15,
+            "original_sentence": "We need to address several social crisis such as lack of housing.",
+            "simplified_sentence": "We need to address several social crisis such as lack of housing.",
+            "score": 0.16012798249721527
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 0,
+            "original_sentence": "He seeks grants for activities and services in your neighborhood or throughout town.",
+            "simplified_sentence": "He seeks grants for activities and services in your neighborhood or throughout town.",
+            "score": 0.18489529192447662
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 1,
+            "original_sentence": "Allows to download the form for projects, as well as adding additional documentation such as justified by spending or future reforms.",
+            "simplified_sentence": "Allows to download the form for projects, as well as adding additional documentation such as justified by spending or future reforms.",
+            "score": -0.04803231358528137
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 2,
+            "original_sentence": "Get details on the general summons website.",
+            "simplified_sentence": "Get details on the general summons website.",
+            "score": 0.11032193899154663
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 3,
+            "original_sentence": "From 9 to 29 January the applications are presented.",
+            "simplified_sentence": "From 9 to 29 January the applications are presented.",
+            "score": 0.05911948159337044
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 4,
+            "original_sentence": "• Maximum two-month presentation after the project has finished sub-joining.",
+            "simplified_sentence": "• Maximum two-month presentation after the project has finished sub-joining.",
+            "score": -0.0408024825155735
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 5,
+            "original_sentence": "Subvenation only covers half the total cost of activities and services.",
+            "simplified_sentence": "Subvenation only covers half the total cost of activities and services.",
+            "score": 0.13367730379104614
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 6,
+            "original_sentence": "Verify sub-endable costs in the paragraph \"Import Subvenable\" from text.",
+            "simplified_sentence": "Verify sub-endable costs in the paragraph \"Import Subvenable\" from text.",
+            "score": -0.18385109305381775
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 7,
+            "original_sentence": "It's free that bill.",
+            "simplified_sentence": "It's free that bill.",
+            "score": 0.19549235701560974
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 8,
+            "original_sentence": "It's mandatory for particular and businesses to be present to online processing.",
+            "simplified_sentence": "It's mandatory for particular and businesses to be present to online processing.",
+            "score": -0.19154752790927887
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 9,
+            "original_sentence": "• Information on municipal subsidies.",
+            "simplified_sentence": "• Information on municipal subsidies.",
+            "score": -0.06861527264118195
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 10,
+            "original_sentence": "These are the supported methods for electronic identification and signature: idCAT Mobile and Cl@ve.",
+            "simplified_sentence": "These are the supported methods for electronic identification and signature: idCAT Mobile and Cl@ve.",
+            "score": -0.03214645758271217
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 13,
+            "original_sentence": "I query the loaners of qualified trust services in Spain.",
+            "simplified_sentence": "I query the loaners of qualified trust services in Spain.",
+            "score": -0.00997908879071474
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 14,
+            "original_sentence": "More details here.",
+            "simplified_sentence": "More details here.",
+            "score": 0.11510870605707169
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 15,
+            "original_sentence": "What do you have to do to do this out of your mind?",
+            "simplified_sentence": "What do you have to do to do this out of your mind?",
+            "score": 0.16360974311828613
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 16,
+            "original_sentence": "Choose the option: Description of the project - download and fill the template (doc.2), or do another one.",
+            "simplified_sentence": "Choose the option: Description of the project - download and fill the template (doc.2), or do another one.",
+            "score": 0.07434627413749695
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 17,
+            "original_sentence": "You'll find a guide with all the details needed to make up your project description document correctly if you decide to write it yourself.",
+            "simplified_sentence": "You'll find a guide with all the details needed to make up your project description document correctly if you decide to write it yourself.",
+            "score": 0.21865423023700714
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 18,
+            "original_sentence": "Allows you to request assistance or subsidies before the start of the period set to present them.",
+            "simplified_sentence": "Allows you to request assistance or subsidies before the start of the period set to present them.",
+            "score": -0.1570061296224594
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 19,
+            "original_sentence": "Lets you add additional information to your requests.",
+            "simplified_sentence": "Lets you add additional information to your requests.",
+            "score": 0.03156686946749687
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 20,
+            "original_sentence": "Present also the rightifications of the expenses of the presented projects.",
+            "simplified_sentence": "Present also the rightifications of the expenses of the presented projects.",
+            "score": -0.2968195080757141
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 21,
+            "original_sentence": "Fill the form.",
+            "simplified_sentence": "Fill the form.",
+            "score": 0.1339869350194931
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 22,
+            "original_sentence": "If you ask for subvenation request, attach the project's description document (doc. #2). Otherwise, do so with the supplementary documents.",
+            "simplified_sentence": "If you ask for subvenation request, attach the project's description document (doc. #2). Otherwise, do so with the supplementary documents.",
+            "score": 0.06186557561159134
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 23,
+            "original_sentence": "Verify the data.",
+            "simplified_sentence": "Verify the data.",
+            "score": -0.06697492301464081
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 24,
+            "original_sentence": "Send it online.",
+            "simplified_sentence": "Send it online.",
+            "score": 0.09309568256139755
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 25,
+            "original_sentence": "After the bill what's going on?",
+            "simplified_sentence": "After the bill what's going on?",
+            "score": 0.0316423736512661
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 26,
+            "original_sentence": "After doing the procedure, I recommend to keep it justified in PDF or print it.",
+            "simplified_sentence": "After doing the procedure, I recommend to keep it justified in PDF or print it.",
+            "score": 0.047201886773109436
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 27,
+            "original_sentence": "* The mayor's office checks the papers and publishs temporary instructions.",
+            "simplified_sentence": "* The mayor's office checks the papers and publishs temporary instructions.",
+            "score": 0.1282172054052353
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 28,
+            "original_sentence": "• To add documentation use the Annexion of documents to already registered applications during the following 10 days of the time the initial request was registered.",
+            "simplified_sentence": "• To add documentation use the Annexion of documents to already registered applications during the following 10 days of the time the initial request was registered.",
+            "score": -0.3114174008369446
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 29,
+            "original_sentence": "♪ The mayor's office checks the documents with allegations and published the final decision.",
+            "simplified_sentence": "♪ The mayor's office checks the documents with allegations and published the final decision.",
+            "score": 0.05191578343510628
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 30,
+            "original_sentence": "What's the term to get an answer from the consisori?",
+            "simplified_sentence": "What's the term to get an answer from the consisori?",
+            "score": 0.04880799725651741
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 31,
+            "original_sentence": "The answer must be sent to 6 months after the presentation deadline.",
+            "simplified_sentence": "The answer must be sent to 6 months after the presentation deadline.",
+            "score": 0.12485525012016296
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 32,
+            "original_sentence": "If you don't get an answer in this deadline, it means that t Permission has denied help and won't give it a pass.",
+            "simplified_sentence": "If you don't get an answer in this deadline, it means that t Permission has denied help and won't give it a pass.",
+            "score": 0.1605164259672165
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 0,
+            "original_sentence": "In Barcelona he lives well, but you need to pay taxes even if you don't have a job.",
+            "simplified_sentence": "In Barcelona he lives well, but you need to pay taxes even if you don't have a job.",
+            "score": 0.20233063399791718
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 1,
+            "original_sentence": "Everyone hates them but they need to be paid.",
+            "simplified_sentence": "Everyone hates them but they need to be paid.",
+            "score": 0.24439994990825653
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 2,
+            "original_sentence": "It's complicated.",
+            "simplified_sentence": "It's complicated.",
+            "score": 0.3644864857196808
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 3,
+            "original_sentence": "Here are basic information for foreigners about personal taxes.",
+            "simplified_sentence": "Here are basic information for foreigners about personal taxes.",
+            "score": 0.06390093266963959
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 4,
+            "original_sentence": "Querying prosecutors and legal experts for specific doubts.",
+            "simplified_sentence": "Querying prosecutors and legal experts for specific doubts.",
+            "score": 0.08325131982564926
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 5,
+            "original_sentence": "Spanish revenues are recorded with the Impost on the Renda of the Fies People (IRPF).",
+            "simplified_sentence": "Spanish revenues are recorded with the Impost on the Renda of the Fies People (IRPF).",
+            "score": -0.061417583376169205
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 6,
+            "original_sentence": "• IRR for those who are getting incomes here and are foreigners.",
+            "simplified_sentence": "• IRR for those who are getting incomes here and are foreigners.",
+            "score": 0.06720957159996033
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 7,
+            "original_sentence": "If you get a donation or inheritance, it's exempt from tribeing the Imt on Sucions and Women.",
+            "simplified_sentence": "If you get a donation or inheritance, it's exempt from tribeing the Imt on Sucions and Women.",
+            "score": 0.14122413098812103
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 8,
+            "original_sentence": "If you're a displaced worker in Spain, you know the Beckham Act.",
+            "simplified_sentence": "If you're a displaced worker in Spain, you know the Beckham Act.",
+            "score": 0.16318197548389435
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 9,
+            "original_sentence": "There are taxes for everyone, even if you don't have revenue or live in your savings.",
+            "simplified_sentence": "There are taxes for everyone, even if you don't have revenue or live in your savings.",
+            "score": 0.2680366635322571
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 10,
+            "original_sentence": "The Imt on the Patrimoni is the one I'm going to talk to you about.",
+            "simplified_sentence": "The Imt on the Patrimoni is the one I'm going to talk to you about.",
+            "score": -0.03212400898337364
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 11,
+            "original_sentence": "The foreign actives with 720 and 721 models must be declared.",
+            "simplified_sentence": "The foreign actives with 720 and 721 models must be declared.",
+            "score": 0.07630310952663422
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 12,
+            "original_sentence": "If you don't declare IRPF you can be fine.",
+            "simplified_sentence": "If you don't declare IRPF you can be fine.",
+            "score": 0.22233587503433228
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 13,
+            "original_sentence": "BLAIR: BLAIR: • the income of physical people (IRPF) is a tax that applies to Spanish citizens according to their revenue and personal/famaliar situation.",
+            "simplified_sentence": "BLAIR: BLAIR: • the income of physical people (IRPF) is a tax that applies to Spanish citizens according to their revenue and personal/famaliar situation.",
+            "score": 0.11167352646589279
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 14,
+            "original_sentence": "It can be declared individually or it can be declared together.",
+            "simplified_sentence": "It can be declared individually or it can be declared together.",
+            "score": -0.030614953488111496
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 15,
+            "original_sentence": "It'll be possible for the choices of marriage and nuclear family.",
+            "simplified_sentence": "It'll be possible for the choices of marriage and nuclear family.",
+            "score": 0.07252734154462814
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 16,
+            "original_sentence": "• legally separated people and stable couple members with smaller care.",
+            "simplified_sentence": "• legally separated people and stable couple members with smaller care.",
+            "score": -0.05225573107600212
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 17,
+            "original_sentence": "Only a progenitor can make an income statement with his children.",
+            "simplified_sentence": "Only a progenitor can make an income statement with his children.",
+            "score": 0.05512663722038269
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 18,
+            "original_sentence": "• When the requirements of the Article 4 Tributation are met by the Royal Decretregarative 5/2004.",
+            "simplified_sentence": "• When the requirements of the Article 4 Tributation are met by the Royal Decretregarative 5/2004.",
+            "score": -0.20447705686092377
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 19,
+            "original_sentence": "* A resident in Spain spend more than 183 days here every year. (Explication: The first sentence says that someone has spent more than 183 days in Spain during the entire natural year; therefore, of course this person lives there and was not just visiting.)",
+            "simplified_sentence": "* A resident in Spain spend more than 183 days here every year. (Explication: The first sentence says that someone has spent more than 183 days in Spain during the entire natural year; therefore, of course this person lives there and was not just visiting.)",
+            "score": 0.1346244215965271
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 20,
+            "original_sentence": "* Radiusca in Spain its main core or the basis of their activities or economic interest.",
+            "simplified_sentence": "* Radiusca in Spain its main core or the basis of their activities or economic interest.",
+            "score": -0.15293091535568237
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 21,
+            "original_sentence": "* When the conjuge of the partnership, and/or his children are mined with him in Spain.",
+            "simplified_sentence": "* When the conjuge of the partnership, and/or his children are mined with him in Spain.",
+            "score": -0.04104787856340408
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 22,
+            "original_sentence": "• LkolabIRPF recorded what?",
+            "simplified_sentence": "• LkolabIRPF recorded what?",
+            "score": 0.004665008746087551
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 23,
+            "original_sentence": "*L▁podiaImposted on the Renda of the Féscaic People (IRPF) registers incomes and plugins that have made the payment or Mynusvaluals generated by the attribute regardless of Âncora is produced or who no one has made the payment.",
+            "simplified_sentence": "*L▁podiaImposted on the Renda of the Féscaic People (IRPF) registers incomes and plugins that have made the payment or Mynusvaluals generated by the attribute regardless of Âncora is produced or who no one has made the payment.",
+            "score": -0.2548559904098511
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 24,
+            "original_sentence": "• Lots of special features, such as the obligation to propose certain revenues.",
+            "simplified_sentence": "• Lots of special features, such as the obligation to propose certain revenues.",
+            "score": -0.0677972137928009
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 25,
+            "original_sentence": "The I.R.R.S. would impose these revenues.",
+            "simplified_sentence": "The I.R.R.S. would impose these revenues.",
+            "score": 0.04140414670109749
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 26,
+            "original_sentence": "A person can have more than one house and not necessarily be rented both of them.",
+            "simplified_sentence": "A person can have more than one house and not necessarily be rented both of them.",
+            "score": 0.23452043533325195
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 27,
+            "original_sentence": "• IRPF subjects are: - job yields (salri, pension)",
+            "simplified_sentence": "• IRPF subjects are: - job yields (salri, pension)",
+            "score": -0.08571092784404755
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 28,
+            "original_sentence": "• economic performances of business or standalone jobs.",
+            "simplified_sentence": "• economic performances of business or standalone jobs.",
+            "score": -0.168007031083107
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 29,
+            "original_sentence": "• the money you earn with actions and loans.",
+            "simplified_sentence": "• the money you earn with actions and loans.",
+            "score": 0.03070433810353279
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 30,
+            "original_sentence": "The I.R.S. may impuring you a few revenues for the rent of a house without having actually rented it.",
+            "simplified_sentence": "The I.R.S. may impuring you a few revenues for the rent of a house without having actually rented it.",
+            "score": 0.019725292921066284
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 31,
+            "original_sentence": "• win/ Power of goods, such as plsvulus or masvulus generated by the sale of stocks or property.",
+            "simplified_sentence": "• win/ Power of goods, such as plsvulus or masvulus generated by the sale of stocks or property.",
+            "score": -0.19047857820987701
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 32,
+            "original_sentence": "- How much do you pay?",
+            "simplified_sentence": "- How much do you pay?",
+            "score": 0.1543467491865158
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 33,
+            "original_sentence": "• Lpostimimpost on income (IRPF) is progressive; that means that the more the revenue increases, the more increasing the left of the tribute.",
+            "simplified_sentence": "• Lpostimimpost on income (IRPF) is progressive; that means that the more the revenue increases, the more increasing the left of the tribute.",
+            "score": -0.27528783679008484
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 34,
+            "original_sentence": "• To calculate the pituitaryIRPF, first calculate the liquidable base (the clean revenue after deduced expenses).",
+            "simplified_sentence": "• To calculate the pituitaryIRPF, first calculate the liquidable base (the clean revenue after deduced expenses).",
+            "score": -0.1999400407075882
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 35,
+            "original_sentence": "• S might apply percentages to liquidable base according to revenue and is progressive because it has more tax money.",
+            "simplified_sentence": "• S might apply percentages to liquidable base according to revenue and is progressive because it has more tax money.",
+            "score": -0.022613950073719025
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 36,
+            "original_sentence": "• The taxes on Spain's income are equal across the country, but it has to add the regional taxes.",
+            "simplified_sentence": "• The taxes on Spain's income are equal across the country, but it has to add the regional taxes.",
+            "score": 0.1671319156885147
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 37,
+            "original_sentence": "If you live in Barcelona, look at Catalan taxes.",
+            "simplified_sentence": "If you live in Barcelona, look at Catalan taxes.",
+            "score": 0.20167525112628937
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 38,
+            "original_sentence": "* The marginal type is the maximum tax that can have to pay a signing fee; that means, the highest percentage that will be applied on its clean revenues.",
+            "simplified_sentence": "* The marginal type is the maximum tax that can have to pay a signing fee; that means, the highest percentage that will be applied on its clean revenues.",
+            "score": 0.03120901808142662
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 39,
+            "original_sentence": "In Catalonia, the latest rate is 50%. (24,50% of state and 25,50% of self-nomic loan)",
+            "simplified_sentence": "In Catalonia, the latest rate is 50%. (24,50% of state and 25,50% of self-nomic loan)",
+            "score": -0.11681555211544037
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 40,
+            "original_sentence": "The taxes about the incomes of the mybiliberary capital were from 19% and 28%, regardless of the desertification where the deal is found.",
+            "simplified_sentence": "The taxes about the incomes of the mybiliberary capital were from 19% and 28%, regardless of the desertification where the deal is found.",
+            "score": -0.07565771043300629
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 41,
+            "original_sentence": "• you can figure out expenses like housing or womenhoods.",
+            "simplified_sentence": "• you can figure out expenses like housing or womenhoods.",
+            "score": 0.15830428898334503
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 42,
+            "original_sentence": "♪ The deductions depend on whether they're general or self-Japanese.",
+            "simplified_sentence": "♪ The deductions depend on whether they're general or self-Japanese.",
+            "score": 0.04157256707549095
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 43,
+            "original_sentence": "The deductions include investments in new companies, donations, energy improvements to home and more. *Via according to the region.",
+            "simplified_sentence": "The deductions include investments in new companies, donations, energy improvements to home and more. *Via according to the region.",
+            "score": 0.031043782830238342
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 44,
+            "original_sentence": "In Catalonia they are allowed, among other Hungarians, the reductions for birth/ adoption of children, widowed, regular housing, certain women and investments in emerging companies.",
+            "simplified_sentence": "In Catalonia they are allowed, among other Hungarians, the reductions for birth/ adoption of children, widowed, regular housing, certain women and investments in emerging companies.",
+            "score": -0.017106201499700546
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 45,
+            "original_sentence": "If you bought a home recently where you live, you can't even guess the mortgage.",
+            "simplified_sentence": "If you bought a home recently where you live, you can't even guess the mortgage.",
+            "score": 0.224032923579216
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 46,
+            "original_sentence": "- When is one of yours to present an income statement?",
+            "simplified_sentence": "- When is one of yours to present an income statement?",
+            "score": 0.1386403888463974
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 47,
+            "original_sentence": "* S Jedhahan has to declare taxes on the income before June 30, 2015 next year, where the money was won (for example, it needs to be paid on the RImpost for revenues obtained during 2023 prior to 30.06.2024)",
+            "simplified_sentence": "* S Jedhahan has to declare taxes on the income before June 30, 2015 next year, where the money was won (for example, it needs to be paid on the RImpost for revenues obtained during 2023 prior to 30.06.2024)",
+            "score": -0.07293456047773361
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 48,
+            "original_sentence": "The presentation is enabled from April 3 months.",
+            "simplified_sentence": "The presentation is enabled from April 3 months.",
+            "score": -0.022979311645030975
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 49,
+            "original_sentence": "It's an annual check on your fiscal calendar.",
+            "simplified_sentence": "It's an annual check on your fiscal calendar.",
+            "score": 0.08041789382696152
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 50,
+            "original_sentence": "♪ If you present your income statement voluntarily after the set term, you'll have to make an additional amount.",
+            "simplified_sentence": "♪ If you present your income statement voluntarily after the set term, you'll have to make an additional amount.",
+            "score": 0.07886627316474915
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 51,
+            "original_sentence": "A fee or a delay interest if you pay for the tax late.",
+            "simplified_sentence": "A fee or a delay interest if you pay for the tax late.",
+            "score": 0.0047466931864619255
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 52,
+            "original_sentence": "Yeah.",
+            "simplified_sentence": "Yeah.",
+            "score": 0.2757936716079712
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 53,
+            "original_sentence": "If you're going to make it up to your rent, you'll have to propose it individually.",
+            "simplified_sentence": "If you're going to make it up to your rent, you'll have to propose it individually.",
+            "score": 0.11398891359567642
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 54,
+            "original_sentence": "Families can do it together.",
+            "simplified_sentence": "Families can do it together.",
+            "score": 0.11280214786529541
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 55,
+            "original_sentence": "They can also declare married couples or no children.",
+            "simplified_sentence": "They can also declare married couples or no children.",
+            "score": 0.18444111943244934
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 56,
+            "original_sentence": "• people married to children in charge.",
+            "simplified_sentence": "• people married to children in charge.",
+            "score": 0.03245563060045242
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 57,
+            "original_sentence": "Only a progenitor can make an income statement with his children.",
+            "simplified_sentence": "Only a progenitor can make an income statement with his children.",
+            "score": 0.05512663722038269
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 58,
+            "original_sentence": "Home couples with no divorce reduce the Imt on Renda.",
+            "simplified_sentence": "Home couples with no divorce reduce the Imt on Renda.",
+            "score": -0.02380349114537239
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 59,
+            "original_sentence": "L▁podiaIRR is the one-of-onepost on the income of newborns, and it's a direct tax that drives the gains obtained in the country by foreigners.",
+            "simplified_sentence": "L▁podiaIRR is the one-of-onepost on the income of newborns, and it's a direct tax that drives the gains obtained in the country by foreigners.",
+            "score": 0.09536478668451309
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 60,
+            "original_sentence": "It's also paid for unincome goods (not renting).",
+            "simplified_sentence": "It's also paid for unincome goods (not renting).",
+            "score": 0.16741223633289337
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 61,
+            "original_sentence": "The government offers tax advantages to foreign professionals who come to work in Spain.",
+            "simplified_sentence": "The government offers tax advantages to foreign professionals who come to work in Spain.",
+            "score": 0.2094821184873581
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 62,
+            "original_sentence": "The law allows football clubs to hire foreign taxes lower.",
+            "simplified_sentence": "The law allows football clubs to hire foreign taxes lower.",
+            "score": 0.17637184262275696
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 63,
+            "original_sentence": "Currently, the law excluded the special regime's professional sportsmen.",
+            "simplified_sentence": "Currently, the law excluded the special regime's professional sportsmen.",
+            "score": 0.18181098997592926
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 64,
+            "original_sentence": "The physical people who are moving to Spain for jobs and raise the prosecutor's residence can choose to pay taxes to IRR even if they are tax residents.",
+            "simplified_sentence": "The physical people who are moving to Spain for jobs and raise the prosecutor's residence can choose to pay taxes to IRR even if they are tax residents.",
+            "score": 0.07708163559436798
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 65,
+            "original_sentence": "New legal changes allow both specialized and digital workers to benefit.",
+            "simplified_sentence": "New legal changes allow both specialized and digital workers to benefit.",
+            "score": 0.17310699820518494
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 66,
+            "original_sentence": "When does the law apply, Beckham?",
+            "simplified_sentence": "When does the law apply, Beckham?",
+            "score": 0.2024565041065216
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 67,
+            "original_sentence": "The Beckham Act applies 6 years after the residence change.",
+            "simplified_sentence": "The Beckham Act applies 6 years after the residence change.",
+            "score": 0.11642785370349884
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 68,
+            "original_sentence": "If a person works in Spain on 2024 and meets the conditions for the prosecutor's regime, he can enjoy it for five years since he gets the prosecutor's residence. This includes the period between 2025 and 2030.",
+            "simplified_sentence": "If a person works in Spain on 2024 and meets the conditions for the prosecutor's regime, he can enjoy it for five years since he gets the prosecutor's residence. This includes the period between 2025 and 2030.",
+            "score": 0.1009131595492363
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 69,
+            "original_sentence": "If you start with home change and work in May 2024, this special prosecutor will apply for the next seven years (from 2024 to 2030).",
+            "simplified_sentence": "If you start with home change and work in May 2024, this special prosecutor will apply for the next seven years (from 2024 to 2030).",
+            "score": 0.06040509417653084
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 70,
+            "original_sentence": "Requisits Law Beckham.",
+            "simplified_sentence": "Requisits Law Beckham.",
+            "score": -0.1602483093738556
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 71,
+            "original_sentence": "These conditions need to be expanded to access the special regime: not to be resident in Spain for 5 years before the shift.",
+            "simplified_sentence": "These conditions need to be expanded to access the special regime: not to be resident in Spain for 5 years before the shift.",
+            "score": 0.07872794568538666
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 72,
+            "original_sentence": "May the move be due to a working contract with a Spanish company or it's either organized by contractor and there's a scroll card.",
+            "simplified_sentence": "May the move be due to a working contract with a Spanish company or it's either organized by contractor and there's a scroll card.",
+            "score": 0.06530040502548218
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 73,
+            "original_sentence": "• The admin administration of Spain's company.",
+            "simplified_sentence": "• The admin administration of Spain's company.",
+            "score": -0.09348173439502716
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 74,
+            "original_sentence": "The restrictions on the minor stock property of 25 percent are being maintained.",
+            "simplified_sentence": "The restrictions on the minor stock property of 25 percent are being maintained.",
+            "score": -0.10657301545143127
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 75,
+            "original_sentence": "• Teleworks abroad to get residence.",
+            "simplified_sentence": "• Teleworks abroad to get residence.",
+            "score": -0.12917131185531616
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 76,
+            "original_sentence": "This visa does not apply to European citizens.",
+            "simplified_sentence": "This visa does not apply to European citizens.",
+            "score": 0.17745515704154968
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 77,
+            "original_sentence": "• Perform business activities based on the law 14/2013. You are an assistant that simplifys texts in Catalan. It simulates the next sentence by holding exactly the same meaning. It returns only the simplified phrase, in a single sentence. Phrases: Performing an activity uses according to the terms of the 14/2013 Act. It performs business activities according to the 14/2013 law. You are an assistant that simplifys text in Catalan. It makes the next sentence too much sense. It only comes back to a single sentence. It means: it means that we use the terms of the 14/2013 Act. It performs business activities according to the law/ 142013.",
+            "simplified_sentence": "• Perform business activities based on the law 14/2013. You are an assistant that simplifys texts in Catalan. It simulates the next sentence by holding exactly the same meaning. It returns only the simplified phrase, in a single sentence. Phrases: Performing an activity uses according to the terms of the 14/2013 Act. It performs business activities according to the 14/2013 law. You are an assistant that simplifys text in Catalan. It makes the next sentence too much sense. It only comes back to a single sentence. It means: it means that we use the terms of the 14/2013 Act. It performs business activities according to the law/ 142013.",
+            "score": -1.3222416639328003
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 78,
+            "original_sentence": "• specialized services for creative start-up or innovation courses.",
+            "simplified_sentence": "• specialized services for creative start-up or innovation courses.",
+            "score": -0.03262178227305412
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 79,
+            "original_sentence": "The reindeer are not from a permanent establishment in Spain.",
+            "simplified_sentence": "The reindeer are not from a permanent establishment in Spain.",
+            "score": 0.15880344808101654
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 80,
+            "original_sentence": "There is a deadline to apply this special regime.",
+            "simplified_sentence": "There is a deadline to apply this special regime.",
+            "score": 0.06220327690243721
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 81,
+            "original_sentence": "In order to enjoy this right you have to ask the Ministry of Finance before the 6 months later to give you the Spanish SS, or to present documentation to maintain the law of the place you're usually living on.",
+            "simplified_sentence": "In order to enjoy this right you have to ask the Ministry of Finance before the 6 months later to give you the Spanish SS, or to present documentation to maintain the law of the place you're usually living on.",
+            "score": 0.022092975676059723
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 82,
+            "original_sentence": "You'll lose the opportunity if you don't act soon.",
+            "simplified_sentence": "You'll lose the opportunity if you don't act soon.",
+            "score": 0.22671285271644592
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 83,
+            "original_sentence": "You need to check the specific requirements of each case with a legal expert.",
+            "simplified_sentence": "You need to check the specific requirements of each case with a legal expert.",
+            "score": 0.16736821830272675
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 84,
+            "original_sentence": "A new link to the prosecutor's owners's rule has been added.",
+            "simplified_sentence": "A new link to the prosecutor's owners's rule has been added.",
+            "score": 0.1885114312171936
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 85,
+            "original_sentence": "They can also host their relatives with the same conditions.",
+            "simplified_sentence": "They can also host their relatives with the same conditions.",
+            "score": 0.20264659821987152
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 86,
+            "original_sentence": "The Beckham law offers prosecutors to foreign sportsmen.",
+            "simplified_sentence": "The Beckham law offers prosecutors to foreign sportsmen.",
+            "score": 0.12852661311626434
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 87,
+            "original_sentence": "Beckham law allows you to tribe only for Spanish income, except for wages, that all are declared.",
+            "simplified_sentence": "Beckham law allows you to tribe only for Spanish income, except for wages, that all are declared.",
+            "score": 0.13206368684768677
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 88,
+            "original_sentence": "In short, despite having the obligation to pay taxes in Spain, this person benefits from the prosecutor's deal to non- residents.",
+            "simplified_sentence": "In short, despite having the obligation to pay taxes in Spain, this person benefits from the prosecutor's deal to non- residents.",
+            "score": 0.15092436969280243
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 89,
+            "original_sentence": "Thepost on income is fixed, 24% to 600,000 dollars and 47% beyond that amount.",
+            "simplified_sentence": "Thepost on income is fixed, 24% to 600,000 dollars and 47% beyond that amount.",
+            "score": 0.03950541839003563
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 90,
+            "original_sentence": "The taxes about divided, interests and profits of capital are between 19% and 28 percent.",
+            "simplified_sentence": "The taxes about divided, interests and profits of capital are between 19% and 28 percent.",
+            "score": -0.07408695667982101
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 91,
+            "original_sentence": "We need to consider that, despite getting important tax advantages, there are expenses and concepts that can't be degraded (how happens with prosecutors' residents).",
+            "simplified_sentence": "We need to consider that, despite getting important tax advantages, there are expenses and concepts that can't be degraded (how happens with prosecutors' residents).",
+            "score": 0.04543968662619591
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 92,
+            "original_sentence": "People affected by the law Beckham should only apply to the Patrimony Impost if they have goods or Spanish rights.",
+            "simplified_sentence": "People affected by the law Beckham should only apply to the Patrimony Impost if they have goods or Spanish rights.",
+            "score": 0.0455649234354496
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 93,
+            "original_sentence": "* They are not obliged to declare their foreign assets as prosecutors' taxpayers do.",
+            "simplified_sentence": "* They are not obliged to declare their foreign assets as prosecutors' taxpayers do.",
+            "score": 0.16082818806171417
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 94,
+            "original_sentence": "People need to understand that there are different rules for companies and individuals.",
+            "simplified_sentence": "People need to understand that there are different rules for companies and individuals.",
+            "score": 0.1907070428133011
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 95,
+            "original_sentence": "Expert query before mounting a company in BCN or opening a foreign thread.",
+            "simplified_sentence": "Expert query before mounting a company in BCN or opening a foreign thread.",
+            "score": -0.1507290154695511
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 0,
+            "original_sentence": "The municipality guarantees the protection of your personal data.",
+            "simplified_sentence": "The municipality guarantees the protection of your personal data.",
+            "score": 0.15328773856163025
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 1,
+            "original_sentence": "As users/ municipal web pages you need to enter only your personal data needed for service.",
+            "simplified_sentence": "As users/ municipal web pages you need to enter only your personal data needed for service.",
+            "score": 0.04052481800317764
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 2,
+            "original_sentence": "Your data will be discussed to manage your petition according to the corresponding administrative law.",
+            "simplified_sentence": "Your data will be discussed to manage your petition according to the corresponding administrative law.",
+            "score": -0.04449046775698662
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 3,
+            "original_sentence": "Personal data is treated with transparency and only if there is a law to allow.",
+            "simplified_sentence": "Personal data is treated with transparency and only if there is a law to allow.",
+            "score": 0.20875006914138794
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 4,
+            "original_sentence": "The detailed information report on treatments and legal notice guarantees the compliance of transparency principle.",
+            "simplified_sentence": "The detailed information report on treatments and legal notice guarantees the compliance of transparency principle.",
+            "score": -0.040649812668561935
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 5,
+            "original_sentence": "Personal data collected by the city council is adequate, relevant and limited; only the necessary ones to meet the goals of the treatment (mution or sending notifications).",
+            "simplified_sentence": "Personal data collected by the city council is adequate, relevant and limited; only the necessary ones to meet the goals of the treatment (mution or sending notifications).",
+            "score": 0.009444254450500011
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 6,
+            "original_sentence": "Your personal data registers at the municipal city hall to be used according to European data protection standards.",
+            "simplified_sentence": "Your personal data registers at the municipal city hall to be used according to European data protection standards.",
+            "score": 0.09186720848083496
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 7,
+            "original_sentence": "The City Hall of Bank office only keeps personal data as necessary to meet legal requirements.",
+            "simplified_sentence": "The City Hall of Bank office only keeps personal data as necessary to meet legal requirements.",
+            "score": 0.13328488171100616
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 8,
+            "original_sentence": "The mayor's office only picks up personal data for certain and never for any other reason.",
+            "simplified_sentence": "The mayor's office only picks up personal data for certain and never for any other reason.",
+            "score": 0.20485849678516388
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 9,
+            "original_sentence": "Theajuntament allows to correct errors such as incorrect names or updated addresses according to the data protection law.",
+            "simplified_sentence": "Theajuntament allows to correct errors such as incorrect names or updated addresses according to the data protection law.",
+            "score": 0.06064971163868904
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 10,
+            "original_sentence": "The Barcelona City Hall meets all the necessary security measures according to the UENS to protect the personal data of the citizen.",
+            "simplified_sentence": "The Barcelona City Hall meets all the necessary security measures according to the UENS to protect the personal data of the citizen.",
+            "score": 0.10433850437402725
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 11,
+            "original_sentence": "The City of Barcelona protects your personal data based on European data protection standards.",
+            "simplified_sentence": "The City of Barcelona protects your personal data based on European data protection standards.",
+            "score": 0.2061523050069809
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 0,
+            "original_sentence": "The Union's union extends complaints presented by physical and sworn people against local organisations' decisions.",
+            "simplified_sentence": "The Union's union extends complaints presented by physical and sworn people against local organisations' decisions.",
+            "score": 0.10626452416181564
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 1,
+            "original_sentence": "He can also investigate his office if he is willing to defend citizens' rights.",
+            "simplified_sentence": "He can also investigate his office if he is willing to defend citizens' rights.",
+            "score": 0.185699000954628
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 2,
+            "original_sentence": "The Union checks whether the complaints/ Cheers meets admission criteria and, in case, examines the issue by applying data to the office's relevant departments.",
+            "simplified_sentence": "The Union checks whether the complaints/ Cheers meets admission criteria and, in case, examines the issue by applying data to the office's relevant departments.",
+            "score": 0.06792933493852615
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 3,
+            "original_sentence": "He just examined the case and made a final decision for written that gets public and sent to the involved.",
+            "simplified_sentence": "He just examined the case and made a final decision for written that gets public and sent to the involved.",
+            "score": -0.032955531030893326
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 4,
+            "original_sentence": "There are no lawyers and claims that did not alter periods set to present administrative or judicial actions.",
+            "simplified_sentence": "There are no lawyers and claims that did not alter periods set to present administrative or judicial actions.",
+            "score": -0.10839242488145828
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 5,
+            "original_sentence": "The Syndic account for the local government's performance, giving advice to resolve reported conflicts and trying to improve performance.",
+            "simplified_sentence": "The Syndic account for the local government's performance, giving advice to resolve reported conflicts and trying to improve performance.",
+            "score": 0.005452188663184643
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 6,
+            "original_sentence": "It may also suggest methods to quickly resolve and effectively claims.",
+            "simplified_sentence": "It may also suggest methods to quickly resolve and effectively claims.",
+            "score": -0.07410559058189392
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 7,
+            "original_sentence": "The union acts independently and no command of local authority.",
+            "simplified_sentence": "The union acts independently and no command of local authority.",
+            "score": 0.12585844099521637
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 8,
+            "original_sentence": "All municipal bodies are involved in doing their tasks.",
+            "simplified_sentence": "All municipal bodies are involved in doing their tasks.",
+            "score": 0.1440238356590271
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 10,
+            "original_sentence": "The Union has a serious duty of barcellones and is involved in citizen petition.",
+            "simplified_sentence": "The Union has a serious duty of barcellones and is involved in citizen petition.",
+            "score": 0.11793379485607147
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 11,
+            "original_sentence": "He can also act as a job if he thinks the city council has violated a constitutional right of citizens.",
+            "simplified_sentence": "He can also act as a job if he thinks the city council has violated a constitutional right of citizens.",
+            "score": 0.2173575609922409
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 12,
+            "original_sentence": "There are no problems involved in particular between administrative involvement.",
+            "simplified_sentence": "There are no problems involved in particular between administrative involvement.",
+            "score": -0.19559939205646515
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 13,
+            "original_sentence": "• If there is a legal pending process.",
+            "simplified_sentence": "• If there is a legal pending process.",
+            "score": -0.014487848617136478
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 14,
+            "original_sentence": "* If the complaint is anonymous, it indicates no illwill or lack of evidence.",
+            "simplified_sentence": "* If the complaint is anonymous, it indicates no illwill or lack of evidence.",
+            "score": 0.17585361003875732
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 15,
+            "original_sentence": "The right union of barcellones gives advice when you can't act.",
+            "simplified_sentence": "The right union of barcellones gives advice when you can't act.",
+            "score": 0.10600201785564423
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 0,
+            "original_sentence": "The MES Barcelona is a mechanism for helping private investors to promote the energy transition from Barcelona.",
+            "simplified_sentence": "The MES Barcelona is a mechanism for helping private investors to promote the energy transition from Barcelona.",
+            "score": 0.03617316484451294
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 1,
+            "original_sentence": "We want to invest in solar boards and energy reductions with the instrument.",
+            "simplified_sentence": "We want to invest in solar boards and energy reductions with the instrument.",
+            "score": 0.0036086244508624077
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 2,
+            "original_sentence": "The new local power plan ttetrahedron provides the possibility ofinstaling solar boards in your home because of a guaranteed funding for materials.",
+            "simplified_sentence": "The new local power plan ttetrahedron provides the possibility ofinstaling solar boards in your home because of a guaranteed funding for materials.",
+            "score": 0.03354363888502121
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 3,
+            "original_sentence": "Solar electric company sells energy to building owners; at the end of the active contract, the active owners will be of no additional cost.",
+            "simplified_sentence": "Solar electric company sells energy to building owners; at the end of the active contract, the active owners will be of no additional cost.",
+            "score": 0.11730701476335526
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 4,
+            "original_sentence": "The mechanism is seeking to increase solar production into the city through private initiatives and focus on projects to seize large surfaces such as covered by industries, warehouses, offices or housing, as well as roofs and home roofs by grouping them into preventable and sustainable scales.",
+            "simplified_sentence": "The mechanism is seeking to increase solar production into the city through private initiatives and focus on projects to seize large surfaces such as covered by industries, warehouses, offices or housing, as well as roofs and home roofs by grouping them into preventable and sustainable scales.",
+            "score": 0.0696956068277359
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 5,
+            "original_sentence": "Investments are expected to rehaliberate buildings with high energy use, such as hospitals, hotels or sports centers.",
+            "simplified_sentence": "Investments are expected to rehaliberate buildings with high energy use, such as hospitals, hotels or sports centers.",
+            "score": 0.09771094471216202
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 6,
+            "original_sentence": "The month of Barcelona will also invest in renewable energy projects to promote innovation.",
+            "simplified_sentence": "The month of Barcelona will also invest in renewable energy projects to promote innovation.",
+            "score": 0.060823503881692886
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 7,
+            "original_sentence": "What's that?",
+            "simplified_sentence": "What's that?",
+            "score": 0.4233512878417969
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 8,
+            "original_sentence": "The City of Barcelona invest through the Barcelona Fund.",
+            "simplified_sentence": "The City of Barcelona invest through the Barcelona Fund.",
+            "score": 0.12183201313018799
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 9,
+            "original_sentence": "The mayor's office is 50 million US dollars in investments presented by Homologated investors.",
+            "simplified_sentence": "The mayor's office is 50 million US dollars in investments presented by Homologated investors.",
+            "score": 0.08482927083969116
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 10,
+            "original_sentence": "Inversion of energy for solar and renewal housing.",
+            "simplified_sentence": "Inversion of energy for solar and renewal housing.",
+            "score": -0.06465603411197662
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 11,
+            "original_sentence": "The mayor's office will only allow investments to be related to the solar board installation and energy reductions where investors don't have to put money.",
+            "simplified_sentence": "The mayor's office will only allow investments to be related to the solar board installation and energy reductions where investors don't have to put money.",
+            "score": 0.1358899474143982
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 12,
+            "original_sentence": "investors charge for the total inverted with extra energy or saving.",
+            "simplified_sentence": "investors charge for the total inverted with extra energy or saving.",
+            "score": -0.09944039583206177
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 13,
+            "original_sentence": "New investments will be guaranteed in solar energy aimed at residential, commercial and industrial buildings, promoting self-consum and energy communities, and private investors will propose improvements to the community roofs.",
+            "simplified_sentence": "New investments will be guaranteed in solar energy aimed at residential, commercial and industrial buildings, promoting self-consum and energy communities, and private investors will propose improvements to the community roofs.",
+            "score": 0.08449643850326538
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 14,
+            "original_sentence": "On March 2021, first investors were approved by the MEES Barcelona in the Committee on Economics and Finance of the City of Barcelona.",
+            "simplified_sentence": "On March 2021, first investors were approved by the MEES Barcelona in the Committee on Economics and Finance of the City of Barcelona.",
+            "score": 0.07929752767086029
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 15,
+            "original_sentence": "Business diverseification provides a number of investments such as housing, offices, warehouses, parked infrastructure, public infrastructure with clean energy or rehabilitations.",
+            "simplified_sentence": "Business diverseification provides a number of investments such as housing, offices, warehouses, parked infrastructure, public infrastructure with clean energy or rehabilitations.",
+            "score": -0.006563407368957996
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 16,
+            "original_sentence": "The process of investor is open and more companies can be added to MES Barcelona.",
+            "simplified_sentence": "The process of investor is open and more companies can be added to MES Barcelona.",
+            "score": 0.033823538571596146
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 17,
+            "original_sentence": "There will be two annual meetings and new homologations will be held periodically.",
+            "simplified_sentence": "There will be two annual meetings and new homologations will be held periodically.",
+            "score": 0.061122067272663116
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 18,
+            "original_sentence": "The co investment is specific to various projects to improve the energy efficiency of the city by measures such as solar boards.",
+            "simplified_sentence": "The co investment is specific to various projects to improve the energy efficiency of the city by measures such as solar boards.",
+            "score": 0.04999189451336861
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 19,
+            "original_sentence": "Better in isolation, doors and windows; Fenes... clean energy innovations.",
+            "simplified_sentence": "Better in isolation, doors and windows; Fenes... clean energy innovations.",
+            "score": 0.0033534569665789604
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 20,
+            "original_sentence": "They'll be applicable to every building in the city: offices, hotels, sports centers...",
+            "simplified_sentence": "They'll be applicable to every building in the city: offices, hotels, sports centers...",
+            "score": 0.16005158424377441
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 21,
+            "original_sentence": "You've come to unyphamiliars and plymaliars.",
+            "simplified_sentence": "You've come to unyphamiliars and plymaliars.",
+            "score": 0.0037507591769099236
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 22,
+            "original_sentence": "- Elements of public space.",
+            "simplified_sentence": "- Elements of public space.",
+            "score": 0.018734168261289597
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 23,
+            "original_sentence": "Charge points (public and private backgrounds)",
+            "simplified_sentence": "Charge points (public and private backgrounds)",
+            "score": -0.020454317331314087
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 24,
+            "original_sentence": "- HE'S SORT OF PROPOSlTIES AND entrepreneurs with innovative energy projects.",
+            "simplified_sentence": "- HE'S SORT OF PROPOSlTIES AND entrepreneurs with innovative energy projects.",
+            "score": 0.0958436131477356
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 25,
+            "original_sentence": "• Other related.",
+            "simplified_sentence": "• Other related.",
+            "score": -0.19837021827697754
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 26,
+            "original_sentence": "The improvement of solar boards and the renewal of buildings will reduce consumption and increase energy generation in the city.",
+            "simplified_sentence": "The improvement of solar boards and the renewal of buildings will reduce consumption and increase energy generation in the city.",
+            "score": 0.14463597536087036
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 27,
+            "original_sentence": "The new mechanism could increase to 66 %the renewable energy generated locally.",
+            "simplified_sentence": "The new mechanism could increase to 66 %the renewable energy generated locally.",
+            "score": -0.12890397012233734
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 28,
+            "original_sentence": "Revocation programs for Barcelona.",
+            "simplified_sentence": "Revocation programs for Barcelona.",
+            "score": -0.04127180948853493
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 29,
+            "original_sentence": "Spain sees initiatives to increase photo-voluted facilities.",
+            "simplified_sentence": "Spain sees initiatives to increase photo-voluted facilities.",
+            "score": -0.014770743437111378
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 30,
+            "original_sentence": "The measure could ensure that a part of the investment is imposed in Barcelona and overcome the obstacles it involves investing in solar energy in a dense urban area.",
+            "simplified_sentence": "The measure could ensure that a part of the investment is imposed in Barcelona and overcome the obstacles it involves investing in solar energy in a dense urban area.",
+            "score": 0.08985933661460876
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 31,
+            "original_sentence": "- Make sure you make a beneficial financial system for everyone.",
+            "simplified_sentence": "- Make sure you make a beneficial financial system for everyone.",
+            "score": 0.10959257185459137
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 32,
+            "original_sentence": "The system is to invest so that citizens can be owned by the photohatic boards installed in their own buildings.",
+            "simplified_sentence": "The system is to invest so that citizens can be owned by the photohatic boards installed in their own buildings.",
+            "score": 0.1117207258939743
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 33,
+            "original_sentence": "The added value is to profit from the roofs for social and green use.",
+            "simplified_sentence": "The added value is to profit from the roofs for social and green use.",
+            "score": 0.13009612262248993
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 34,
+            "original_sentence": "Hooking up a fancy investment model for everyone in BCN, regardless of personal wealth.",
+            "simplified_sentence": "Hooking up a fancy investment model for everyone in BCN, regardless of personal wealth.",
+            "score": 0.08415944129228592
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 35,
+            "original_sentence": "Investment recovery is given by the savings produced by the most efficient consumption.",
+            "simplified_sentence": "Investment recovery is given by the savings produced by the most efficient consumption.",
+            "score": 0.07666381448507309
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 36,
+            "original_sentence": "The goal is to ensure that investments reach the different neighborhoods of Barcelona.",
+            "simplified_sentence": "The goal is to ensure that investments reach the different neighborhoods of Barcelona.",
+            "score": 0.209686741232872
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 37,
+            "original_sentence": "Request the assessment of the building by making your petition send us a request to give you high.",
+            "simplified_sentence": "Request the assessment of the building by making your petition send us a request to give you high.",
+            "score": -0.05641137436032295
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 38,
+            "original_sentence": "Received the application, we send it to companies that study the project and set the terms.",
+            "simplified_sentence": "Received the application, we send it to companies that study the project and set the terms.",
+            "score": 0.08818916976451874
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 39,
+            "original_sentence": "After the application ends, you receive a code and contacts with your companies.",
+            "simplified_sentence": "After the application ends, you receive a code and contacts with your companies.",
+            "score": 0.11897900700569153
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 40,
+            "original_sentence": "Access the tracking space for queries or tracking the project.",
+            "simplified_sentence": "Access the tracking space for queries or tracking the project.",
+            "score": 0.03953554108738899
+        }
+    ],
+    "statistics": {
+        "average_score": 0.059795425440135754,
+        "std_dev": 0.1804522161561347
+    }
+}

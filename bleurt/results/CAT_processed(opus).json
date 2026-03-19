@@ -1,0 +1,1908 @@
+{
+    "results": [
+        {
+            "sample_id": 0,
+            "original_sentence_id": 0,
+            "score": 0.6035975813865662
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 1,
+            "score": 0.5969159007072449
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 2,
+            "score": 0.5867248773574829
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 3,
+            "score": 0.5385637283325195
+        },
+        {
+            "sample_id": 0,
+            "original_sentence_id": 4,
+            "score": 0.48398417234420776
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 0,
+            "score": 0.5853623747825623
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 1,
+            "score": 0.640755832195282
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 2,
+            "score": 0.6380237340927124
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 3,
+            "score": 0.49574267864227295
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 4,
+            "score": 0.45631855726242065
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 5,
+            "score": 0.4738346338272095
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 6,
+            "score": 0.5111076831817627
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 7,
+            "score": 0.5822952389717102
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 8,
+            "score": 0.47764843702316284
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 9,
+            "score": 0.5883521437644958
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 10,
+            "score": 0.4990748167037964
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 11,
+            "score": 0.5260043144226074
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 12,
+            "score": 0.6732243895530701
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 13,
+            "score": 0.4444833993911743
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 14,
+            "score": 0.5126661062240601
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 15,
+            "score": 0.3965367376804352
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 16,
+            "score": 0.30640900135040283
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 17,
+            "score": 0.5845198035240173
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 18,
+            "score": 0.5138680338859558
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 19,
+            "score": 0.5252998471260071
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 20,
+            "score": 0.5914691686630249
+        },
+        {
+            "sample_id": 1,
+            "original_sentence_id": 21,
+            "score": 0.44485974311828613
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 0,
+            "score": 0.4344463348388672
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 1,
+            "score": 0.4887140989303589
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 2,
+            "score": 0.5412891507148743
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 3,
+            "score": 0.6595051288604736
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 4,
+            "score": 0.6414845585823059
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 5,
+            "score": 0.46661800146102905
+        },
+        {
+            "sample_id": 2,
+            "original_sentence_id": 6,
+            "score": 0.48180073499679565
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 0,
+            "score": 0.5586549639701843
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 1,
+            "score": 0.6364346742630005
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 2,
+            "score": 0.5479511618614197
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 3,
+            "score": 0.8039687275886536
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 4,
+            "score": 0.5043468475341797
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 5,
+            "score": 0.5336483120918274
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 6,
+            "score": 0.6004210710525513
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 7,
+            "score": 0.4289209246635437
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 8,
+            "score": 0.3522990345954895
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 9,
+            "score": 0.4344872236251831
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 10,
+            "score": 0.42219793796539307
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 11,
+            "score": 0.37395554780960083
+        },
+        {
+            "sample_id": 3,
+            "original_sentence_id": 12,
+            "score": 0.9872550368309021
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 0,
+            "score": 0.5364707112312317
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 1,
+            "score": 0.7032925486564636
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 2,
+            "score": 0.3955293297767639
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 3,
+            "score": 0.40025126934051514
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 4,
+            "score": 0.5170630216598511
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 5,
+            "score": 0.46023476123809814
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 6,
+            "score": 0.44927656650543213
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 7,
+            "score": 0.45178014039993286
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 8,
+            "score": 0.47892290353775024
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 9,
+            "score": 0.4249228835105896
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 10,
+            "score": 0.5228483080863953
+        },
+        {
+            "sample_id": 4,
+            "original_sentence_id": 11,
+            "score": 0.5641922354698181
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 0,
+            "score": 0.9751173853874207
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 1,
+            "score": 0.6615118980407715
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 2,
+            "score": 0.6124194860458374
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 3,
+            "score": 0.5483758449554443
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 4,
+            "score": 0.5255545973777771
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 5,
+            "score": 0.5620177984237671
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 6,
+            "score": 0.5815403461456299
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 7,
+            "score": 0.5948328375816345
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 8,
+            "score": 0.6070843935012817
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 9,
+            "score": 0.5792995095252991
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 10,
+            "score": 0.6011407375335693
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 11,
+            "score": 0.6902359127998352
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 12,
+            "score": 0.4567677974700928
+        },
+        {
+            "sample_id": 5,
+            "original_sentence_id": 13,
+            "score": 0.6431443095207214
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 0,
+            "score": 0.6062566637992859
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 1,
+            "score": 0.540525496006012
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 2,
+            "score": 0.5995631217956543
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 3,
+            "score": 0.9750139117240906
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 4,
+            "score": 0.46632105112075806
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 5,
+            "score": 0.38297349214553833
+        },
+        {
+            "sample_id": 6,
+            "original_sentence_id": 6,
+            "score": 0.5231769680976868
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 0,
+            "score": 0.4974573254585266
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 1,
+            "score": 0.7147326469421387
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 2,
+            "score": 0.6890423893928528
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 3,
+            "score": 0.5813268423080444
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 4,
+            "score": 0.598755955696106
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 5,
+            "score": 0.7074815630912781
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 6,
+            "score": 0.5234930515289307
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 7,
+            "score": 0.536102831363678
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 8,
+            "score": 0.5332148671150208
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 9,
+            "score": 0.6310080289840698
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 10,
+            "score": 0.49771803617477417
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 11,
+            "score": 0.6019726991653442
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 12,
+            "score": 0.6736413836479187
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 13,
+            "score": 0.5811653733253479
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 14,
+            "score": 0.990156352519989
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 15,
+            "score": 0.49086248874664307
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 16,
+            "score": 0.5037054419517517
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 17,
+            "score": 0.6887325048446655
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 18,
+            "score": 0.5464808940887451
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 19,
+            "score": 0.5918142795562744
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 20,
+            "score": 0.6485609412193298
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 21,
+            "score": 0.5985168814659119
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 22,
+            "score": 0.36453479528427124
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 23,
+            "score": 0.5860568284988403
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 24,
+            "score": 0.6378126740455627
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 25,
+            "score": 0.6081860065460205
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 26,
+            "score": 0.7309860587120056
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 27,
+            "score": 0.5928712487220764
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 28,
+            "score": 0.5942825675010681
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 29,
+            "score": 0.4789717197418213
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 30,
+            "score": 0.6220592856407166
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 31,
+            "score": 0.4610435366630554
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 32,
+            "score": 0.5341837406158447
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 33,
+            "score": 0.5726913809776306
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 34,
+            "score": 0.3605656027793884
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 35,
+            "score": 0.557581901550293
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 36,
+            "score": 0.5239526033401489
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 37,
+            "score": 0.5287256240844727
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 38,
+            "score": 0.35310548543930054
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 39,
+            "score": 0.4172894358634949
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 40,
+            "score": 0.539440929889679
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 41,
+            "score": 0.5548149347305298
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 42,
+            "score": 0.6517546772956848
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 43,
+            "score": 0.8287256956100464
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 44,
+            "score": 0.5278988480567932
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 45,
+            "score": 0.593967616558075
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 46,
+            "score": 0.6462223529815674
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 47,
+            "score": 0.4542084336280823
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 48,
+            "score": 0.5593703389167786
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 49,
+            "score": 0.5509326457977295
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 50,
+            "score": 0.4997684955596924
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 51,
+            "score": 0.5050134658813477
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 52,
+            "score": 0.4467819929122925
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 53,
+            "score": 0.4910118579864502
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 54,
+            "score": 0.5986051559448242
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 55,
+            "score": 0.7045589089393616
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 56,
+            "score": 0.691945493221283
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 57,
+            "score": 0.5314805507659912
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 58,
+            "score": 0.5173035860061646
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 59,
+            "score": 0.6089701652526855
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 60,
+            "score": 0.620439350605011
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 61,
+            "score": 1.012686848640442
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 62,
+            "score": 0.4871578812599182
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 63,
+            "score": 0.5866786241531372
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 64,
+            "score": 0.5387391448020935
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 65,
+            "score": 0.5642773509025574
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 66,
+            "score": 0.47705912590026855
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 67,
+            "score": 0.4907190799713135
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 68,
+            "score": 0.6200157403945923
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 69,
+            "score": 0.5738646984100342
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 70,
+            "score": 0.5868086218833923
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 71,
+            "score": 0.5936846733093262
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 72,
+            "score": 0.6560956835746765
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 73,
+            "score": 0.5823954939842224
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 74,
+            "score": 0.48977744579315186
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 75,
+            "score": 0.5736000537872314
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 76,
+            "score": 0.460101842880249
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 77,
+            "score": 0.6637459397315979
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 78,
+            "score": 0.6739683747291565
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 79,
+            "score": 0.6512264013290405
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 80,
+            "score": 0.5080621242523193
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 81,
+            "score": 0.5928665995597839
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 82,
+            "score": 0.47142523527145386
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 83,
+            "score": 0.5335130095481873
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 84,
+            "score": 0.4228940010070801
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 85,
+            "score": 0.5034571886062622
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 86,
+            "score": 0.4282428026199341
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 87,
+            "score": 0.6308926343917847
+        },
+        {
+            "sample_id": 7,
+            "original_sentence_id": 88,
+            "score": 0.6388261914253235
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 0,
+            "score": 0.44019877910614014
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 1,
+            "score": 0.6144333481788635
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 2,
+            "score": 0.47221267223358154
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 3,
+            "score": 0.5300701260566711
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 4,
+            "score": 0.7548375129699707
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 5,
+            "score": 0.6870915293693542
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 6,
+            "score": 0.5329186916351318
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 7,
+            "score": 0.4814069867134094
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 8,
+            "score": 0.6949689984321594
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 9,
+            "score": 0.6575813889503479
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 10,
+            "score": 0.7198262214660645
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 11,
+            "score": 0.5652596354484558
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 12,
+            "score": 0.5997399687767029
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 13,
+            "score": 0.445705771446228
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 14,
+            "score": 0.43067455291748047
+        },
+        {
+            "sample_id": 8,
+            "original_sentence_id": 15,
+            "score": 0.9560186266899109
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 0,
+            "score": 0.44303959608078003
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 1,
+            "score": 0.5336690545082092
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 2,
+            "score": 0.45852142572402954
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 3,
+            "score": 0.5183996558189392
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 4,
+            "score": 0.44828689098358154
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 5,
+            "score": 0.3804299533367157
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 6,
+            "score": 0.4512230157852173
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 7,
+            "score": 1.015870451927185
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 8,
+            "score": 0.32411158084869385
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 9,
+            "score": 0.6863426566123962
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 10,
+            "score": 0.44725048542022705
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 13,
+            "score": 0.46834784746170044
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 14,
+            "score": 0.8511397242546082
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 15,
+            "score": 0.9729223847389221
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 16,
+            "score": 0.685333788394928
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 17,
+            "score": 0.6160614490509033
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 18,
+            "score": 0.5951704978942871
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 19,
+            "score": 0.4416595697402954
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 20,
+            "score": 0.7072460651397705
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 21,
+            "score": 0.9683877825737
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 22,
+            "score": 0.6179817318916321
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 23,
+            "score": 0.6606988310813904
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 24,
+            "score": 0.13327792286872864
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 25,
+            "score": 1.0015647411346436
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 26,
+            "score": 0.4281999468803406
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 27,
+            "score": 0.5860973596572876
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 28,
+            "score": 0.5827987790107727
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 29,
+            "score": 0.6952541470527649
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 30,
+            "score": 0.9761565923690796
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 31,
+            "score": 0.6260504722595215
+        },
+        {
+            "sample_id": 9,
+            "original_sentence_id": 32,
+            "score": 0.7087603211402893
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 0,
+            "score": 0.47389155626296997
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 1,
+            "score": 0.708809494972229
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 2,
+            "score": 0.5757864713668823
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 3,
+            "score": 0.517637312412262
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 4,
+            "score": 0.5073273777961731
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 5,
+            "score": 0.40456622838974
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 6,
+            "score": 0.3757559657096863
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 7,
+            "score": 0.37789613008499146
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 8,
+            "score": 0.5740215182304382
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 9,
+            "score": 0.7443934082984924
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 10,
+            "score": 0.7706679701805115
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 11,
+            "score": 0.5461328029632568
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 12,
+            "score": 0.6183454990386963
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 13,
+            "score": 0.6345592141151428
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 14,
+            "score": 0.8426317572593689
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 15,
+            "score": 0.45151495933532715
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 16,
+            "score": 0.4573703408241272
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 17,
+            "score": 0.6778731942176819
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 18,
+            "score": 0.669254720211029
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 19,
+            "score": 0.39865952730178833
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 20,
+            "score": 0.3588864207267761
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 21,
+            "score": 0.410061240196228
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 22,
+            "score": 0.3770046532154083
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 23,
+            "score": 0.45093947649002075
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 24,
+            "score": 0.42913001775741577
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 25,
+            "score": 0.33018213510513306
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 26,
+            "score": 0.4589548110961914
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 27,
+            "score": 0.410513699054718
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 28,
+            "score": 0.49524760246276855
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 29,
+            "score": 0.401943564414978
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 30,
+            "score": 0.4122602343559265
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 31,
+            "score": 0.5924052596092224
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 32,
+            "score": 0.991109311580658
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 33,
+            "score": 0.4771578907966614
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 34,
+            "score": 0.629936933517456
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 35,
+            "score": 0.3998703360557556
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 36,
+            "score": 0.4710761308670044
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 37,
+            "score": 0.6568148136138916
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 38,
+            "score": 0.48254770040512085
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 39,
+            "score": 0.3854127526283264
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 40,
+            "score": 0.34123724699020386
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 41,
+            "score": 0.3998177647590637
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 42,
+            "score": 0.40158820152282715
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 43,
+            "score": 0.5112352967262268
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 44,
+            "score": 0.4868631362915039
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 45,
+            "score": 0.6758251786231995
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 46,
+            "score": 0.47678685188293457
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 47,
+            "score": 0.70689457654953
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 48,
+            "score": 0.6329076290130615
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 49,
+            "score": 0.5019740462303162
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 50,
+            "score": 0.502672553062439
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 51,
+            "score": 0.48143935203552246
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 52,
+            "score": 0.6628127694129944
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 53,
+            "score": 0.6581706404685974
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 54,
+            "score": 0.7734830975532532
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 55,
+            "score": 0.4622044563293457
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 56,
+            "score": 0.43100088834762573
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 57,
+            "score": 0.7622745633125305
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 58,
+            "score": 0.5026019215583801
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 59,
+            "score": 0.3586615025997162
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 60,
+            "score": 0.4098186492919922
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 61,
+            "score": 0.5430294275283813
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 62,
+            "score": 0.7389777302742004
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 63,
+            "score": 0.5357337594032288
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 64,
+            "score": 0.4314367175102234
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 65,
+            "score": 0.42783403396606445
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 66,
+            "score": 0.45698046684265137
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 67,
+            "score": 0.5291287302970886
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 68,
+            "score": 0.5214470624923706
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 69,
+            "score": 0.48710060119628906
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 70,
+            "score": 0.637481153011322
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 71,
+            "score": 0.586902916431427
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 72,
+            "score": 0.4506298899650574
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 73,
+            "score": 0.4572875499725342
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 74,
+            "score": 0.42323821783065796
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 75,
+            "score": 0.35362672805786133
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 76,
+            "score": 0.6976739764213562
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 77,
+            "score": 0.5122625231742859
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 78,
+            "score": 0.5725095272064209
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 79,
+            "score": 0.4340393543243408
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 80,
+            "score": 0.6986855864524841
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 81,
+            "score": 0.4979977607727051
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 82,
+            "score": 0.7342343926429749
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 83,
+            "score": 0.5896791815757751
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 84,
+            "score": 0.5061185956001282
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 85,
+            "score": 0.4638376235961914
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 86,
+            "score": 0.5872761011123657
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 87,
+            "score": 0.3930724859237671
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 88,
+            "score": 0.46902012825012207
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 89,
+            "score": 0.43348193168640137
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 90,
+            "score": 0.49719786643981934
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 91,
+            "score": 0.4467489719390869
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 92,
+            "score": 0.4515148401260376
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 93,
+            "score": 0.48544591665267944
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 94,
+            "score": 0.5883789658546448
+        },
+        {
+            "sample_id": 10,
+            "original_sentence_id": 95,
+            "score": 0.6971121430397034
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 0,
+            "score": 0.6092110872268677
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 1,
+            "score": 0.6780112385749817
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 2,
+            "score": 0.5912120938301086
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 3,
+            "score": 0.5807214975357056
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 4,
+            "score": 0.43634581565856934
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 5,
+            "score": 0.4321972131729126
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 6,
+            "score": 0.525761604309082
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 7,
+            "score": 0.5440956950187683
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 8,
+            "score": 0.5212883949279785
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 9,
+            "score": 0.537627100944519
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 10,
+            "score": 0.4628784656524658
+        },
+        {
+            "sample_id": 11,
+            "original_sentence_id": 11,
+            "score": 0.572087824344635
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 0,
+            "score": 0.5647291541099548
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 1,
+            "score": 0.6864661574363708
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 2,
+            "score": 0.5720005035400391
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 3,
+            "score": 0.5753193497657776
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 4,
+            "score": 0.5421766638755798
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 5,
+            "score": 0.640018880367279
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 6,
+            "score": 0.539210855960846
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 7,
+            "score": 0.5715776085853577
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 8,
+            "score": 0.5480437874794006
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 10,
+            "score": 0.7303780913352966
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 11,
+            "score": 0.5646058320999146
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 12,
+            "score": 0.6577318906784058
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 13,
+            "score": 0.6432426571846008
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 14,
+            "score": 0.6451199650764465
+        },
+        {
+            "sample_id": 12,
+            "original_sentence_id": 15,
+            "score": 0.40312570333480835
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 0,
+            "score": 0.5204591751098633
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 1,
+            "score": 0.48547524213790894
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 2,
+            "score": 0.5507352352142334
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 3,
+            "score": 0.4950154423713684
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 4,
+            "score": 0.47080957889556885
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 5,
+            "score": 0.6466125249862671
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 6,
+            "score": 0.5621412992477417
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 7,
+            "score": 0.43213868141174316
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 8,
+            "score": 0.5947751402854919
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 9,
+            "score": 0.5178245902061462
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 10,
+            "score": 0.5164503455162048
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 11,
+            "score": 0.5271834135055542
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 12,
+            "score": 0.6361645460128784
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 13,
+            "score": 0.44976139068603516
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 14,
+            "score": 0.4926813244819641
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 15,
+            "score": 0.4406268000602722
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 16,
+            "score": 0.6151861548423767
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 17,
+            "score": 0.44423967599868774
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 18,
+            "score": 0.5598143935203552
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 19,
+            "score": 0.5384619832038879
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 20,
+            "score": 0.5393246412277222
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 21,
+            "score": 0.39290279150009155
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 22,
+            "score": 0.971608579158783
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 23,
+            "score": 0.3836376667022705
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 24,
+            "score": 0.18244501948356628
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 25,
+            "score": 0.9285226464271545
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 26,
+            "score": 0.5857441425323486
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 27,
+            "score": 0.589240312576294
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 28,
+            "score": 0.3618201017379761
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 29,
+            "score": 0.5022038221359253
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 30,
+            "score": 0.4889233112335205
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 31,
+            "score": 0.735362708568573
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 32,
+            "score": 0.5264707207679749
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 33,
+            "score": 0.6195240616798401
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 34,
+            "score": 0.5359449982643127
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 35,
+            "score": 0.5189430117607117
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 36,
+            "score": 0.6047911047935486
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 37,
+            "score": 0.6410565376281738
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 38,
+            "score": 0.66830974817276
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 39,
+            "score": 0.742968738079071
+        },
+        {
+            "sample_id": 13,
+            "original_sentence_id": 40,
+            "score": 0.7853339314460754
+        }
+    ],
+    "statistics": {
+        "average_score": 0.558201331684464,
+        "std_dev": 0.13276575498748552
+    }
+}

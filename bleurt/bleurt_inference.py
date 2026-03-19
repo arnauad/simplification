@@ -3,8 +3,11 @@ from bleurt import score
 import json
 import numpy as np
 import os
+import tensorflow as tf
 
-DATAPATH = "../data/CAT_processed.json"
+
+DATAPATH = "../data/CAT_salamandra2B_base_shot.json"
+OUTPUT_PATH = "results/CAT_salamandra2B_base_shot.json"
 CHECKPOINT = "./bleurt-20"
 
 def load_data():
@@ -13,6 +16,21 @@ def load_data():
         data = json.load(f)
     
     return data
+
+
+def save_results_to_json(results, output_path, average_score=None, std_score=None):
+    output = {
+        "results": results
+    }
+
+    if average_score is not None and std_score is not None:
+        output["statistics"] = {
+            "average_score": average_score,
+            "std_dev": std_score,
+        }
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
 
 def bleurt_inference(data, batch_size=32):
@@ -45,17 +63,29 @@ def bleurt_inference(data, batch_size=32):
                 "score": float(s)
             })
 
-        if i % (batch_size * 10) == 0:
-            print(f"Evaluated {min(i + batch_size, len(data))} / {len(data)}")
+        
+        print(f"Evaluated {i + batch_size} / {len(data)}")
 
     return results
 
 
 if __name__ == "__main__":
+    print(tf.config.list_physical_devices('GPU'))
+
+    gpus = tf.config.list_physical_devices('GPU')
+    if gpus:
+        tf.config.experimental.set_memory_growth(gpus[0], True)
+
     print("Checkpoint exists:", os.path.exists(CHECKPOINT))
     print("Contents:", os.listdir(CHECKPOINT))
 
     data = load_data()
+
+    """target = [
+        item for item in data
+        if item["sample_id"] == 3
+        and item["original_sentence_id"] == 8
+    ]"""
 
     results = bleurt_inference(data)
 
@@ -63,8 +93,5 @@ if __name__ == "__main__":
     std_score = np.std([item['score'] for item in results])
     print(f"Average Bleurt Score: {average_score}, Std Dev: {std_score}")
 
-    # English translation results
-    # Average Bleurt Score: 0.558201331684464, Std Dev: 0.13276575498748552
-
-    # Catalan original results
-    # Average Bleurt Score: 0.6252419832505678, Std Dev: 0.14472353956661285
+    save_results_to_json(results, OUTPUT_PATH, average_score=average_score, std_score=std_score)
+    
