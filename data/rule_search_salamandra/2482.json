@@ -1,0 +1,1826 @@
+[
+  {
+    "sample_id": 0,
+    "original_sentence_id": 2,
+    "original_sentence": "La valoració de la situació la fan els equips professionals dels centres de serveis socials de l'Ajuntament de Barcelona.",
+    "simplified_sentence": "Els treballadors i treballadores dels centres socials de Barcelona avaluen la situació."
+  },
+  {
+    "sample_id": 0,
+    "original_sentence_id": 3,
+    "original_sentence": "El servei es concreta amb el lliurament al domicili de la persona beneficiària d'àpats equilibrats i saludables en adequades condicions de qualitat i higiene, a fi de garantir la cobertura de les seves necessitats nutricionals.",
+    "simplified_sentence": "Es lliuren àpats equilibrats i saludables a la persona beneficiària en condicions adequades de qualitat i higiene per cobrir les seves necessitats nutricionals."
+  },
+  {
+    "sample_id": 0,
+    "original_sentence_id": 4,
+    "original_sentence": "Per sol·licitar aquesta valoració, cal demanar cita prèvia al telèfon de Serveis Socials 900922357 i que us adreceu al Centre de Serveis Socials que us correspongui per domicili.",
+    "simplified_sentence": "Per demanar aquesta valoració, cal trucar al telèfon de Serveis Socials 900922357 i demanar cita. S'ha d'anar al Centre de Serveis Socials que correspongui segons l'adreça de casa."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 0,
+    "original_sentence": "Formalitza una queixa Quan es pot presentar una queixa?",
+    "simplified_sentence": "Per presentar una queixa, primer cal formalitzar-la."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 1,
+    "original_sentence": "Pot presentar-se una queixa si es considera que l'Administració municipal impedeix o dificulta l'exercici legítim dels teus drets fonamentals.",
+    "simplified_sentence": "Es pot presentar una queixa si es creu que l'Administració local impedeix o dificulta l'exercici dels drets fonamentals."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 2,
+    "original_sentence": "Es pot presentar una queixa després d'haver reclamat a l'òrgan o servei implicat i no haver obtingut resposta o solució.",
+    "simplified_sentence": "Després de reclamar a l'òrgan o servei sense resposta o solució, es pot presentar una queixa."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 5,
+    "original_sentence": "L'actuació de la Sindicatura sempre és confidencial.",
+    "simplified_sentence": "L'actuació de la Sindicatura és confidencial."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 6,
+    "original_sentence": "Les dades que presenta una persona quan formula una queixa són reservades, menys en els casos en què hi hagi una renúncia expressa per part del reclamant.",
+    "simplified_sentence": "Les dades del reclamant són confidencials, llevat de renúncia expressa."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 7,
+    "original_sentence": "Formulari online de queixa sobre els serveis municipals de Barcelona El procediment d'una queixa La Sindicatura actua per sol·licitud de qualsevol persona física o jurídica que presenti una queixa.",
+    "simplified_sentence": "Formulari en línia per presentar una queixa sobre els serveis municipals de Barcelona. \nLa Sindicatura actua a petició de qualsevol persona física o jurídica que presenti una queixa."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 9,
+    "original_sentence": "Queixa ciutadana Admeses a tràmit Arran d'una queixa, l'assessoria de la Sindicatura inicia una investigació i supervisió de l'activitat municipal.",
+    "simplified_sentence": "La Sindicatura va investigar una queixa ciutadana."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 12,
+    "original_sentence": "Posteriorment, la Sindicatura emet una resolució i formula recomanacions a l'Ajuntament.",
+    "simplified_sentence": "Després, la Sindicatura pren una decisió i fa suggeriments a l'Ajuntament."
+  },
+  {
+    "sample_id": 1,
+    "original_sentence_id": 20,
+    "original_sentence": "Resolució final de la Sindicatura, que conclou, si s'escau, amb recomanacions a l'Ajuntament.",
+    "simplified_sentence": "La Sindicatura conclou amb recomanacions a l'Ajuntament."
+  },
+  {
+    "sample_id": 2,
+    "original_sentence_id": 0,
+    "original_sentence": "Presència al territori La Sindicatura, a peu de carrer La millor manera de descobrir què passa a Barcelona és caminant-hi de la mà de les persones que més saben de cada racó de la ciutat: el veïnat.",
+    "simplified_sentence": "Presència al territori La Sindicatura, a peu de carrer La millor manera de descobrir què passa a Barcelona és passejant-hi de la mà de les persones que més saben de cada racó de la ciutat: els veïns i les veïnes."
+  },
+  {
+    "sample_id": 2,
+    "original_sentence_id": 1,
+    "original_sentence": "En aquest projecte, l'equip de la Sindicatura dedica tot un dia a conèixer, a peu de carrer, les principals problemàtiques i neguits de cadascun dels 73 barris de la ciutat.",
+    "simplified_sentence": "L'equip de la Sindicatura visita els barris per conèixer els seus problemes i preocupacions."
+  },
+  {
+    "sample_id": 2,
+    "original_sentence_id": 2,
+    "original_sentence": "La Sindicatura, a prop teu El diàleg amb la ciutadania fa que les solucions proposades siguin més efectives i responguin millor a les necessitats i experiències de les persones.",
+    "simplified_sentence": "La Sindicatura a prop teu, fem que les solucions siguin més efectives i responguin millor a les necessitats i experiències de les persones."
+  },
+  {
+    "sample_id": 2,
+    "original_sentence_id": 3,
+    "original_sentence": "Cada mes, l'equip de la Sindicatura conversa amb el veïnat de la ciutat sobre allò que els preocupa.",
+    "simplified_sentence": "Cada mes, l'equip de la Sindicatura parla amb els veïns sobre les seves preocupacions."
+  },
+  {
+    "sample_id": 2,
+    "original_sentence_id": 4,
+    "original_sentence": "Sindicatura itinerant La Sindicatura no és una ubicació estàtica, sinó que està present al territori.",
+    "simplified_sentence": "La Sindicatura no és una ubicació fixa, sinó que es mou per diferents llocs."
+  },
+  {
+    "sample_id": 2,
+    "original_sentence_id": 6,
+    "original_sentence": "La Sindicatura, als instituts La Sindicatura de Greuges de Barcelona es desplaça als instituts de la ciutat per debatre amb l'alumnat sobre quines queixes tenen; com millorarien el seu barri; si creuen que participen en les decisions de ciutat; si consideren que se'ls té en compte, etc. Com tots sabem que les adolescents i joves tenen propostes i solucions per a tot, una sessió amb el síndic de greuges de Barcelona serà la millor opció per escoltar-les!",
+    "simplified_sentence": "La Sindicatura debat amb l'alumnat sobre les seves queixes i com millorar el barri."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 0,
+    "original_sentence": "Quant a aquest procés Els pressupostos participatius són una eina de democràcia directa.",
+    "simplified_sentence": "La frase simplificada seria: \n Els pressupostos participatius són una eina de democràcia directa."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 1,
+    "original_sentence": "La ciutadania proposa i escull projectes d'inversió per al districte, que es portaran a terme amb el pressupost municipal assignat al procés.",
+    "simplified_sentence": "El veïnat proposa i escull projectes d'inversió per al barri, que es faran amb els diners de l'ajuntament."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 2,
+    "original_sentence": "L'Ajuntament de Barcelona porta a terme el procés de pressupostos participatius en els 10 districtes.",
+    "simplified_sentence": "A Barcelona, els pressupostos participatius es duen a terme en els 10 districtes per l'Ajuntament."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 3,
+    "original_sentence": "Es destinen 30 milions d'euros a projectes d'inversió proposats i escollits directament pels veïns i veïnes.",
+    "simplified_sentence": "Es destinen 30 milions d'euros a projectes d'inversió proposats i escollits pels veïns."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 4,
+    "original_sentence": "Aquesta quantitat s'ha distribuït entre els districtes tenint en compte criteris d'equitat territorials, demogràfics i socioeconòmics.",
+    "simplified_sentence": "S'han repartit els diners entre els barris segons criteris d'equitat territorial, demografia i situació socioeconòmica."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 5,
+    "original_sentence": "Aquest procés té la voluntat de fomentar el debat al voltant de la realitat dels barris i plantejar projectes que contribueixin a la millora de la vida ciutadana. Cercant aquest objectiu, s'impulsen diversos espais de participació, fent especial èmfasi en la recerca d'una participació diversa, que reculli totes les veus, totes les reflexions i totes les propostes de projectes plantejats per la ciutadania i el teixit associatiu de la ciutat.",
+    "simplified_sentence": "Aquest procés pretén fomentar el debat sobre els barris i proposar projectes per millorar la vida ciutadana. Es busquen espais de participació per a una participació diversa que reculli totes les veus, reflexions i propostes de projectes de la ciutadania i el teixit associatiu de la ciutat."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 6,
+    "original_sentence": "Projectes objecte del procés de pressupostos participatius  Són projectes d'inversió tot allò que l'Ajuntament pot construir o adquirir.",
+    "simplified_sentence": "La gent pot votar projectes d'inversió."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 9,
+    "original_sentence": "Les propostes han de complir amb els requisits tècnics establerts(Obrir en una pestanya nova) en el decret de convocatòria del procés participatiu(Link extern).",
+    "simplified_sentence": "Les propostes han de complir els requisits tècnics establerts en el decret de convocatòria del procés participatiu."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 10,
+    "original_sentence": "Les fases del procés El procés de pressupostos participatius es desenvolupa en 6 fases: •\tFASE 1, debat i presentació de propostes  •\tFASE 2, valoració tècnica de les propostes Consulta les respostes a les propostes presentades(Obrir en una pestanya nova).",
+    "simplified_sentence": "Les fases del procés són: \nFASE 1, debat i presentació de propostes\nFASE 2, valoració tècnica de les propostes \nConsulta les respostes a les propostes presentades(Obrir en una pestanya nova)."
+  },
+  {
+    "sample_id": 3,
+    "original_sentence_id": 12,
+    "original_sentence": "Tens dubtes?",
+    "simplified_sentence": "Tens preguntes?"
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 0,
+    "original_sentence": "Registre electrònic Contingut El Registre General és l'instrument de l'Ajuntament de Barcelona per controlar el flux de comunicació entre aquesta administració, la ciutadania i altres organitzacions, i dona fe de si s'ha produït o no aquesta comunicació.",
+    "simplified_sentence": "El Registre General és el sistema de l'Ajuntament de Barcelona per registrar la comunicació entre l'Ajuntament, els ciutadans i altres organitzacions."
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 1,
+    "original_sentence": "La seva finalitat és preservar els drets de la ciutadania i també els de l'Administració.",
+    "simplified_sentence": "Mantenir els drets de la ciutadania i els de l'administració."
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 4,
+    "original_sentence": "Verifiqueu que no hi ha un tràmit telemàtic específic al llistat alfabètic de tràmits realitzables electrònicament.",
+    "simplified_sentence": "Comprova si hi ha un tràmit específic en el llistat de tràmits."
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 5,
+    "original_sentence": "Una vegada s'ha enviat la instància, el registre emetrà automàticament un justificant de la recepció i deixarà constància de les dades de la petició, inclòs el número d'assentament.",
+    "simplified_sentence": "Quan es remeti la instància, el registre generarà automàticament un comprovant de recepció i registrarà les dades de la sol·licitud, inclòs el número d'assentament."
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 6,
+    "original_sentence": "Contingut Accés a la instància telemàtica genèrica Accés a les sol·licituds telemàtiques específiques Còmput de terminis Les sol·licituds, els escrits o les comunicacions relatius a tràmits administratius es poden registrar tots els dies de l'any, durant les 24 hores.",
+    "simplified_sentence": "Les sol·licituds, els escrits o les comunicacions relatius a tràmits administratius es poden registrar tots els dies de l'any, durant les 24 hores."
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 9,
+    "original_sentence": "Quan, per raons tècniques, es pugui preveure que el registre no estarà operatiu, s'avisarà les persones usuàries des de la seu electrònica amb la màxima antelació possible i mentre duri aquesta situació.",
+    "simplified_sentence": "Si el registre no funciona, us avisarem a través de la seu electrònica i ho mantindrem actualitzat."
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 10,
+    "original_sentence": "Documents adjunts Si cal adjuntar documents, han d'estar en algun dels formats admesos (PDF, JPG o TIFF) i tenir una mida limitada en funció del tràmit específic.",
+    "simplified_sentence": "Documents: PDF, JPG, TIFF."
+  },
+  {
+    "sample_id": 4,
+    "original_sentence_id": 11,
+    "original_sentence": "En el cas de la instància telemàtica genèrica, hi ha un límit de sis documents annexos i una mida màxima de 5 Mb en total; quan els documents sobrepassen la mida màxima i es vol cursar igualment la sol·licitud, el tràmit de sol·licitud s'acaba sense documents adjunts.",
+    "simplified_sentence": "En el cas de la instància telemàtica genèrica, hi ha un límit de 6 documents i una mida màxima de 5 Mb en total."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 0,
+    "original_sentence": "Què és el Banc del Moviment?",
+    "simplified_sentence": "El Banc del Moviment és un banc que es mou."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 1,
+    "original_sentence": "El Banc del Moviment és un servei municipal de la Xarxa Solidària de Productes de Suport de Barcelona.",
+    "simplified_sentence": "El Banc del Moviment és un servei de Barcelona per ajudar a la gent."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 2,
+    "original_sentence": "Ofereix productes per facilitar la mobilitat a qualsevol persona de Barcelona que tingui discapacitat o dificultat de moviment.",
+    "simplified_sentence": "Ofereix productes per facilitar la mobilitat a qualsevol persona amb discapacitat o dificultat de moviment a Barcelona."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 3,
+    "original_sentence": "Alguns dels productes que s'ofereixen són: •\tCrosses •\tCadires de rodes •\tLlits articulats •\tCaminadors També s'ofereixen productes tecnològics de suport, com dispositius per a l'ordinador o joguines adaptades a qualsevol tipus de discapacitat.",
+    "simplified_sentence": "Alguns productes oferits inclouen: crosses, cadires de rodes, llits articulats i caminadors. També s'ofereixen productes tecnològics de suport, com ara dispositius per a l'ordinador o joguines adaptades per a qualsevol tipus de discapacitat."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 5,
+    "original_sentence": "Com funciona el Banc del Moviment?",
+    "simplified_sentence": "No tinc aquesta informació."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 6,
+    "original_sentence": "El Banc del Moviment funciona gràcies a la solidaritat de moltes persones i entitats que ens donen els productes de suport per a què els puguin fer servir les persones que ho demanin.",
+    "simplified_sentence": "Moltes persones i entitats ens donen productes de suport per tal que els usuaris puguin fer-ne ús."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 7,
+    "original_sentence": "Un cop ens els donen, un equip de professionals els revisen, els reparen i acompanyen a les persones que els sol·liciten per ensenyar-los com utilitzar-los.",
+    "simplified_sentence": "Un cop ens els donen, un equip de professionals els revisa, els repara i acompanya les persones que els sol·liciten per ensenyar-los a utilitzar-los."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 9,
+    "original_sentence": "A partir del 9 de maig de 2024, el Banc del Moviment activa un formulari per permetre als professionals de serveis socials municipals sol·licitar un descompte en el preu públic dels productes de suport cedits a les persones usuàries.",
+    "simplified_sentence": "A partir del 9 de maig de 2024, el Banc del Moviment activarà un formulari perquè els professionals de serveis socials sol·licitin un descompte en el preu públic dels productes de suport que es lliuraran a les persones usuàries."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 10,
+    "original_sentence": "Aquest formulari facilita l'accés als productes de suport cedits des del Banc del Moviment, Xarxa Solidària de Productes de Suport.",
+    "simplified_sentence": "Aquest formulari facilita l'accés als productes de suport cedits des del Banc del Moviment."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 11,
+    "original_sentence": "Abans d'enviar el formulari per correu electrònic, és necessari trucar per telèfon per validar la disponibilitat del producte i conèixer els passos a seguir per a la cessió del material.",
+    "simplified_sentence": "Abans d'enviar el formulari per correu electrònic, cal trucar per telèfon per validar la disponibilitat del producte i conèixer els passos per a la cessió del material."
+  },
+  {
+    "sample_id": 5,
+    "original_sentence_id": 13,
+    "original_sentence": "El Banc del moviment és un servei municipal impulsat per l'Institut Municipal de Persones amb Discapacitat de l'Ajuntament de Barcelona.",
+    "simplified_sentence": "El Banc del moviment és un servei municipal que promou l'Institut Municipal de Persones amb Discapacitat de l'Ajuntament de Barcelona."
+  },
+  {
+    "sample_id": 6,
+    "original_sentence_id": 0,
+    "original_sentence": "Començar a treballar Si vols realitzar una activitat laboral a Espanya, ja sigui per compte propi o per compte d'altri, has d'obtenir el número de la Seguretat Social.",
+    "simplified_sentence": "Tens NOMÉS la frase simplificada.\n\n Per a treballar a Espanya cal tenir el número de la Seguretat Social."
+  },
+  {
+    "sample_id": 6,
+    "original_sentence_id": 2,
+    "original_sentence": "L'obtenció del teu número de la Seguretat Social és un pas previ i necessari per poder sol·licitar l'alta a la Seguretat Social, que és el que realment permet l'inici d'una activitat laboral.",
+    "simplified_sentence": "Obtenir el número de la Seguretat Social és necessari per sol·licitar l'alta i poder començar a treballar."
+  },
+  {
+    "sample_id": 6,
+    "original_sentence_id": 3,
+    "original_sentence": "Donar-se d'alta a la Seguretat Social és obligatori per començar una activitat laboral.",
+    "simplified_sentence": "És obligatori inscriure's a la Seguretat Social per començar a treballar."
+  },
+  {
+    "sample_id": 6,
+    "original_sentence_id": 4,
+    "original_sentence": "•\tSi has de treballar per compte d'altri, és l'empresa o la persona ocupadora la que ha de tramitar la teva alta en el règim general de la Seguretat Social.",
+    "simplified_sentence": "És l'empresa o la persona ocupadora la que ha de tramitar l'alta en el règim general de la Seguretat Social."
+  },
+  {
+    "sample_id": 6,
+    "original_sentence_id": 5,
+    "original_sentence": "•\tSi has de treballar per compte propi, ets tu qui ha de sol·licitar l'alta en el règim especial de treballadors autònoms (RETA) de la Seguretat Social.",
+    "simplified_sentence": "Si has de treballar per compte propi, sol·licita l'alta en el règim especial de treballadors autònoms (RETA) de la Seguretat Social."
+  },
+  {
+    "sample_id": 6,
+    "original_sentence_id": 6,
+    "original_sentence": "A més, en cas que treballis pel teu compte, t'hauràs d'inscriure o donar-te d'alta al cens d'empresaris, professionals i retenidors de l'Agència Tributària.",
+    "simplified_sentence": "En cas de treballar per compte propi, has de donar-te d'alta en el cens d'empresaris, professionals i retenidors de l'Agència Tributària."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 1,
+    "original_sentence": "Com a resultat, ciutats com Amsterdam i Copenhaguen han pres mesures per evitar els seus efectes negatius.",
+    "simplified_sentence": "Ciutats com Amsterdam i Copenhaguen han pres mesures per combatre els seus efectes negatius."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 2,
+    "original_sentence": "Algunes estan tenint més èxit que d'altres, però caldrà esperar per comprovar el seu efecte real.",
+    "simplified_sentence": "Algunes funcionen millor que d'altres, però encara no se'n sap el resultat."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 3,
+    "original_sentence": "Les ciutats sempre han tingut un paper important en el turisme, però l'aparició d'un sector específic de “turisme urbà” és relativament recent.",
+    "simplified_sentence": "Els experts creuen que les ciutats sempre han estat una part important del turisme, però el “turisme urbà” és un fenomen relativament recent."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 4,
+    "original_sentence": "Al sud d'Europa, per exemple, els processos d'urbanització turística dels anys seixanta i setanta es van centrar en destinacions turístiques de costa, amb una població resident relativament petita.",
+    "simplified_sentence": "Al sud d'Europa, per exemple, als anys seixanta i setanta, la construcció de destinacions turístiques de costa es va centrar en zones de platja amb pocs habitants."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 5,
+    "original_sentence": "L'expansió del turisme va rebre l'empenta d'un nou desenvolupament urbanístic, que incloïa la construcció d'hotels i blocs d'apartaments a prop del mar.",
+    "simplified_sentence": "L'expansió del turisme es va deure a un nou desenvolupament urbanístic, que incloïa la construcció d'hotels i apartaments a prop del mar."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 6,
+    "original_sentence": "[1] La majoria dels debats al voltant del progrés turístic en aquella època se centraven en els efectes mediambientals de la urbanització creixent.",
+    "simplified_sentence": "La majoria dels debats sobre el progrés turístic en aquella època se centraven en els efectes mediambientals de la urbanització."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 7,
+    "original_sentence": "Al nord d'Europa, les grans ciutats van començar a ser reconegudes com a centres de turisme cultural a la dècada dels vuitanta, quan les pressions econòmiques van animar les urbs en procés de desindustrialització a passar de la indústria manufacturera als serveis.",
+    "simplified_sentence": "Al nord d'Europa, les grans ciutats van començar a ser centres culturals en els anys vuitanta, quan les pressions econòmiques van motivar les ciutats desindustrialitzades a passar de la indústria manufacturera als serveis."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 8,
+    "original_sentence": "També van guanyar cada vegada més importància com a hubs del turisme de negocis, amb l'obertura de molts centres de conferències i exposicions a les dècades dels anys vuitanta i noranta.",
+    "simplified_sentence": "També van guanyar importància com a centres de negocis, amb l'obertura de molts centres de conferències i exposicions a les dècades dels anys vuitanta i noranta."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 9,
+    "original_sentence": "Així doncs, amb el canvi de mil·lenni, a moltes zones urbanes d'Europa ja s'havia establert un sector turístic reconeixible.",
+    "simplified_sentence": "Amb el canvi de mil·lenni, el sector turístic ja era visible en moltes zones urbanes d'Europa."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 10,
+    "original_sentence": "Tot i això, el desenvolupament de les activitats turístiques estava relativament separat de la vida quotidiana de la ciutat i els seus residents.",
+    "simplified_sentence": "Tot i això, el turisme era una activitat que no estava gaire relacionada amb la vida habitual de la ciutat i els seus habitants."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 11,
+    "original_sentence": "Els enclavaments d'allotjaments turístics se solien agrupar al voltant dels principals hubs de transport o a prop dels districtes de lleure del centre de les ciutats.",
+    "simplified_sentence": "Els allotjaments turístics es trobaven normalment prop dels centres de transport o dels centres d'oci de les ciutats."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 12,
+    "original_sentence": "Aquesta situació va ser descrita per Gregory John Ashworth i John E. Tunbridge en el seu model de “ciutat turisticohistòrica”.",
+    "simplified_sentence": "Gregory John Ashworth i John E. Tunbridge van descriure aquesta situació en el seu model de \"ciutat turístic-històrica\"."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 13,
+    "original_sentence": "Amb l'expansió del turisme urbà, però, les divisions entre espais turístics i espais locals van començar a dissoldre's.",
+    "simplified_sentence": "Amb el creixement del turisme urbà, es van difuminar les fronteres entre llocs turístics i llocs locals."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 14,
+    "original_sentence": "L'estudi City Tourism & Culture.",
+    "simplified_sentence": "City Tourism & Culture."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 16,
+    "original_sentence": "Un fenomen que va atreure l'atenció dels responsables de les polítiques urbanes, delerosos d'obtenir el màxim rendiment dels turistes culturals d'alt poder adquisitiu.",
+    "simplified_sentence": "Un fenomen que va atraure l'atenció dels responsables de les polítiques urbanes, desitjosos d'obtenir el màxim rendiment dels turistes culturals amb alt poder adquisitiu."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 17,
+    "original_sentence": "Algunes ciutats, com Barcelona, també van aprofitar el desenvolupament turístic impulsat per grans celebracions, com els Jocs Olímpics del 1992 i l'Any Gaudí del 2002, per atreure visitants i fer de suport a iniciatives de placemaking.",
+    "simplified_sentence": "Barcelona va atreure visitants gràcies als Jocs Olímpics del 1992 i l'Any Gaudí del 2002."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 18,
+    "original_sentence": "[2] L'èxit d'aquestes accions va animar la capital catalana a organitzar, el 2004, el Fòrum Universal de les Cultures, una trobada sobre el diàleg cultural promoguda per la UNESCO.",
+    "simplified_sentence": "[2] L'èxit d'aquestes accions va animar Barcelona a organitzar, el 2004, el Fòrum Universal de les Cultures, una trobada sobre el diàleg cultural promoguda per la UNESCO."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 19,
+    "original_sentence": "Al principi, el turisme era vist amb bons ulls tant pels responsables polítics com pels residents.",
+    "simplified_sentence": "Al principi, el turisme era ben vist per polítics i residents."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 20,
+    "original_sentence": "El 2004, però, es van experimentar els primers indicis dels canvis que venien.",
+    "simplified_sentence": "L'any 2004 es van produir els primers senyals dels canvis que s'aproximaven."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 21,
+    "original_sentence": "El Fòrum va generar un sentiment negatiu entre molts residents, que es van sentir exclosos per les elevades tarifes d'entrada, els preus inflats del menjar i el patrocini empresarial.",
+    "simplified_sentence": "Resposta: El Fòrum va generar un sentiment negatiu entre els residents, que es van sentir exclosos per les elevades tarifes d'entrada, els preus inflats del menjar i el patrocini empresarial."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 22,
+    "original_sentence": "Va ser una alerta prematura de les fissures del “model Barcelona” postolímpic.",
+    "simplified_sentence": "La frase simplificada seria:\nVa ser un avís primerenc del model Barcelona postolímpic."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 23,
+    "original_sentence": "Un canvi de percepció a través dels anys La preocupació creixent dels responsables polítics va portar Jordi Portabella, aleshores regidor de Turisme, a encarregar, a finals del 2004, un estudi sobre el posicionament dels residents en relació amb el turisme.",
+    "simplified_sentence": "Un canvi de percepció al llarg dels anys."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 24,
+    "original_sentence": "La recerca, però, va demostrar que els barcelonins continuaven sent-ne molt partidaris, en concret, del turisme cultural: més del 90% eren favorables a un creixement més alt del turisme, i el 91% estaven d'acord a desenvolupar el turisme cultural.",
+    "simplified_sentence": "La recerca va demostrar que la majoria de barcelonins (91%) estaven a favor d'un augment del turisme cultural."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 25,
+    "original_sentence": "Tot i que els resultats inicials no encaixaven amb el que els polítics havien previst, es va decidir continuar supervisant el posicionament dels residents, i la recerca en curs es va incorporar a l'Observatori del Turisme a Barcelona.",
+    "simplified_sentence": "Malgrat que els resultats inicials no van complir les expectatives polítiques, es va decidir seguir controlant la posició dels residents i integrar-ne la recerca en curs a l'Observatori de Turisme de Barcelona."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 26,
+    "original_sentence": "L'estudi proporciona una imatge longitudinal única de la relació entre el turisme i la ciutat, i mostra com han canviat les opinions a mesura que el turisme urbà ha anat creixent.",
+    "simplified_sentence": "L'estudi mostra com les opinions sobre el turisme urbà han anat canviant a mesura que ha anat creixent."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 27,
+    "original_sentence": "Si el 2005 i el 2006, al voltant del 70% dels residents van donar suport a la idea que Barcelona atragués més turistes, aquesta xifra va caure bruscament fins al voltant del 50% el 2007, la qual cosa reflectia un malestar en augment respecte al ritme de creixement del turisme.",
+    "simplified_sentence": "El 2007, un 50% dels residents es va mostrar en desacord amb l'augment del turisme."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 28,
+    "original_sentence": "Entre el 2007 i el 2012 va tornar a augmentar, probablement per la influència de la crisi econòmica d'aquells anys.",
+    "simplified_sentence": "Entre el 2007 i el 2012, va augmentar de nou, a causa de la crisi econòmica."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 29,
+    "original_sentence": "Des d'aleshores, el suport al turisme no ha deixat de disminuir, acompanyat d'un percentatge creixent d'habitants que creuen que Barcelona ha tocat sostre.",
+    "simplified_sentence": "D'aleshores ençà, el suport al turisme ha anat disminuint i actualment un percentatge cada vegada més elevat d'habitants creuen que Barcelona ha assolit el seu sostre en relació al turisme."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 30,
+    "original_sentence": "El punt d'inflexió es va produir el 2016, quan els posicionaments negatius envers el turisme van passar a ser majoritaris.",
+    "simplified_sentence": "El 2016, els punts de vista negatius sobre el turisme van augmentar."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 31,
+    "original_sentence": "Des de la pandèmia, el sentiment antiturístic s'ha mantingut alt: més del 60% dels residents manifesten que la ciutat ha arribat al límit, un nivell comparable al del 2019.",
+    "simplified_sentence": "SÍ."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 32,
+    "original_sentence": "El canvi de posicionaments també ha afectat els comportaments.",
+    "simplified_sentence": "El canvi de postura també ha afectat els comportaments."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 33,
+    "original_sentence": "El 2011 al voltant del 60% de la població manifestava, en l'enquesta, que havia tingut contacte regular amb turistes a la ciutat.",
+    "simplified_sentence": "L'any 2011, aproximadament el 60% de les persones van declarar haver tingut interacció regular amb turistes a la ciutat en una enquesta."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 35,
+    "original_sentence": "A partir del 2015, però, el contacte amb els turistes va disminuir, la qual cosa suggereix que la població local els evitava activament, i defugia les zones turístiques.",
+    "simplified_sentence": "A partir del 2015, la població local va començar a evitar els turistes i a defugir les zones turístiques, la qual cosa va fer que el contacte amb els turistes disminuís."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 36,
+    "original_sentence": "Aquesta anàlisi mostra que la preocupació pel creixement del turisme urbà és anterior a l'arribada d'Airbnb a Europa el 2011.",
+    "simplified_sentence": "Aquesta anàlisi mostra que la preocupació pel creixement del turisme urbà és anterior a l'arribada d'Airbnb a Europa el 2011."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 37,
+    "original_sentence": "Tot i això, la plataforma ha arribat a representar molts dels reptes associats a aquesta activitat.",
+    "simplified_sentence": "Malgrat això, la plataforma ha representat molts dels reptes associats a aquesta activitat."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 41,
+    "original_sentence": "Consegüentment, el cost d'arribar a ciutats populars i allotjar-s'hi s'ha reduït dràsticament, i ha donat pas al que s'ha anomenat “nou turisme urbà”.",
+    "simplified_sentence": "El cost de visitar ciutats populars i allotjar-s'hi s'ha reduït dràsticament, donant pas al \"nou turisme urbà\"."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 42,
+    "original_sentence": "[3] El 2004, Barcelona va rebre 4,4 milions de turistes.",
+    "simplified_sentence": "El 2004, Barcelona va rebre 4,4 milions de visitants."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 43,
+    "original_sentence": "El 2019, les arribades havien crescut fins a 20 milions.",
+    "simplified_sentence": "El 2019, les arribades van ser de 20 milions."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 44,
+    "original_sentence": "Comparteix aquest fragment El nou turisme urbà prospera en barris cool, que ofereixen una barreja atractiva de bars, restaurants i cultura local.",
+    "simplified_sentence": "El nou turisme urbà prospera en barris populars, que ofereixen una barreja atractiva de bars, restaurants i cultura local."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 45,
+    "original_sentence": "L'enquesta de Time Out sobre els barris més cool del món (World's Coolest Neighbourhoods) segueix aquesta tendència.",
+    "simplified_sentence": "Segons Time Out, els barris més \"cool\" són els que segueixen aquesta tendència."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 46,
+    "original_sentence": "El 2024, els resultats situen Notre-Dame-du-Mont, a Marsella; Mers Sultan, a Casablanca, i Pererenan, a Bali, com els tres barris més de moda del món.",
+    "simplified_sentence": "El 2024, Notre-Dame-du-Mont a Marsella, Mers Sultan a Casablanca i Pererenan a Bali són els tres barris més de moda del món."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 47,
+    "original_sentence": "Barcelona ha aparegut sis vegades a la classificació els últims set anys, amb barris com Gràcia, el Clot i el Poblenou, zones que abans no registraven un flux turístic significatiu.",
+    "simplified_sentence": "Barcelona ha figurat sis cops entre les primeres set classificacions en els últims set anys, amb barris com Gràcia, el Clot i el Poblenou, que abans no tenien un flux turístic rellevant."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 48,
+    "original_sentence": "L'afluència de visitants ha augmentat la pressió sobre l'espai urbà.",
+    "simplified_sentence": "Hi ha més gent visitant la ciutat."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 49,
+    "original_sentence": "El 2004, Barcelona, amb una població resident d'1,6 milions, va rebre 4,4 milions de turistes.",
+    "simplified_sentence": "Barcelona, amb 1,6 milions d'habitants, va rebre 4,4 milions de turistes el 2004."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 54,
+    "original_sentence": "Algunes mesures integrals En els últims temps, aquest tipus de desenvolupament turístic s'ha convertit en el blanc de les crítiques en altres ciutats.",
+    "simplified_sentence": "Algunes ciutats critiquen aquest tipus de desenvolupament turístic integral en els últims temps."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 55,
+    "original_sentence": "Una sèrie de protestes a Tenerife, Alacant o Eivissa, entre d'altres, han reclamat un canvi en el model turístic, al qual alguns residents culpen de problemes com l'augment dels lloguers, la pujada del cost de la vida, la decadència de les comunitats i la degradació del medi ambient.",
+    "simplified_sentence": "Algunes protestes a Tenerife, Alacant o Eivissa han demanat un canvi en el model turístic. Alguns residents l'acusen de problemes com l'augment dels lloguers, l'increment del cost de la vida, la degradació de les comunitats i la degradació del medi ambient."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 56,
+    "original_sentence": "Com a resposta, algunes ciutats han introduït mesures per fer front a aquests nous reptes.",
+    "simplified_sentence": "Com a resposta, algunes ciutats han adoptat mesures per fer front a aquests nous reptes."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 57,
+    "original_sentence": "Entre les més integrals hi ha les aplicades a Amsterdam.",
+    "simplified_sentence": "Les més integrals són les d'Amsterdam."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 58,
+    "original_sentence": "Les mesures per controlar el turisme a aquesta ciutat neerlandesa es van introduir a través de la política de “turisme en equilibri”, desenvolupada el 2019 després que 30.000 residents demanessin un nou plantejament de la política turística.",
+    "simplified_sentence": "La ciutat neerlandesa va introduir polítiques de turisme equilibrat el 2019 després de la petició de 30.000 residents."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 59,
+    "original_sentence": "Actualment, la ciutat imposa una taxa del 12,5% del preu dels allotjaments turístics, la més alta d'Europa.",
+    "simplified_sentence": "La ciutat aplica una taxa d'allotjament turístic del 12,5%, la més alta d'Europa."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 60,
+    "original_sentence": "Les accions reguladores també han inclòs restriccions a Airbnb: els anuncis de pisos es van reduir de 16.648 el març del 2021 a menys de 3.000 l'octubre del mateix any.",
+    "simplified_sentence": "Airbnb ha restringit els anuncis d'habitatges a menys de 3.000 des del març del 2021."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 61,
+    "original_sentence": "També es va prohibir que s'obrissin hotels nous.",
+    "simplified_sentence": "S'ha prohibit la construcció de nous hotels."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 62,
+    "original_sentence": "A més, la ciutat ha implantat la prohibició de fumar porros i beure alcohol en espais públics de zones cèntriques, i ha il·legalitzat les beer bikes [bicicletes grupals amb un bar incorporat per beure cervesa mentre es pedala] i els tours turístics amb grups grans.",
+    "simplified_sentence": "A més, la ciutat ha implantat la prohibició de fumar porros i beure alcohol en espais públics de zones cèntriques i ha il·legalitzat les beer bikes i els tours turístics amb grups grans."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 63,
+    "original_sentence": "Amsterdam també ha intentat distribuir el turisme de manera més uniforme per la ciutat animant els visitants a explorar nous barris i atraccions regionals.",
+    "simplified_sentence": "Amsterdam també intenta repartir el turisme uniformement per la ciutat, animant als visitants a explorar nous barris i atraccions regionals."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 65,
+    "original_sentence": "Un informe recent sobre l'aplicació de la taxa turística a Amsterdam conclou que l'impost hauria de ser tres vegades superior perquè tingués un impacte real en el nombre de visitants.",
+    "simplified_sentence": "Un estudi recent afirma que la taxa turística d'Amsterdam hauria de ser més alta per reduir el nombre de turistes."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 66,
+    "original_sentence": "Comparteix aquest fragment Tot i això, encara no és clar el grau d'impacte que les mesures adoptades a Amsterdam o a altres ciutats poden estar tenint, i és que, malgrat la pujada de les taxes turístiques, els visitants continuen arribant.",
+    "simplified_sentence": "Tot i que s'han adoptat mesures a Amsterdam i altres ciutats, encara no està clar quin és el seu impacte, ja que, malgrat la pujada de les taxes turístiques, els visitants continuen arribant."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 67,
+    "original_sentence": "El 2023, aquesta ciutat va registrar més de 22 milions de pernoctacions, malgrat l'acord de l'Ajuntament de restringir aquesta xifra a 20 milions.",
+    "simplified_sentence": "L'any 2023, aquesta ciutat va superar els 22 milions de pernoctacions, tot i que l'Ajuntament va limitar el nombre a 20 milions."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 68,
+    "original_sentence": "Un informe recent sobre l'aplicació de la taxa turística conclou que l'impost hauria de ser tres vegades superior perquè tingués un impacte real en el nombre de visitants.",
+    "simplified_sentence": "Un informe recent diu que l'impost hauria de ser tres cops més alt per tenir un impacte real en el nombre de turistes."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 69,
+    "original_sentence": "Mentrestant, l'oferta d'anuncis d'Airbnb ha tornat a pujar i ha arribat a gairebé 10.000 el 2024.",
+    "simplified_sentence": "Mentrestant, l'oferta d'anuncis d'Airbnb ha tornat a pujar i ha arribat a gairebé 10.000 el 2024."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 70,
+    "original_sentence": "Tot i que la xifra és inferior als nivells registrats abans dels nous controls, gradualment està tornant a les quantitats anteriors.",
+    "simplified_sentence": "La xifra, encara que és menor que abans dels nous controls, està tornant progressivament als nivells anteriors."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 71,
+    "original_sentence": "També es continuen obrint nous hotels, ja que algunes llicències de desenvolupament es van concedir abans que s'introduís l'stop als hotels, l'abril del 2024.",
+    "simplified_sentence": "També s'estan construint nous hotels, ja que algunes llicències s'han concedit abans que s'apliqués la restricció a la construcció d'hotels, a l'abril del 2024."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 72,
+    "original_sentence": "Segons l'expert en turisme Stephen Hodes, els intents d'estendre l'afluència de visitants a zones fora d'Amsterdam tampoc no han tingut gaire efecte.",
+    "simplified_sentence": "Segons Stephen Hodes, expert en turisme, les temptatives d'atraure visitants a zones diferents d'Amsterdam no han tingut gaire èxit."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 73,
+    "original_sentence": "Hodes argumenta que els visitants que es queden als afores de la ciutat no fan sinó alliberar espai al centre per a més turistes.",
+    "simplified_sentence": "Els visitants que es queden a la perifèria de la ciutat deixen lliure espai per a més turistes al centre."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 75,
+    "original_sentence": "Tenint en compte que sembla que els controls econòmics, normatius i espacials han tingut fins ara poc impacte a Amsterdam, potser caldrà adoptar plantejaments més creatius.",
+    "simplified_sentence": "Com que els controls econòmics, normatius i espacials no han funcionat a Amsterdam, potser haurem de ser més creatius."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 77,
+    "original_sentence": "El 2021, la ciutat va introduir l'estratègia Tourism for Good.",
+    "simplified_sentence": "Simplificació: La ciutat va introduir l'estratègia Tourism for Good el 2021."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 78,
+    "original_sentence": "Es tracta d'un plantejament més ampli del desenvolupament turístic, amb objectius de sostenibilitat basats en tres pilars: el turisme ha d'accelerar la transició ecològica, crear trobades enriquidores i generar més valor socioeconòmic per a més persones.",
+    "simplified_sentence": "Es tracta d'un plantejament més ampli del desenvolupament turístic que busca sostenibilitat en tres aspectes: l'ecològic, la creació de trobades enriquidores i la generació de més valor socioeconòmic per a més persones."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 79,
+    "original_sentence": "Com que el control no va començar fins al 2022, encara és aviat per saber si l'estratègia tindrà èxit.",
+    "simplified_sentence": "Perquè el control va començar el 2022, encara és aviat per saber si l'estratègia tindrà èxit."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 81,
+    "original_sentence": "Caldrà esperar per veure si els esforços de Copenhaguen influeixen en el volum o la qualitat del seu turisme urbà.",
+    "simplified_sentence": "Caldrà esperar per veure si els esforços de Copenhaguen influeixen en el seu turisme."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 85,
+    "original_sentence": "De la mateixa manera, el nombre de visitants a les atraccions turístiques de les ciutats europees va augmentar gairebé el 14% de mitjana el 2023.",
+    "simplified_sentence": "El 2023, el nombre de visitants a les atraccions turístiques de les ciutats europees va augmentar un 14%."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 87,
+    "original_sentence": "Les dades suggereixen que el turisme urbà continuarà creixent i, així mateix, també creixeran les pressions que hi van associades, que probablement es veuran exacerbades per l'augment de la població resident a moltes ciutats.",
+    "simplified_sentence": "Les dades indiquen que el turisme urbà experimentarà un augment continu i, al seu torn, augmentaran les pressions associades a aquest fet, la qual cosa probablement es veuria intensificada per l'augment de la població resident a les ciutats."
+  },
+  {
+    "sample_id": 7,
+    "original_sentence_id": 88,
+    "original_sentence": "En el futur, els planificadors hauran d'idear solucions encara més creatives per fer front a reptes inevitables.",
+    "simplified_sentence": "En el futur, els planificadors hauran de ser més creatius per fer front als reptes."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 0,
+    "original_sentence": "La ciutat solidària Les desigualtats econòmiques i socials no deixen de créixer tant a escala global com local.",
+    "simplified_sentence": "La ciutat solidària. Les desigualtats econòmiques i socials augmenten tant a escala global com local."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 1,
+    "original_sentence": "Per revertir aquesta situació, han sorgit a Barcelona un seguit d'iniciatives que aspiren a la justícia global, on individus, comunitats, identitats, generacions, ètnies i organitzacions convisquin en pau, optin als mateixos drets i tinguin les necessitats bàsiques cobertes.",
+    "simplified_sentence": "A Barcelona hi ha diverses iniciatives per assolir la justícia global, que promouen la convivència pacífica, l'accés als mateixos drets i les necessitats bàsiques cobertes per a tots els grups i organitzacions."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 4,
+    "original_sentence": "Totes les iniciatives s'emmarquen en eixos i objectius establerts al Pla Director de Cooperació per a la Justícia Global.",
+    "simplified_sentence": "Totes les iniciatives es basen en eixos i objectius del Pla Director de Cooperació per a la Justícia Global."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 5,
+    "original_sentence": "Amistat amb Ucraïna Arran de la invasió russa del febrer del 2022, Barcelona va començar a ajudar els serveis municipals de la capital ucraïnesa, Kíïv.",
+    "simplified_sentence": "Amistat amb Ucraïna A causa de la invasió russa del febrer de 2022, Barcelona va començar a donar suport als serveis municipals de la capital ucraïnesa, Kíïv."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 6,
+    "original_sentence": "Primer es va gestionar la donació de vehicles de bombers, generadors elèctrics i material sanitari i per al rescat de persones, i des de l'octubre següent es va establir un pont humanitari estable amb la firma d'un acord de col·laboració i amistat entre les dues ciutats.",
+    "simplified_sentence": "Primer es va gestionar la donació de vehicles de bombers, generadors elèctrics i material sanitari i de rescat de persones. Des d'octubre, hi ha un pont humanitari entre les dues ciutats amb un acord de col·laboració i amistat."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 8,
+    "original_sentence": "Les zones geogràfiques prioritàries són la Mediterrània i el Pròxim Orient, l'Àfrica al sud del Sàhara, Mèxic, l'Amèrica Central i el Carib, l'Amèrica del Sud i, en general, les zones en conflicte.",
+    "simplified_sentence": "Mediterrani, Orient Pròxim, Àfrica, Mèxic, Amèrica Central, Carib, Amèrica del Sud i zones en conflicte."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 9,
+    "original_sentence": "Actuacions al Sud i a casa Els tres primers eixos estratègics despleguen actuacions principalment en països del Sud, mentre que els altres dos incorporen accions locals (Barcelona, Catalunya, Estat espanyol i Unió Europea).",
+    "simplified_sentence": "Els tres primers eixos estratègics despleguen actuacions principalment en països del Sud, mentre que els altres dos incorporen accions locals a Barcelona, Catalunya, Estat espanyol i Unió Europea."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 10,
+    "original_sentence": "Tots poden incloure actuacions en processos transnacionals, regionals o globals, i poden perseguir una o més dimensions de la justícia global (econòmica, social, de gènere o ambiental).",
+    "simplified_sentence": "Tots poden incloure actuacions en processos transnacionals, regionals o globals, i poden perseguir una o més dimensions de la justícia global."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 11,
+    "original_sentence": "Treballant des de la base El paper de les ONG de cooperació i desenvolupament és essencial per al seu coneixement del terreny, a més de les seves relacions, agilitat i experiència.",
+    "simplified_sentence": "Les ONG de cooperació i desenvolupament tenen un paper clau pel coneixement del terreny, relacions, agilitat i experiència."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 12,
+    "original_sentence": "En paral·lel, també hi treballen cooperatives, sindicats, universitats, centres de recerca, empreses i altres agents.",
+    "simplified_sentence": "També hi treballen cooperatives, sindicats, universitats, centres de recerca, empreses i altres agents."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 13,
+    "original_sentence": "Per una Barcelona inclusiva Les polítiques públiques i el teixit social conflueixen en l'acció per la justícia social en un fòrum originat el 2005, l'Acord Ciutadà per una Barcelona Inclusiva, del qual formen part 859 entitats que treballen en àmbits com les persones amb discapacitat, sense llar, aturades, drogodependents o immigrades, dones, famílies, etc.",
+    "simplified_sentence": "Per una Barcelona inclusiva: Les polítiques públiques i el teixit social conflueixen en l'acció per la justícia social en un fòrum originat el 2005, l'Acord Ciutadà per una Barcelona Inclusiva, del qual formen part 859 entitats que treballen en àmbits com les persones amb discapacitat, sense llar, aturades, drogodependents o immigrades, dones, famílies, etc."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 14,
+    "original_sentence": "La realitat del sensellarisme A Barcelona hi ha, com a mínim, 4.838 persones sense llar, segons les últimes estimacions d'Arrels: 1.384 persones dormen al carrer, 2.803 s'allotgen als recursos públics i privats que existeixen a la ciutat i 605 més s'estan en assentaments informals, és a dir, en solars i locals en desús.",
+    "simplified_sentence": "A Barcelona hi ha almenys 4.838 persones sense llar."
+  },
+  {
+    "sample_id": 8,
+    "original_sentence_id": 15,
+    "original_sentence": "I la falta d'habitatge només és una de les emergències socials que cal atendre.",
+    "simplified_sentence": "I la manca d'habitatge és una de les emergències socials que cal abordar."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 1,
+    "original_sentence": "També permet descarregar el formulari de la descripció del projecte i adjuntar documents complementaris, com ara la justificació de despeses, reformulacions i altres comunicacions, tant de la convocatòria actual com la del 2024.",
+    "simplified_sentence": "També permet descarregar el formulari de la descripció del projecte i adjuntar documents complementaris, com ara la justificació de despeses, reformulacions i altres comunicacions, tant de la convocatòria actual com la del 2024."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 2,
+    "original_sentence": "Podeu obtenir més informació sobre les bases i els àmbits temàtics subvencionables al web de la convocatòria general.",
+    "simplified_sentence": "Per a més informació, visiteu la pàgina web de la convocatòria general."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 3,
+    "original_sentence": "Tramit_Page.Description.dates •\tPresentació de sol·licituds: del 9 al 29 de gener de 2025, ambdós inclosos.",
+    "simplified_sentence": "Del 9 al 29 de gener de 2025."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 4,
+    "original_sentence": "•\tPresentació de la justificació: màxim de dos mesos des de la finalització del projecte subvencionat.",
+    "simplified_sentence": "• Presentació de la justificació: màxim dos mesos des de finalitzar el projecte subvencionat."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 6,
+    "original_sentence": "Consulteu l'import subvencionable a l'apartat “Aplicació pressupostària i imports” de la convocatòria.",
+    "simplified_sentence": "Consulteu l'import subvencionable a la convocatòria."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 7,
+    "original_sentence": "Aquest tràmit és gratuït.",
+    "simplified_sentence": "No s'ha de pagar per fer aquest tràmit."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 8,
+    "original_sentence": "Tramit_Page.Description.important_information •\tLes persones físiques i les entitats estan obligades a fer el tràmit en línia.",
+    "simplified_sentence": "És important que les persones físiques i entitats facin el tràmit per internet."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 9,
+    "original_sentence": "•\tObtingueu més informació sobre els recursos i materials de suport per a les subvencions municipals.",
+    "simplified_sentence": "Per a més informació, visiteu la nostra pàgina sobre subvencions municipals."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 13,
+    "original_sentence": "Podeu consultar-los al cercador de prestadors de serveis electrònics de confiança qualificats a l'Estat espanyol.",
+    "simplified_sentence": "Pots trobar-los al cercador de prestadors de serveis qualificats."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 14,
+    "original_sentence": "Per a més informació, consulteu aquest enllaç.",
+    "simplified_sentence": "Per a més detalls, visiteu aquest enllaç."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 15,
+    "original_sentence": "Com es fa el tràmit?",
+    "simplified_sentence": "Com es fa el tràmit?"
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 16,
+    "original_sentence": "Seleccioneu una opció: Descripció del projecte: podeu escollir entre descarregar-vos i emplenar la plantilla de descripció del projecte (document bàsic 2) o elaborar un document.",
+    "simplified_sentence": "Plantilla de descripció del projecte: document bàsic 2"
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 17,
+    "original_sentence": "Si opteu per redactar el vostre propi document de descripció del projecte trobareu una \"Guia\" on es detallen tots els punts necessaris per a la seva correcta elaboració.",
+    "simplified_sentence": "Hi ha una guia que detalla tots els punts necessaris per a l'elaboració correcta del document de descripció del projecte."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 18,
+    "original_sentence": "Sol·licitud d'ajudes i subvencions: us permetrà tramitar la sol·licitud de subvenció dins del termini de presentació de sol·licituds de la convocatòria.",
+    "simplified_sentence": "La sol·licitud d'ajudes i subvencions us permet presentar la vostra petició dins del termini establert a la convocatòria."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 19,
+    "original_sentence": "Annexió de documents a sol·licituds registrades: us permetrà annexar documentació que complementi una sol·licitud ja presentada per registre telemàtic.",
+    "simplified_sentence": "Utilitza la funció d'Annexió de documents a sol·licituds registrades per annexar documentació complementària a una sol·licitud presentada anteriorment per registre telemàtic."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 20,
+    "original_sentence": "També podeu presentar els justificants de la despesa efectuada de cada projecte presentat.",
+    "simplified_sentence": "També podeu presentar justificants de despesa per a cada projecte presentat."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 21,
+    "original_sentence": "Empleneu el formulari.",
+    "simplified_sentence": "Omple el formulari."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 22,
+    "original_sentence": "Annexeu el document de descripció del projecte (document bàsic 2), si demaneu la sol·licitud de subvenció, o la documentació complementària, en cas d'annexió de documents a sol·licituds ja enregistrades.",
+    "simplified_sentence": "Annexeu el document de descripció del projecte (document bàsic 2), si demaneu la sol·licitud de subvenció, o la documentació complementària, en cas d'annexió de documents a sol·licituds ja enregistrades."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 23,
+    "original_sentence": "Confirmeu-ne les dades.",
+    "simplified_sentence": "Verifica la informació."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 24,
+    "original_sentence": "Presenteu la sol·licitud al registre telemàtic.",
+    "simplified_sentence": "Feu la petició a l'oficina en línia."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 25,
+    "original_sentence": "Què passa després de fer el tràmit?",
+    "simplified_sentence": "Després de fer el tràmit, què passa?"
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 26,
+    "original_sentence": "Un cop fet el tràmit •\tUs recomanem desar el justificant en PDF o imprimir-lo.",
+    "simplified_sentence": "Un cop fet el tràmit, deseu el justificant en PDF o imprimiu-lo."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 27,
+    "original_sentence": "•\tL'Ajuntament revisarà els documents i publicarà la resolució provisional i els documents que cal presentar.",
+    "simplified_sentence": "L'ajuntament revisarà els documents i publicarà la resolució i els documents necessaris."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 28,
+    "original_sentence": "•\tSi heu de presentar algun document o fer al·legacions, disposareu de 10 dies per fer-ho a través de l'opció “Annexió de documents a sol·licituds ja registrades”.",
+    "simplified_sentence": "• Si cal presentar documentació o fer al·legacions, ho pots fer en 10 dies amb l'opció \"Annexió de documents a sol·licituds ja registrades\"."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 29,
+    "original_sentence": "•\tL'Ajuntament revisarà els documents i les al·legacions i publicarà la resolució definitiva.",
+    "simplified_sentence": "L'Ajuntament revisarà els documents i les al·legacions i publicarà la resolució definitiva."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 30,
+    "original_sentence": "Quan rebreu resposta de l'ajuntament?",
+    "simplified_sentence": "En quin moment respondrà l'ajuntament?"
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 31,
+    "original_sentence": "El termini màxim per rebre una resposta és de 6 mesos des que finalitza el període de sol·licitud.",
+    "simplified_sentence": "El termini màxim per rebre una resposta és de 6 mesos des que acaba el termini de sol·licitud."
+  },
+  {
+    "sample_id": 9,
+    "original_sentence_id": 32,
+    "original_sentence": "En cas de no rebre cap resposta en aquest període, s'entén que la vostra sol·licitud no ha estat aprovada i no rebreu la subvenció.",
+    "simplified_sentence": "No rebre cap resposta en aquest període significa que la sol·licitud no ha estat aprovada i no es concedirà la subvenció."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 0,
+    "original_sentence": "Impost sobre la renda Image Barcelona és un gran lloc per viure, però aquí també hi ha impostos, fins i tot si no tens ingressos!",
+    "simplified_sentence": "A Barcelona també hi ha impostos, inclús si no tens ingressos!"
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 1,
+    "original_sentence": "Encara que a ningú no li agradi pagar-los, són necessaris i inevitables.",
+    "simplified_sentence": "Encara que a ningú no li agradi pagar-los, són necessaris i inevitables."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 2,
+    "original_sentence": "El sistema tributari espanyol és complex.",
+    "simplified_sentence": "És un sistema fiscal complicat."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 3,
+    "original_sentence": "Per això en aquesta secció trobaràs informació bàsica sobre els principals tributs que afecten les persones físiques (individus), amb un focus especial en les persones d'origen estranger que es desplacen a viure a la nostra ciutat.",
+    "simplified_sentence": "En aquesta secció trobaràs informació bàsica sobre els tributs que afecten les persones físiques, amb un focus especial en les persones d'origen estranger que es desplacen a viure a la nostra ciutat."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 5,
+    "original_sentence": "A Espanya, els rendiments que obtenen les persones físiques queden subjectes a tributació en els impostos següents: •\tIRPF per als residents fiscals a Espanya.",
+    "simplified_sentence": "Espanya grava amb impostos els ingressos de les persones que viuen al país: IRPF."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 7,
+    "original_sentence": "Tingues en compte que si reps una donació o herència, l'import no tributa per cap d'aquests impostos, sinó per l'impost sobre successions i donacions (IDS), en el seu cas.",
+    "simplified_sentence": "Tingues en compte que si reps una donació o herència, no hi ha impostos sobre l'impost de successions i donacions (IDS)."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 8,
+    "original_sentence": "A més, si ets un treballador desplaçat a territori espanyol, també és interessant que coneguis la popularment anomenada Llei Beckham.",
+    "simplified_sentence": "Per als treballadors desplaçats a Espanya, la Llei Beckham també és rellevant."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 9,
+    "original_sentence": "També has de saber que hi ha un impost que es paga fins i tot si no tens ingressos i vius dels teus estalvis.",
+    "simplified_sentence": "Hi ha un impost que s'aplica fins i tot si no tens ingressos i vius dels teus estalvis."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 10,
+    "original_sentence": "És l'impost sobre el patrimoni (IP), que s'explica més endavant.",
+    "simplified_sentence": "Es tracta de l'Impost sobre el Patrimoni (IP)."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 11,
+    "original_sentence": "Una altra qüestió important és que, en determinades circumstàncies, és obligatori presentar una declaració informativa sobre el patrimoni que posseeixes fora d'Espanya, a través del Model 720 per béns i drets situats a l'estranger i el Model 721 per criptomonedes.",
+    "simplified_sentence": "Cal presentar una declaració informativa sobre el patrimoni a l'estranger si es compleixen determinades circumstàncies."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 12,
+    "original_sentence": "Encara que només té validesa informativa i no pagues tribut, si no fas la declaració, pots tenir sancions econòmiques.",
+    "simplified_sentence": "Si no fas la declaració, encara que només sigui informativa, també et poden sancionar econòmicament."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 13,
+    "original_sentence": "Impost sobre la renda de les persones físiques (IRPF) L'IRPF és un tribut que grava la renda de les persones físiques residents (en termes fiscals) a Espanya d'acord amb les seves circumstàncies personals i familiars.",
+    "simplified_sentence": "L'IRPF és l'impost que grava la renda de les persones físiques residents a Espanya, en funció de les seves circumstàncies personals i familiars."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 14,
+    "original_sentence": "La declaració pot presentar-se tant de forma individual com conjunta.",
+    "simplified_sentence": "La declaració es pot presentar de forma individual o conjunta."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 15,
+    "original_sentence": "Aquesta última opció serà possible per a: •\tLes persones casades, siguin sense fills/es o amb fills/es (menors d'edat o majors incapacitats judicialment).",
+    "simplified_sentence": "Aquesta última opció serà possible per a: •\tPersones casades, amb fills/es o sense."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 17,
+    "original_sentence": "En aquest cas, només un dels progenitors pot presentar la declaració conjunta amb els fills.",
+    "simplified_sentence": "Un dels progenitors pot presentar la declaració conjunta amb els fills."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 18,
+    "original_sentence": "•\tQuan s'entén que el contribuent té la residència fiscal a Espanya?",
+    "simplified_sentence": "Quan?"
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 19,
+    "original_sentence": "•\ta) El contribuent roman més de 183 dies durant l'any natural (de l'1 de gener al 31 de desembre) en territori espanyol.",
+    "simplified_sentence": "Si passa més de 183 dies a Espanya durant l'any natural, es considera que hi té la residència."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 22,
+    "original_sentence": "•\t Què grava l'IRPF?",
+    "simplified_sentence": "Què grava l'IRPF?\n\n • Els impostos."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 23,
+    "original_sentence": "•\tL'objecte de l'IRPF són els rendiments del contribuent i els guanys i pèrdues patrimonials, amb independència del lloc on s'hagin produït i de quina sigui la residència del pagador.",
+    "simplified_sentence": "L'IRPF grava els guanys del contribuent i els guanys i pèrdues patrimonials, sense importar on s'hagin produït ni qui en paga."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 25,
+    "original_sentence": "Aquests són uns ingressos presumptes per la Hisenda, és a dir, l'Administració els pressuposa.",
+    "simplified_sentence": "Es tracta d'uns ingressos estimats per Hisenda."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 27,
+    "original_sentence": "•\tEn general, els rendiments subjectes a tributació en l'IRPF són: •\tEls rendiments del treball, com per exemple el salari que percep un treballador o la pensió.",
+    "simplified_sentence": "• En general, els rendiments subjectes a tributació en l'IRPF són: • Els rendiments del treball, com ara el sou d'un treballador o la pensió."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 28,
+    "original_sentence": "•\tEls rendiments d'activitats econòmiques, com per exemple els rendiments obtinguts per un treballador autònom que té un negoci.",
+    "simplified_sentence": "• Els ingressos generats per activitats econòmiques, com ara els beneficis d'un empresari independent."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 29,
+    "original_sentence": "•\tEls rendiments del capital mobiliari, entre els quals es troben els interessos de comptes bancaris o de préstecs, els dividends d'accions, etc. •\tEls rendiments del capital immobiliari, com per exemple els ingressos percebuts pel lloguer d'un immoble de la teva propietat.",
+    "simplified_sentence": "•\tEls rendiments del capital, com ara els interessos de comptes bancaris o de préstecs, dividends d'accions, etc. •\tEls rendiments immobiliaris, com ara els ingressos percebuts pel lloguer d'un immoble de la teva propietat."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 31,
+    "original_sentence": "•\tGuanys i pèrdues patrimonials, com el guany o la pèrdua obtinguts en la venda d'unes accions o d'un immoble.",
+    "simplified_sentence": "•\tGuanys i pèrdues patrimonials."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 32,
+    "original_sentence": "•\tQuant es paga?",
+    "simplified_sentence": "Què costa?"
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 33,
+    "original_sentence": "•\tL'IRPF és un impost progressiu, la qual cosa significa que el seu tipus de gravamen augmenta a mesura que ho fan els ingressos, guanys i imputacions de renda.",
+    "simplified_sentence": "•\tL'IRPF és un impost progressiu, la qual cosa significa que el seu tipus de gravamen augmenta a mesura que ho fan els ingressos, guanys i imputacions de renda."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 34,
+    "original_sentence": "•\tPer determinar quant ha de pagar cada contribuent per IRPF es determina una quantitat que s'anomena base liquidable, en la qual estan inclosos els ingressos nets amb les corresponents deduccions i reduccions fiscals segons les circumstàncies personals i familiars.",
+    "simplified_sentence": "• Per a calcular l'Impost sobre la Renda de les Persones Físiques (IRPF) es calcula una quantitat anomenada base liquidable, que inclou els ingressos nets després de les deduccions i reduccions fiscals en funció de les circumstàncies personals i familiars."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 36,
+    "original_sentence": "•\tEls tipus impositius estatals (gravamen estatal) de l'IRPF són iguals per a tot Espanya, però a aquests tipus impositius cal sumar també els tipus impositius autonòmics (gravamen autonòmic).",
+    "simplified_sentence": "• Els tipus de l'IRPF són els mateixos per a tot l'Estat, però cal sumar-hi els autonòmics."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 37,
+    "original_sentence": "Per això, si vius a Barcelona, has de mirar els corresponents tipus impositius vigents a Catalunya.",
+    "simplified_sentence": "Per tant, si vius a Barcelona, has de conèixer els impostos vigents a Catalunya."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 38,
+    "original_sentence": "•\tEl tipus marginal és el més elevat que pugui pagar un contribuent, és a dir, el tram més alt de percentatge que s'aplica a la seva base liquidable.",
+    "simplified_sentence": "•\tÉs el tipus d'impost més alt que pot pagar un contribuent."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 43,
+    "original_sentence": "•\tAixí, actualment entre les deduccions generals pots trobar la deducció per inversió en empreses de nova o recent creació, deduccions per donatius i altres aportacions, deduccions per obres de millora d'eficiència energètica en habitatges, etc. •\tSi us plau, no oblidis que les deduccions autonòmiques varien segons la comunitat autònoma.",
+    "simplified_sentence": "Així, actualment, entre les deduccions generals, hi ha la deducció per inversió en empreses de nova o recent creació, la deducció per donatius i altres aportacions, la deducció per obres de millora d'eficiència energètica en habitatges, etc.\n\nLes deduccions autonòmiques varien segons la comunitat autònoma."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 45,
+    "original_sentence": "D'una altra manera, si recentment vas comprar un immoble i hi vius, tampoc no podràs desgravar la hipoteca.",
+    "simplified_sentence": "D'una altra manera, si t'has comprat una casa i hi vius, tampoc podràs desgravar la hipoteca."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 46,
+    "original_sentence": "•\t Quan es presenta la declaració de l'IRPF?",
+    "simplified_sentence": "•\tQuan es presenta la declaració de l'IRPF?"
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 47,
+    "original_sentence": "•\tHabitualment, la declaració de l'IRPF s'ha de presentar fins al dia 30 de juny de l'any següent (o sigui, les rendes del 2023 es declaren i l'impost es paga fins al 30.06.2024).",
+    "simplified_sentence": "• La declaració de l'IRPF s'ha de presentar normalment fins al 30 de juny de l'any següent."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 48,
+    "original_sentence": "Normalment, la presentació s'habilita des de finals de la primera setmana del mes d'abril, per tant, disposes de gairebé tres mesos.",
+    "simplified_sentence": "Normalment, la presentació s'habilita des de finals de la primera setmana del mes d'abril, per tant, disposes de gairebé tres mesos."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 49,
+    "original_sentence": "De totes maneres, és convenient revisar el calendari fiscal cada any.",
+    "simplified_sentence": "Revisa el calendari fiscal cada any."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 50,
+    "original_sentence": "•\tEn el cas de presentació de la declaració de l'IRPF de forma voluntària (sense rebre abans un requeriment per part de l'Agència Tributària) fora de termini, hauràs de pagar més.",
+    "simplified_sentence": "Si presentes la declaració de l'IRPF voluntàriament fora de termini, hauràs de pagar més."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 51,
+    "original_sentence": "Bé un recàrrec o bé interessos de demora per pagament retardat, depenent del temps transcorregut des de la data límit (30 de juny) i la data en què efectues el pagament de l'impost.",
+    "simplified_sentence": "Un recàrrec o interessos de demora per pagament retardat."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 52,
+    "original_sentence": "Es pot presentar la declaració de l'IRPF de manera conjunta?",
+    "simplified_sentence": "Es pot presentar la declaració de l'IRPF de manera conjunta?"
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 53,
+    "original_sentence": "La declaració de l'IRPF se sol presentar de manera individual.",
+    "simplified_sentence": "La declaració de l'IRPF sol presentar-se individualment."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 54,
+    "original_sentence": "No obstant això, les persones que formen part d'una unitat familiar poden presentar-la conjuntament.",
+    "simplified_sentence": "Les persones que formen part d'una unitat familiar poden presentar-la conjuntament."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 55,
+    "original_sentence": "A grans trets, poden presentar la declaració conjunta: •\tLes persones casades, siguin sense fills/es o amb fills/es (menors d'edat o majors d'edat incapacitats judicialment).",
+    "simplified_sentence": "En resum, només poden presentar una declaració conjunta les persones casades, sigui amb o sense fills."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 56,
+    "original_sentence": "•\tLes persones separades legalment i les parelles de fet amb fills/es a càrrec (menors d'edat o majors d'edat incapacitats judicialment).",
+    "simplified_sentence": "• Les persones divorciades o separades i les parelles de fet amb fills a càrrec."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 57,
+    "original_sentence": "En aquest cas, només un dels progenitors pot presentar la declaració conjunta amb els fills.",
+    "simplified_sentence": "Només un dels progenitors pot presentar la declaració conjunta amb els fills."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 58,
+    "original_sentence": "És important destacar que hi ha una reducció de la base imposable de l'impost per a les declaracions conjuntes de famílies integrades pels dos cònjuges no separats legalment i, si n'hi ha, pels fills/es menors que convisquin amb ells.",
+    "simplified_sentence": "És important destacar que hi ha una reducció de la base imposable per a les declaracions conjuntes de famílies formades pels dos cònjuges no separats legalment i, si n'hi ha, pels fills/es menors que convisquin amb ells."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 59,
+    "original_sentence": "Impost sobre la renda de no residents (IRNR) L'impost sobre la renda de no residents IRNR és un tribut de caràcter directe que grava la renda obtinguda en territori espanyol per les persones físiques i entitats no residents a Espanya.",
+    "simplified_sentence": "L'IRNR és un impost que grava els guanys dels no residents a Espanya."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 60,
+    "original_sentence": "En cas de béns immobles que no generen rendes com a tal (per exemple, perquè no estan llogats), també s'aplica aquest impost, com explicarem més endavant.",
+    "simplified_sentence": "En cas de béns immobles que no generen rendes, s'aplica aquest impost."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 61,
+    "original_sentence": "Règim fiscal especial aplicable a treballadors desplaçats a territori espanyol (Llei Beckham)  Existeix un règim especial per a persones treballadores desplaçades al territori espanyol que es va concebre amb la finalitat d'atreure persones altament qualificades per millorar la internacionalització i la competitivitat de les empreses locals.",
+    "simplified_sentence": "Llei Beckham: Règim especial per a treballadors desplaçats a Espanya."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 62,
+    "original_sentence": "Aquest règim es coneix popularment com a Llei Beckham perquè inicialment alguns clubs de futbol el van utilitzar per fitxar jugadors, i el futbolista anglès David Beckham va ser un dels primers a beneficiar-se d'aquest règim especial.",
+    "simplified_sentence": "Alguns clubs de futbol van utilitzar aquest règim per fitxar jugadors."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 63,
+    "original_sentence": "Malgrat això, actualment la llei exclou els esportistes professionals del règim especial.",
+    "simplified_sentence": "Actualment, la llei exclou els esportistes professionals del règim especial."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 65,
+    "original_sentence": "Gràcies als canvis legislatius recents, no només les persones altament qualificades poden beneficiar-se d'aquest règim, sinó també els nòmades digitals i les persones emprenedores i inversores en empreses acreditades com a emergents.",
+    "simplified_sentence": "Els canvis legislatius recents no només permeten que les persones altament qualificades s'hi beneficiïn, sinó també els nòmades digitals, les persones emprenedores i les inversores en empreses emergents acreditades."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 66,
+    "original_sentence": "Quin és el temps d'aplicació de la Llei Beckham?",
+    "simplified_sentence": "Quin és el temps d'aplicació de la Llei Beckham?"
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 67,
+    "original_sentence": "La Llei Beckham és aplicable en el període impositiu en què s'efectuï el canvi de residència i durant els cinc períodes impositius següents (1+5).",
+    "simplified_sentence": "La Llei Beckham és aplicable en el període impositiu en què s'efectuï el canvi de residència i durant els sis períodes impositius següents."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 68,
+    "original_sentence": "Per exemple, si una persona treballadora es desplaça a Espanya el setembre de 2024, sol·licita l'aplicació d'aquest règim fiscal i l'hi concedeixen, aquesta llei s'aplicarà a partir de l'any 2025 (primer any en què obté la residència fiscal a Espanya) i els 5 anys següents, és a dir, fins a l'any 2030.",
+    "simplified_sentence": "Si una persona treballa a Espanya el setembre de 2024, sol·licita l'aplicació d'aquest règim fiscal i li ho concedeixen, llavors aquesta llei s'aplicarà des de l'any 2025, que serà quan obtingui la residència fiscal a Espanya, durant 5 anys, fins al 2030."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 70,
+    "original_sentence": "Quins són els requisits per optar a la Llei Beckham?",
+    "simplified_sentence": "La Llei Beckham es dirigeix a esportistes, entrenadors i altres personalitats esportives que busquen reduir la seva pressió fiscal."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 71,
+    "original_sentence": "Per optar a aquest règim especial, s'han de complir les condicions següents: a) No haver estat resident a Espanya durant els cinc períodes impositius anteriors a aquell en el qual es produeixi el desplaçament.",
+    "simplified_sentence": "No haver estat resident a Espanya durant els cinc períodes impositius anteriors a aquell en el qual es produeixi el desplaçament."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 72,
+    "original_sentence": "b) Que el desplaçament es produeixi com a conseqüència d'alguna de les circumstàncies següents: •\tUn contracte de treball (s'exceptuen esportistes professionals) amb una empresa espanyola o quan el desplaçament sigui ordenat per l'ocupador i existeixi una carta de desplaçament d'aquest.",
+    "simplified_sentence": "Que el viatge estigui relacionat amb un contracte de treball amb una empresa espanyola o bé que l'empresa hagi ordenat el desplaçament i hi hagi una carta per a justificar-lo."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 73,
+    "original_sentence": "•\tL'adquisició de la condició d'administrador en una societat espanyola.",
+    "simplified_sentence": "Accedir al càrrec d'administrador en una empresa espanyola."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 74,
+    "original_sentence": "(La limitació anteriorment vigent respecte a la tinença de participacions inferiors al 25% en aquesta empresa actualment es manté només per a empreses patrimonials).",
+    "simplified_sentence": "La restricció anterior sobre la tinença de participacions inferiors al 25% en aquesta empresa encara s'aplica només per a empreses patrimonials."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 75,
+    "original_sentence": "•\tObtenció de la residència mitjançant el visat de teletreball internacional (nòmada digital).",
+    "simplified_sentence": "Resposta: Residència per a nòmades digitals."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 76,
+    "original_sentence": "Important: aquest visat no és aplicable per a les persones amb ciutadania europea.",
+    "simplified_sentence": "És important tenir-ho present perquè aquest visat no s'aplica als ciutadans europeus."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 77,
+    "original_sentence": "•\tRealització d'una activitat emprenedora segons els termes de la Llei 14/2013.",
+    "simplified_sentence": "• Realizar una activitat emprenedora segons la Llei 14/2013."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 78,
+    "original_sentence": "•\tPrestació de serveis professionals altament qualificats a empreses emergents innovadores o realització de formació i investigació en innovació.",
+    "simplified_sentence": "Assistència a empreses innovadores en serveis qualificats."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 79,
+    "original_sentence": "c) Que no s'obtinguin rendes que es qualificarien com a obtingudes mitjançant un establiment permanent a Espanya.",
+    "simplified_sentence": "Que no es tinguin rendes d'un establiment permanent a Espanya."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 80,
+    "original_sentence": "És molt important destacar que hi ha un termini per optar per aquest règim especial.",
+    "simplified_sentence": "Es molt important recordar que hi ha un termini per sol·licitar aquest règim especial."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 82,
+    "original_sentence": "Si no ho fas durant aquest termini, perdràs aquesta oportunitat avantatjosa.",
+    "simplified_sentence": "Si no ho fas ara, es perdrà una bona oportunitat."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 83,
+    "original_sentence": "És crucial tenir en compte que hi ha certs requisits i excepcions pel que fa a les condicions que motivin el desplaçament a Espanya; per tant, és important revisar la teva situació particular amb un advocat o advocada especialista.",
+    "simplified_sentence": "Per tant, és important revisar la teva situació particular amb un advocat o advocada especialista."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 84,
+    "original_sentence": "Finalment, cal destacar una altra novetat introduïda recentment quant a l'aplicabilitat a familiars de persones titulars d'aquest règim fiscal.",
+    "simplified_sentence": "Resposta: S'han inclòs canvis recents per estendre l'aplicabilitat a familiars de contribuents que gaudeixen d'aquest règim fiscal."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 85,
+    "original_sentence": "A partir d'ara també podran acollir-se al règim: •\tel cònjuge de la persona acollida en aquest règim (o, en el supòsit d'inexistència de vincle matrimonial, el progenitor dels fills), sempre que compleixin unes determinades condicions; i •\tels seus fills menors de 25 anys o de qualsevol edat en cas de discapacitat.",
+    "simplified_sentence": "Els cònjuges i fills podran gaudir d'aquest règim."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 86,
+    "original_sentence": "Quins són els principals incentius de la Llei Beckham?",
+    "simplified_sentence": "Els incentius de la Llei Beckham són:\n- Reduir impostos.\n- Facilitar la vida dels expatriats."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 87,
+    "original_sentence": "En el marc de la Llei Beckham, la persona contribuent tributa exclusivament per les rendes obtingudes en territori espanyol, a excepció dels rendiments del treball, els quals queden subjectes a tributació en la seva totalitat amb independència del lloc on s'hagin produït i de quina sigui la residència del pagador.",
+    "simplified_sentence": "La Llei Beckham permet a la persona contribuent tributar només pels ingressos obtinguts a Espanya, excepte pels rendiments del treball, que estan subjectes a impostos independentment del lloc on es produeixin o de la residència del pagador."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 88,
+    "original_sentence": "Dit d'una altra manera, malgrat ser resident fiscal a Espanya de facto, la persona té el tractament fiscal aplicable a no residents fiscals.",
+    "simplified_sentence": "Altres maneres de dir-ho és que, tot i que físicament viu a Espanya, a efectes fiscals es considera que no hi viu."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 89,
+    "original_sentence": "El tipus impositiu aplicable és fix (a diferència de l'IRPF), del 24% fins a 600.000 euros i del 47% per a l'excés.",
+    "simplified_sentence": "El tipus impositiu aplicable és fix: 24% fins a 600.000 euros i 47% per sobre d'aquesta quantitat."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 91,
+    "original_sentence": "És important tenir en compte que, encara que obtens un estalvi fiscal molt elevat, certes despeses i conceptes no són deduïbles (a diferència de l'IRPF aplicable als residents fiscals).",
+    "simplified_sentence": "A l'hora de calcular l'Impost sobre Successions i Donacions, encara que obtens un estalvi fiscal molt elevat, hi ha despeses i conceptes que no són deduïbles."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 92,
+    "original_sentence": "Finalment, és interessant destacar dos avantatges addicionals per a les persones contribuents a les quals sigui aplicable la Llei Beckham: •\tEstan subjectes a l'impost sobre el patrimoni (IP) exclusivament pels béns o drets dels quals siguin titulars i que estiguin situats o es puguin exercir o s'hagin de complir a Espanya.",
+    "simplified_sentence": "L'avantatge és que només han de pagar l'impost sobre el patrimoni pels béns espanyols."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 93,
+    "original_sentence": "•\tNo tenen l'obligació, a diferència dels residents fiscals, d'informar dels seus béns i drets situats fora d'Espanya a través del Model 720/721.",
+    "simplified_sentence": "No tenen l'obligació de presentar el Model 720/721, a diferència dels residents fiscals."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 94,
+    "original_sentence": "Per a més informació Per acabar, volem recordar que tota aquesta informació és aplicable a les persones físiques (persones), i que les persones jurídiques (empreses) tenen el seu propi sistema de tributació.",
+    "simplified_sentence": "Per a més informació, visiteu el web de l'Agència Tributària."
+  },
+  {
+    "sample_id": 10,
+    "original_sentence_id": 95,
+    "original_sentence": "Per tant, si vols crear una nova empresa a Barcelona o, per exemple, establir una sucursal d'una empresa estrangera, t'aconsellem consultar la informació corresponent amb especialistes.",
+    "simplified_sentence": "Per tant, si vols crear una nova empresa a Barcelona o establir una sucursal d'una empresa estrangera, t'aconsellem consultar la informació corresponent amb especialistes."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 0,
+    "original_sentence": "Quines garanties m'ofereix l'Ajuntament de Barcelona respecte a les meves dades personals?",
+    "simplified_sentence": "L'Ajuntament de Barcelona garanteix la confidencialitat de les teves dades personals."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 1,
+    "original_sentence": "Contingut Com a persones usuàries de les webs municipals, haureu de subministrar les dades personals imprescindibles per a la prestació del servei sol·licitat.",
+    "simplified_sentence": "Com a usuaris de les webs municipals, haureu de proporcionar les dades personals necessàries per a la prestació del servei demanat."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 2,
+    "original_sentence": "Les vostres dades personals seran tractades amb la finalitat de gestionar el tràmit sol·licitat, d'acord amb la legislació administrativa específica.",
+    "simplified_sentence": "La teva informació personal s'utilitzarà per gestionar el tràmit que has demanat, segons la llei administrativa."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 3,
+    "original_sentence": "L'Ajuntament de Barcelona garanteix que les dades personals dels ciutadans seran: Tractades de manera lícita i transparent Tots els tractaments de l'Ajuntament de Barcelona estan legitimats: per una base legal, en el compliment d'una obligació o també pel consentiment de la persona interessada.",
+    "simplified_sentence": "L'Ajuntament de Barcelona garanteix que les dades personals dels ciutadans seran tractades de manera lícita i transparent."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 4,
+    "original_sentence": "Oferint informació específica en cada tractament i difonent aquesta política de privacitat general es compleix el principi de transparència.",
+    "simplified_sentence": "En oferir informació específica de cada tractament, es compleix el principi de transparència."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 7,
+    "original_sentence": "Conservades durant un període no superior al necessari L'Ajuntament de Barcelona només conserva les dades personals el temps necessari per complir les obligacions legals.",
+    "simplified_sentence": "Conservades durant un període no superior al necessari. L'Ajuntament de Barcelona només conserva les dades personals el temps necessari per complir les obligacions legals."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 8,
+    "original_sentence": "Recollides amb finalitats determinades L'Ajuntament no tracta les dades personals per a qualsevol altra finalitat que la que dona origen a la seva recollida, i sempre segons la informació que es facilita prèviament al/la ciutadà/ana.",
+    "simplified_sentence": "L'Ajuntament no fa servir les dades personals per a altres finalitats que no siguin les que s'indiquen a l'inici."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 9,
+    "original_sentence": "Exactes i actualitzades L'Ajuntament de Barcelona posa a disposició de la ciutadania mitjans que permeten rectificar les seves dades personals (per exemple, un nom mal escrit) o actualitzar-les (per exemple, l'adreça postal), sens perjudici del dret de rectificació reconegut a la normativa de protecció de dades.",
+    "simplified_sentence": "L'Ajuntament de Barcelona facilita mitjans perquè la ciutadania pugui esmenar dades personals incorrectes (com ara un nom mal escrit) o actualitzar-les (per exemple, l'adreça postal), sense perjudici del dret de rectificació reconegut per la normativa de protecció de dades."
+  },
+  {
+    "sample_id": 11,
+    "original_sentence_id": 11,
+    "original_sentence": "L'Ajuntament de Barcelona garanteix la confidencialitat en el tractament de les dades de caràcter personal així com la implantació de les mesures, d'ordre tècnic i organitzatiu, que en garanteixin la seguretat d'acord amb el Reglament (UE) 2016/679 del Parlament Europeu i la legislació vigent en matèria de protecció de dades",
+    "simplified_sentence": "L'Ajuntament de Barcelona garanteix la confidencialitat i la seguretat de les dades personals i en implanta les mesures tècniques i organitzatives necessàries per a garantir-ne la seguretat, d'acord amb el Reglament (UE) 2016/679 del Parlament Europeu i la legislació vigent en matèria de protecció de dades."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 0,
+    "original_sentence": "Com actua La Sindicatura de Greuges de Barcelona actua per sol·licitud de qualsevol persona física o jurídica que presenti una queixa sobre una actuació de l'administració pública local.",
+    "simplified_sentence": "La Sindicatura de Greuges de Barcelona actua per sol·licitud de qualsevol persona física o jurídica que presenti una queixa sobre una actuació de l'administració pública local."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 1,
+    "original_sentence": "També pot fer-ho d'ofici, és a dir, per iniciativa pròpia, quan consideri que cal emprendre alguna investigació en defensa dels drets de la ciutadania.",
+    "simplified_sentence": "També pot actuar d'ofici, quan consideri que cal emprendre alguna investigació en defensa dels drets de la ciutadania."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 2,
+    "original_sentence": "Quan es presenta una queixa o reclamació, la Sindicatura avalua si aquesta compleix els requisits per ser admesa a tràmit o no, i en cas positiu, estudia el cas, demanant la informació necessària als organismes municipals adients.",
+    "simplified_sentence": "Quan es presenta una queixa o reclamació, la Sindicatura avalua si compleix els requisits per ser admesa a tràmit o no. En cas positiu, estudia el cas i demana la informació necessària als organismes municipals adients."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 3,
+    "original_sentence": "Un cop completat l'estudi del cas, elabora una resolució al respecte que publica i comunica a les parts.",
+    "simplified_sentence": "Simplificació: Després d'acabar l'anàlisi, pren una decisió i la comunica a les persones implicades."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 4,
+    "original_sentence": "Les seves actuacions són gratuïtes i no cal l'assistència d'advocat ni procurador, i les queixes que se li formulen no afecten els terminis previstos per a l'exercici d'accions en via administrativa o jurisdiccional.",
+    "simplified_sentence": "No és necessari un advocat ni un procurador, i les queixes no afecten els terminis legals."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 5,
+    "original_sentence": "La Sindicatura de Greuges supervisa l'activitat de l'administració municipal, formulant advertiments, recomanacions i suggeriments que facilitin la resolució dels problemes objecte de queixa, amb l'objectiu de millorar el funcionament de l'administració municipal.",
+    "simplified_sentence": "La Sindicatura de Greuges vigila l'administració municipal, donant consells i recomanacions per a resoldre problemes i millorar el funcionament de l'ajuntament."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 6,
+    "original_sentence": "Igualment, pot proposar fórmules de conciliació o d'acord per facilitar una resolució ràpida i satisfactòria de la queixa.",
+    "simplified_sentence": "Simplificació: També pot oferir solucions o acords per resoldre ràpidament i satisfactòriament la queixa."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 7,
+    "original_sentence": "La Sindicatura exerceix les seves funcions amb independència i imparcialitat i, per tant, no rep instruccions de cap autoritat o càrrec municipal.",
+    "simplified_sentence": "La Sindicatura actua independentment i imparcialment, de manera que no segueix les ordres de cap autoritat o càrrec municipal."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 8,
+    "original_sentence": "Per desenvolupar les seves funcions, compta amb la col•laboració de tots els òrgans municipals.",
+    "simplified_sentence": "Treballa amb tots els òrgans municipals."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 10,
+    "original_sentence": "La Sindicatura de Greuges de Barcelona pot intervenir per sol·licitud dels ciutadans i ciutadanes o dels col·lectius que manifestin queixes o problemes amb l'administració municipal o amb un servei en què l'Ajuntament tingui participació.",
+    "simplified_sentence": "La Sindicatura de Greuges de Barcelona pot intervenir per sol·licitud dels ciutadans i ciutadanes o dels col·lectius que manifestin queixes o problemes amb l'administració municipal o amb un servei en què l'Ajuntament tingui participació."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 11,
+    "original_sentence": "Pot intervenir també, per iniciativa pròpia, quan entengui que l'Administració municipal pot haver vulnerat, directament o indirectament, els drets constitucionals de les persones.",
+    "simplified_sentence": "Podria actuar per iniciativa pròpia quan consideri que l'administració municipal hagi vulnerat directament o indirectament els drets constitucionals de les persones."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 12,
+    "original_sentence": "La Sindicatura no pot intervenir en els casos següents: •\tSi es tracta d'un problema entre particulars que no implica de cap manera l'administració municipal.",
+    "simplified_sentence": "La Sindicatura no pot intervenir en els següents casos:\n1. Problematica entre particulars sense implicació de l'administració municipal."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 13,
+    "original_sentence": "•\tSi el motiu de la queixa està pendent d'una resolució judicial.",
+    "simplified_sentence": "Si hi ha un procés judicial pendent."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 14,
+    "original_sentence": "•\tSi la queixa és anònima, denota mala fe o no té prou fonament.",
+    "simplified_sentence": "• Si la queixa és anònima, denota mala fe o no té prou fonament."
+  },
+  {
+    "sample_id": 12,
+    "original_sentence_id": 15,
+    "original_sentence": "Quan no pot intervenir, la Sindicatura de Greuges de Barcelona orienta i assessora sobre les gestions que es poden fer.",
+    "simplified_sentence": "Quan no pot actuar, la Sindicatura de Greuges de Barcelona orienta i dona consells sobre les accions que es poden prendre."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 0,
+    "original_sentence": "Sobre el projecte El Mecanisme per a l'Energia Sostenible de Barcelona (MES Barcelona), un instrument per acompanyar i accelerar la transició energètica de la ciutat al costat d'inversors privats.",
+    "simplified_sentence": "Sobre el projecte MES Barcelona, un instrument per acompanyar i accelerar la transició energètica de la ciutat amb inversors privats."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 1,
+    "original_sentence": "Amb aquest instrument es pretén invertir en la instal·lació de plaques fotovoltaiques i rehabilitació energètica a la ciutat.",
+    "simplified_sentence": "L'objectiu és invertir en instal·lacions de plaques fotovoltaiques i rehabilitacions energètiques a la ciutat."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 2,
+    "original_sentence": "És el nou pla de transformació energètica de l'Ajuntament que et permet instal·lar plaques fotovoltaiques al teu edifici mitjançant una solució finançada amb garantia dels materials.",
+    "simplified_sentence": "Pla de l'Ajuntament que et permet instal·lar plaques fotovoltaiques a l'edifici mitjançant un finançament garantit pels materials."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 3,
+    "original_sentence": "Els finançadors de la fotovoltaica vendran l'energia als propietaris de l'edifici, i en acabar el contracte de venda d'energia l'actiu passarà a pertànyer als propietaris a cost zero.",
+    "simplified_sentence": "Els finançadors vendran l'energia als propietaris de l'edifici. L'actiu passarà a pertànyer als propietaris a cost zero al final del contracte."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 5,
+    "original_sentence": "Complementàriament, es preveu també invertir en projectes de rehabilitació energètica d'edificis que tinguin un consum energètic alt, com poden ser hospitals, hotels i centres esportius, entre d'altres.",
+    "simplified_sentence": "Simplificació: Es preveu invertir en projectes de rehabilitació energètica d'edificis, com ara hospitals, hotels i centres esportius."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 6,
+    "original_sentence": "Finalment, el MES Barcelona també vol invertir en projectes que impulsin la innovació en el sector econòmic de les energies renovables.",
+    "simplified_sentence": "Barcelona també vol invertir en projectes d'energies renovables."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 8,
+    "original_sentence": "El MES Barcelona és un mecanisme d'inversió financera per part de l'Ajuntament de Barcelona.",
+    "simplified_sentence": "Simplificat: El MES Barcelona és una manera en què l'Ajuntament de Barcelona inverteix diners."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 9,
+    "original_sentence": "Per tant, aquests 50 M€ municipals es destinen a projectes d'inversió presentats per inversors homologats per l'Ajuntament.",
+    "simplified_sentence": "Per tant, es destinen 50 M€ municipals a projectes d'inversió presentats per inversors homologats."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 10,
+    "original_sentence": "Aquests inversors homologats són un conjunt d'inversors que tenen experiència a invertir en fotovoltaiques i en rehabilitació energètica.",
+    "simplified_sentence": "Són inversors experts en energia solar i rehabilitació."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 11,
+    "original_sentence": "A l'hora de seleccionar inversions, l'Ajuntament exigirà que es focalitzin en la instal·lació de plaques fotovoltaiques o la rehabilitació energètica en què el model de negoci no requereixi un cofinançament per part dels propietaris dels edificis.",
+    "simplified_sentence": "L'ajuntament exigirà que les inversions es focalitzin en la instal·lació de plaques fotovoltaiques o la rehabilitació energètica per a edificis, on el model de negoci no requereixi cofinançament per part dels propietaris."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 12,
+    "original_sentence": "Els inversors assumiran el 100% de la inversió i la recuperaran gràcies a l'energia excedent o els estalvis energètics generats per les operacions finançades.",
+    "simplified_sentence": "Els inversors recuperaran la inversió gràcies a l'energia excedent o als estalvis energètics generats per les operacions finançades."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 14,
+    "original_sentence": "Homologació d'inversors Al març del 2021, la Comissió d'Economia i Hisenda de l'Ajuntament de Barcelona va aprovar les primeres empreses i grups empresarials que poden ser inversors homologats en el Mecanisme per l'Energia Sostenible de Barcelona (MES Barcelona).",
+    "simplified_sentence": "En març del 2021, la Comissió d'Economia i Hisenda de l'Ajuntament de Barcelona va homologar les primeres empreses i grups empresarials que poden invertir en el Mecanisme per l'Energia Sostenible de Barcelona (MES Barcelona)."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 16,
+    "original_sentence": "Els procés d'homologació d'inversors resta obert; per tant, en les properes convocatòries podran incorporar-se noves empreses al projecte de MES Barcelona.",
+    "simplified_sentence": "El procés d'homologació d'inversors roman obert, així que, en futures convocatòries, més empreses podran unir-se al projecte de MES Barcelona."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 17,
+    "original_sentence": "Inicialment n'hi ha previstes dues a l'any, a més de les noves convocatòries d'homologació que s'aniran produint.",
+    "simplified_sentence": "Al principi hi ha dues convocatòries a l'any, a més de les noves convocatòries d'homologació que es van produint."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 18,
+    "original_sentence": "Àmbits d'actuació La coinversió es concretarà en diferents grups de projectes dirigits a la millora energètica de la ciutat pel que fa a: •\tMesures actives: instal·lació de plaques fotovoltaiques i altres fonts netes d'energia.",
+    "simplified_sentence": "Àmbits d'actuació: coinversió per a la millora energètica de la ciutat, amb mesures actives com plaques fotovoltaiques i altres fonts netes d'energia."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 19,
+    "original_sentence": "•\tMesures passives: millora d'aïllaments, reposició de finestres i tancaments, millora de façanes, etc. •\tInnovació tecnològica en energies netes.",
+    "simplified_sentence": "Millorar aïllaments, canviar finestres i tancaments, façanes, etc.\nInvertir en energies netes."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 20,
+    "original_sentence": "Les mesures seran d'aplicació a tot el parc d'edificis de la ciutat: –      Edificis terciaris o de serveis d'entitats públiques i empreses privades (oficines, hotels, centres esportius, etc.) i industrials.",
+    "simplified_sentence": "Les mesures seran d'aplicació a tot el parc d'edificis de la ciutat: – Edificis d'oficines, hotels, centres esportius, etc."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 21,
+    "original_sentence": "–      Edificis d'habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.).",
+    "simplified_sentence": "Edificis d'habitatges (habitatges de propietaris únics, habitatges en lloguer, comunitats de veïns, etc.)."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 22,
+    "original_sentence": "–      Elements d'espai públic.",
+    "simplified_sentence": "Espais públics."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 23,
+    "original_sentence": "–      Punts de recàrrega (inclosos pàrquings públics i privats).",
+    "simplified_sentence": "– Punts de recàrrega, per exemple, pàrquings públics i privats."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 24,
+    "original_sentence": "–      Empreses i emprenedors dedicats a projectes innovadors per a la millora energètica.",
+    "simplified_sentence": "– Empresaris que volen innovar per millorar l'eficiència energètica."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 25,
+    "original_sentence": "•\tAltres directament relacionats.",
+    "simplified_sentence": "Altres relacionats."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 26,
+    "original_sentence": "Es preveu que l'increment de potència fotovoltaica instal·lada i la rehabilitació d'edificis permeti disminuir el consum energètic de la ciutat i incrementar la producció local.",
+    "simplified_sentence": "Es preveu que l'augment de plaques solars i la renovació d'edificis redueixi el consum energètic i augmenti la producció local."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 27,
+    "original_sentence": "Es calcula que potencialment el mecanisme permetrà incrementar en un 66% la generació renovable local actual.",
+    "simplified_sentence": "Es calcula que permetrà incrementar un 66% la generació renovable local."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 28,
+    "original_sentence": "Beneficis del programa – Garantir inversió a Barcelona.",
+    "simplified_sentence": "Quins són els beneficis del programa? \n\n Benefici: Inversió a Barcelona."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 29,
+    "original_sentence": "A Espanya estan apareixent diferents iniciatives (ofertes d'operadors energètics i propostes de fons d'inversió) per fer créixer el volum d'instal·lació de fotovoltaica.",
+    "simplified_sentence": "A Espanya estan apareixent diferents iniciatives (ofertes d'operadors energètics i propostes de fons d'inversió) per fer créixer el volum d'instal·lació de plaques solars fotovoltàics."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 30,
+    "original_sentence": "El Mecanisme per a l'Energia Sostenible pot ser un element que garanteixi que part d'aquesta inversió es faci a Barcelona malgrat les dificultats que, a priori, pot suposar invertir en fotovoltaica en una ciutat compacta com Barcelona.",
+    "simplified_sentence": "El Mecanisme per a l'Energia Sostenible pot garantir que part de la inversió es faci a Barcelona."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 31,
+    "original_sentence": "– Garantir un model d'inversió que aporti un valor afegit als ciutadans.",
+    "simplified_sentence": "– Assegurar un model d'inversió que ofereixi beneficis a la gent."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 32,
+    "original_sentence": "Això es basa en un model d'inversió on els actius, les plaques fotovoltaiques, siguin al final propietat dels ciutadans, propietaris dels edificis.",
+    "simplified_sentence": "El model consisteix en què els ciutadans siguin propietaris de les plaques fotovoltaiques que es col·locaran als edificis."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 33,
+    "original_sentence": "Però el valor afegit també es basa a aprofitar més els terrats, no només des d'un punt de vista solar, sinó del mateix espai, que es pot reconvertir en un espai d'ús social o terrat verd.",
+    "simplified_sentence": "Però, el valor afegit també es basa a aprofitar més els terrats, no només des d'un punt de vista solar, sinó de l'espai, que es pot reconvertir en un espai d'ús social o terrat verd."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 34,
+    "original_sentence": "– Garantir un model d'inversió que sigui atractiu per a tots els ciutadans de Barcelona, amb independència de la seva capacitat econòmica.",
+    "simplified_sentence": "– Garantir un model d'inversió atractiu per a tots els barcelonins, independentment de la seva capacitat econòmica."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 35,
+    "original_sentence": "En el model de negoci previst, la inversió no es recupera mitjançant el pagament per part dels propietaris dels habitatges, sinó gràcies als estalvis generats per un consum més sostenible.",
+    "simplified_sentence": "En el model de negoci previst, la inversió no es recupera mitjançant els pagaments dels propietaris d'habitatges, sinó gràcies als estalvis generats pel consum més sostenible."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 36,
+    "original_sentence": "Per tant, l'impuls del Mecanisme per a l'Energia Sostenible garanteix que aquesta inversió es pugui estendre a tots els barris de Barcelona.",
+    "simplified_sentence": "Per tant, l'impuls del Mecanisme per a l'Energia Sostenible garanteix que aquesta inversió es pugui estendre a tots els barris de Barcelona."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 37,
+    "original_sentence": "Fes la teva sol·licitud Sol·licita la valoració del teu edifici Per participar-hi, pots enviar-nos una sol·licitud d'alta.",
+    "simplified_sentence": "Fes la teva sol·licitud."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 38,
+    "original_sentence": "Un cop rebem la teva petició, la farem arribar a les empreses homologades, les quals es posaran en contacte amb tu per tal d'estudiar la viabilitat del projecte i definir-ne les condicions.",
+    "simplified_sentence": "Rebrem la teva sol·licitud, l'enviarem a les empreses homologades, que s'hi posaran en contacte per estudiar-ne la viabilitat i definir-ne les condicions."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 39,
+    "original_sentence": "Quan hagis completat la sol·licitud, rebràs un codi de sol·licitud i les dades de contacte de les empreses a les quals l'hem fet arribar.",
+    "simplified_sentence": "Quan hagis acabat la sol·licitud, rebràs un codi i les dades de contacte de les empreses."
+  },
+  {
+    "sample_id": 13,
+    "original_sentence_id": 40,
+    "original_sentence": "Per qualsevol consulta o seguiment del projecte, accedeix a l'espai de seguiment.",
+    "simplified_sentence": "Només: Entra a l'espai de seguiment per a consultes o seguiment del projecte."
+  }
+]

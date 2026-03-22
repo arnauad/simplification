@@ -3,11 +3,10 @@ import evaluate
 import numpy as np
 import os
 
-dataset_path = "../data/CAT_processed.json"
-predictions_folder = "../data/rule_search"
-results_folder = "results/rule_search"
+dataset_path = "../data/CAT_semantic.json"
+predictions_folder = "../data/rule_search_salamandra"
+results = "results/rule_search/model_ranking_salamandra.json"
 
-os.makedirs(results_folder, exist_ok=True)
 
 sari = evaluate.load("sari")
 
@@ -113,5 +112,5 @@ print("\n BEST MODEL ")
 print(f"{best_model} with Avg SARI {best_score:.3f}")
 
 
-with open(f"{results_folder}/model_ranking.json", "w") as f:
+with open(f"{results}", "w") as f:
     json.dump(sorted(all_results, key=lambda x: x["avg_sari"], reverse=True), f, indent=4)
