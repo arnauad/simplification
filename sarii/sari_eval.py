@@ -3,7 +3,7 @@ import evaluate
 import numpy as np
 from collections import defaultdict
 
-MODEL_NAME = "CAT_catallama_shot"
+MODEL_NAME = "CAT_iberian_best"
 DATASET = "../data/CAT_semantic.json"
 MODEL = f"../data/{MODEL_NAME}.json"
 

@@ -4,8 +4,8 @@ import numpy as np
 import os
 
 dataset_path = "../data/CAT_semantic.json"
-predictions_folder = "../data/rule_search_salamandra"
-results = "results/rule_search/model_ranking_salamandra.json"
+predictions_folder = "../data/rule_search_catallama"
+results = "results/rule_search/model_ranking_catallama.json"
 
 
 sari = evaluate.load("sari")
