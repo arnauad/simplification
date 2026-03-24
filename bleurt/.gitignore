@@ -5,7 +5,9 @@ venv_ds/
 .venv_ds/
 venv*/
 env*/
-
+tf210/
+*.egg-info/
+*.dist-info/
 
 __pycache__/
 *.pyc

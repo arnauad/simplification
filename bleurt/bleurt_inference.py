@@ -6,8 +6,8 @@ import os
 import tensorflow as tf
 
 
-DATAPATH = "../data/CAT_salamandra2B_base_shot.json"
-OUTPUT_PATH = "results/CAT_salamandra2B_base_shot.json"
+DATAPATH = "../data/asset.json"
+OUTPUT_PATH = "results/asset.json"
 CHECKPOINT = "./bleurt-20"
 
 def load_data():
