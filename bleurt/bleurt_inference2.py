@@ -29,7 +29,7 @@ def save_json(data, path):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
-def bleurt_inference(data, checkpoint, batch_size=128):
+def bleurt_inference(data, checkpoint, batch_size=16):
     if not os.path.exists(checkpoint):
         raise FileNotFoundError(f"Checkpoint not found: {checkpoint}")
 
