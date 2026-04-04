@@ -1,7 +1,7 @@
 import json
 
 CA = "../data/asset_ca_score_filtered.json"
-EN = "../data/asset_en_score_filtered.json"
+EN = "../data/asset_es_score_filtered.json"
 
 if __name__ == "__main__":
     # Compare how many of the items in CA are also in EN (camparing by the id)

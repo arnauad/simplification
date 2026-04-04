@@ -1,7 +1,7 @@
 import json
 
-SCORE_PATH = "../data/asset_ca_score.json"
-OUTPUT_PATH = "../data/asset_ca_score_filtered.json"
+SCORE_PATH = "../data/asset_es_score.json"
+OUTPUT_PATH = "../data/asset_es_score_filtered.json"
 
 if __name__ == "__main__":
     with open(SCORE_PATH, "r", encoding="utf-8") as f:
