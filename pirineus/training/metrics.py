@@ -94,6 +94,15 @@ def compute_reward(prompts, completions, completion_ids=None, **kwargs):
     if random.random() < 0.05:
         print(f"[REWARD] sari={sum(sari_scores)/len(sari_scores):.3f} | final={avg:.3f}")
 
+        # also randomly pick one example to print
+        idx = random.randint(0, len(predictions) - 1)
+        print("------------")
+        print(f"Original : {sources[idx]}")
+        print(f"Reference: {references[idx]}")
+        print(f"Output   : {predictions[idx]}")
+        print("------------")
+
+
     if "log_metric" in kwargs:
         kwargs["log_metric"]("sari", sum(sari_scores) / len(sari_scores))
         kwargs["log_metric"]("reward", avg)
