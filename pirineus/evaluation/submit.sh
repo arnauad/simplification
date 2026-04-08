@@ -11,8 +11,8 @@ echo "START TIME: $(date)"
 
 module load conda
 eval "$(conda shell.bash hook)"
-conda activate vllm
-#conda activate bleurt_tf212
+#conda activate vllm
+conda activate bleurt_tf212
 
 nvidia-smi
 
@@ -39,6 +39,6 @@ mkdir -p $XDG_CACHE_HOME
 echo "SCRATCH: $JOB_SCRATCH"
 echo "TORCH CACHE: $TORCHINDUCTOR_CACHE_DIR"
 
-python translate.py
+python -u bleurt_inference.py
 
 echo "END TIME: $(date)"

@@ -1,0 +1,10 @@
+/data/upftfg34/aayguade/.conda/envs/vllm/lib/python3.10/site-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/aayguade/simplification/inference/inference.py", line 96, in <module>
+    sampling_params = SamplingParams(
+  File "/data/upftfg34/aayguade/.conda/envs/vllm/lib/python3.10/site-packages/vllm/sampling_params.py", line 403, in __post_init__
+    self._verify_greedy_sampling()
+  File "/data/upftfg34/aayguade/.conda/envs/vllm/lib/python3.10/site-packages/vllm/sampling_params.py", line 523, in _verify_greedy_sampling
+    raise ValueError(f"n must be 1 when using greedy sampling, got {self.n}.")
+ValueError: n must be 1 when using greedy sampling, got 5.

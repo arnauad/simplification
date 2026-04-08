@@ -28,15 +28,15 @@ Segueix aquestes pautes:
 
 FEW_SHOTS = [
     {
-        "input": "Frase: El 2004, Barcelona va rebre 4,4 milions de turistes.",
+        "input": "El 2004, Barcelona va rebre 4,4 milions de turistes.",
         "output": "El 2004, Barcelona va acollir 4,4 milions de visitants."
     },
     {
-        "input": "Frase: Important: aquest visat no és aplicable per a les persones amb ciutadania europea.",
+        "input": "Important: aquest visat no és aplicable per a les persones amb ciutadania europea.",
         "output": "És important tenir-ho present perquè aquest visat no s'aplica als ciutadans europeus."
     },
     {
-        "input": "Frase: –  Edificis d'habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.).",
+        "input": "–  Edificis d'habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.).",
         "output": "– Edificis d'habitatges,     com per exemple:     • cases d'un sola persona propietària,      • cases que es lloguen,      • comunitats de veïns i veïnes,      • i altres.."
     }
 ]
@@ -61,3 +61,16 @@ RULES = [
 "Una idea per frase.",
 "Dona només la informació necessària."
 ]
+
+SYSTEM_PROMPT_BEST_RULES = """\
+Ets un assistent expert en simplificació de textos en català.
+
+Objectiu:
+Simplificar frases mantenint EXACTAMENT el mateix significat.
+
+Segueix aquestes pautes:
+- No utilitzis paraules difícils. Si has d’utilitzar paraules difícils, assegura’t d’explicar-les sempre de manera clara.
+- No utilitzis metàfores.
+- Utilitza llenguatge actiu en lloc de passiu.
+- Repeteix informació important si cal.
+"""

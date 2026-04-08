@@ -2,28 +2,28 @@ import os
 import json
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
-from prompt import SYSTEM_PROMPT, USER_TEMPLATE, FEW_SHOTS
+from prompt import SYSTEM_PROMPT, USER_TEMPLATE, FEW_SHOTS, SYSTEM_PROMPT_BEST_RULES
 
 DATA = "/data/upftfg34/aayguade/dataset/"
-MODEL = "/data/upftfg34/aayguade/models/salamandra-2b-instruct"
-OUT_FILE = "CAT_salamandra7B.json"
+MODEL = "/data/upftfg34/aayguade/models/IberianLLM-7B-Instruct"
+OUT_FILE = "/home/aayguade/simplification/inference/results/ASSET_CA_test_iberian_temp.json"
 BATCH_SIZE = 128
 
 
 def get_dataset(tokenizer):
-    dataset_path = os.path.join(DATA, "CAT_semantic.json")
+    dataset_path = os.path.join(DATA, "test_CA.json")
     with open(dataset_path, "r", encoding="utf-8") as f:
         dataset = json.load(f)
     return dataset
 
 
 def build_prompt(tokenizer, sentence):
-    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    messages = [{"role": "system", "content": SYSTEM_PROMPT_BEST_RULES}]
 
-    """# Add few-shot examples as conversation turns
+    # Add few-shot examples as conversation turns
     for ex in FEW_SHOTS:
         messages.append({"role": "user", "content": ex["input"]})
-        messages.append({"role": "assistant", "content": ex["output"]})"""
+        messages.append({"role": "assistant", "content": ex["output"]})
 
     # Add actual query
     messages.append({
@@ -43,7 +43,7 @@ def construct_prompts(dataset, tokenizer):
     index_map = []
 
     for idx, item in enumerate(dataset):
-        sentence = item["original_sentence"]
+        sentence = item["original"]
 
         prompt = build_prompt(tokenizer, sentence)
 
@@ -73,7 +73,9 @@ def inference(llm, sampling_params, tokenizer):
                     text = "No generació"
                 generations.append(text)
 
-            dataset[data_idx]["simplified_sentences"] = generations
+            dataset[data_idx]["simplification"] = generations
+
+        print(f"Processed batch from {start} to {end}")
 
     return dataset
 
@@ -86,19 +88,26 @@ def save_dataset(dataset):
 
 
 if __name__ == "__main__":
+    print(f"Loading tokenizer from {MODEL}")
+    tokenizer = AutoTokenizer.from_pretrained(MODEL, trust_remote_code=True)
+
+
+    print("Sampling params")
     sampling_params = SamplingParams(
         temperature=0.8,
         top_p=0.95,
-        max_tokens=200,
-        n=5
+        max_tokens=80,
+        n=1,
+        stop=["\n\n", "\n \n"]
+        #stop_token_ids=[tokenizer.eos_token_id]
     )
 
+    print("Loading model")
     llm = LLM(
         model=MODEL,
         gpu_memory_utilization=0.85,
     )
 
-    tokenizer = AutoTokenizer.from_pretrained(MODEL, trust_remote_code=True)
 
     dataset = inference(llm, sampling_params, tokenizer)
 

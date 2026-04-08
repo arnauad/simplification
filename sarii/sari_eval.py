@@ -3,7 +3,7 @@ import evaluate
 import numpy as np
 from collections import defaultdict
 
-MODEL_NAME = "CAT_iberian_best"
+MODEL_NAME = "CAT_salamandra_shot" 
 DATASET = "../data/CAT_semantic.json"
 MODEL = f"../data/{MODEL_NAME}.json"
 
@@ -29,6 +29,13 @@ def build_lookup(predictions_data):
 
     return pred_lookup
 
+"""def build_lookup(predictions_data):
+    pred_lookup = {
+        item["id"]: item["simplification"]
+        for item in predictions_data
+    }
+    return pred_lookup"""
+
 
 def compute_per_generation_results(sari, sources_data, pred_lookup):
     per_generation_results = []
@@ -42,6 +49,11 @@ def compute_per_generation_results(sari, sources_data, pred_lookup):
 
         if key not in pred_lookup or key in [(7, 42), (10, 76), (13, 21)]:
             continue
+
+        """key = item["id"]
+
+        if key not in pred_lookup:
+            continue"""
 
         source = item["original_sentence"]
         reference = item["simplified_sentence"]

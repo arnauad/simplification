@@ -1,0 +1,448 @@
+START TIME: Wed Apr  8 19:23:12 CEST 2026
+TRAIN NODE: gpu12
+VLLM NODE: gpu13
+VLLM HOST: gpu13
+MAIN IP: 192.168.131.149
+Waiting for vLLM...
+Starting GPU monitor (vLLM node)...
+Starting vLLM server...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+vLLM READY
+Starting GPU monitor (TRAIN node)...
+Starting GRPO training...
+Loading EN dataset
+Loading EN dataset
+Loading tokenizer from /data/upftfg34/aayguade/models/IberianLLM-7B-Instruct
+Loading tokenizer from /data/upftfg34/aayguade/models/IberianLLM-7B-Instruct
+Converting to correct dataset format
+Converting to correct dataset format
+Loading model
+Loading model
+Initializing GRPO Config
+Initializing GRPO Config
+Initializing trainer
+Initializing trainer
+MODEL DTYPES: {torch.bfloat16}
+CUDA memory before train():
+|===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 0                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |  14816 MiB |  14816 MiB |  14816 MiB |   1536 B   |
+|       from large pool |  14816 MiB |  14816 MiB |  14816 MiB |      0 B   |
+|       from small pool |      0 MiB |      0 MiB |      0 MiB |   1536 B   |
+|---------------------------------------------------------------------------|
+| Active memory         |  14816 MiB |  14816 MiB |  14816 MiB |   1536 B   |
+|       from large pool |  14816 MiB |  14816 MiB |  14816 MiB |      0 B   |
+|       from small pool |      0 MiB |      0 MiB |      0 MiB |   1536 B   |
+|---------------------------------------------------------------------------|
+| Requested memory      |  14816 MiB |  14816 MiB |  14816 MiB |     12 B   |
+|       from large pool |  14816 MiB |  14816 MiB |  14816 MiB |      0 B   |
+|       from small pool |      0 MiB |      0 MiB |      0 MiB |     12 B   |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |  14946 MiB |  14946 MiB |  14946 MiB |      0 B   |
+|       from large pool |  14944 MiB |  14944 MiB |  14944 MiB |      0 B   |
+|       from small pool |      2 MiB |      2 MiB |      2 MiB |      0 B   |
+|---------------------------------------------------------------------------|
+| Non-releasable memory | 132599 KiB | 140816 KiB | 395257 KiB | 262658 KiB |
+|       from large pool | 131072 KiB | 139264 KiB | 393216 KiB | 262144 KiB |
+|       from small pool |   1527 KiB |   2040 KiB |   2041 KiB |    514 KiB |
+|---------------------------------------------------------------------------|
+| Allocations           |     293    |     294    |     296    |       3    |
+|       from large pool |     226    |     226    |     226    |       0    |
+|       from small pool |      67    |      68    |      70    |       3    |
+|---------------------------------------------------------------------------|
+| Active allocs         |     293    |     294    |     296    |       3    |
+|       from large pool |     226    |     226    |     226    |       0    |
+|       from small pool |      67    |      68    |      70    |       3    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |     195    |     195    |     195    |       0    |
+|       from large pool |     194    |     194    |     194    |       0    |
+|       from small pool |       1    |       1    |       1    |       0    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |      33    |      33    |      33    |       0    |
+|       from large pool |      32    |      32    |      32    |       0    |
+|       from small pool |       1    |       1    |       1    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+Trainer model: <class 'transformers.models.llama.modeling_llama.LlamaForCausalLM'>
+Reference model exists: False
+Starting training!!!
+MODEL DTYPES: {torch.bfloat16}
+CUDA memory before train():
+|===========================================================================|
+|                  PyTorch CUDA memory summary, device ID 1                 |
+|---------------------------------------------------------------------------|
+|            CUDA OOMs: 0            |        cudaMalloc retries: 0         |
+|===========================================================================|
+|        Metric         | Cur Usage  | Peak Usage | Tot Alloc  | Tot Freed  |
+|---------------------------------------------------------------------------|
+| Allocated memory      |  14816 MiB |  14816 MiB |  14816 MiB |    512 B   |
+|       from large pool |  14816 MiB |  14816 MiB |  14816 MiB |      0 B   |
+|       from small pool |      0 MiB |      0 MiB |      0 MiB |    512 B   |
+|---------------------------------------------------------------------------|
+| Active memory         |  14816 MiB |  14816 MiB |  14816 MiB |    512 B   |
+|       from large pool |  14816 MiB |  14816 MiB |  14816 MiB |      0 B   |
+|       from small pool |      0 MiB |      0 MiB |      0 MiB |    512 B   |
+|---------------------------------------------------------------------------|
+| Requested memory      |  14816 MiB |  14816 MiB |  14816 MiB |      4 B   |
+|       from large pool |  14816 MiB |  14816 MiB |  14816 MiB |      0 B   |
+|       from small pool |      0 MiB |      0 MiB |      0 MiB |      4 B   |
+|---------------------------------------------------------------------------|
+| GPU reserved memory   |  14946 MiB |  14946 MiB |  14946 MiB |      0 B   |
+|       from large pool |  14944 MiB |  14944 MiB |  14944 MiB |      0 B   |
+|       from small pool |      2 MiB |      2 MiB |      2 MiB |      0 B   |
+|---------------------------------------------------------------------------|
+| Non-releasable memory | 132599 KiB | 140816 KiB | 395256 KiB | 262657 KiB |
+|       from large pool | 131072 KiB | 139264 KiB | 393216 KiB | 262144 KiB |
+|       from small pool |   1527 KiB |   2040 KiB |   2040 KiB |    513 KiB |
+|---------------------------------------------------------------------------|
+| Allocations           |     293    |     294    |     294    |       1    |
+|       from large pool |     226    |     226    |     226    |       0    |
+|       from small pool |      67    |      68    |      68    |       1    |
+|---------------------------------------------------------------------------|
+| Active allocs         |     293    |     294    |     294    |       1    |
+|       from large pool |     226    |     226    |     226    |       0    |
+|       from small pool |      67    |      68    |      68    |       1    |
+|---------------------------------------------------------------------------|
+| GPU reserved segments |     195    |     195    |     195    |       0    |
+|       from large pool |     194    |     194    |     194    |       0    |
+|       from small pool |       1    |       1    |       1    |       0    |
+|---------------------------------------------------------------------------|
+| Non-releasable allocs |      33    |      33    |      33    |       0    |
+|       from large pool |      32    |      32    |      32    |       0    |
+|       from small pool |       1    |       1    |       1    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize allocations  |       0    |       0    |       0    |       0    |
+|---------------------------------------------------------------------------|
+| Oversize GPU segments |       0    |       0    |       0    |       0    |
+|===========================================================================|
+
+Trainer model: <class 'transformers.models.llama.modeling_llama.LlamaForCausalLM'>
+Reference model exists: False
+Starting training!!!
+[REWARD] sari=0.474 | final=0.474
+[TIMING] step_time=19.56s
+[TIMING] step_time=0.25s
+[REWARD] sari=0.243 | final=0.243
+[TIMING] step_time=0.22s
+[TIMING] step_time=4.78s
+[REWARD] sari=0.308 | final=0.308
+[TIMING] step_time=0.27s
+[TIMING] step_time=0.27s
+[TIMING] step_time=0.28s
+[TIMING] step_time=4.60s
+[TIMING] step_time=0.25s
+[TIMING] step_time=0.27s
+{'loss': 0.007, 'grad_norm': 4.75, 'learning_rate': 4.997858060831073e-06, 'num_tokens': 53224.0, 'completions/mean_length': 28.8, 'completions/min_length': 19.8, 'completions/max_length': 37.5, 'completions/clipped_ratio': 1.0, 'completions/mean_terminated_length': 0.0, 'completions/min_terminated_length': 0.0, 'completions/max_terminated_length': 0.0, 'rewards/compute_reward/mean': 0.43346925377845763, 'rewards/compute_reward/std': 0.15583404302597045, 'reward': 0.43346925377845763, 'reward_std': 0.15583404079079627, 'frac_reward_zero_std': 0.0, 'sampling/sampling_logp_difference/mean': 0.026059780083596707, 'sampling/sampling_logp_difference/max': 0.7842156410217285, 'sampling/importance_sampling_ratio/min': 0.37774127423763276, 'sampling/importance_sampling_ratio/mean': 0.9189220905303955, 'sampling/importance_sampling_ratio/max': 1.8285943746566773, 'entropy': 0.3242041882127523, 'clip_ratio/low_mean': 0.0, 'clip_ratio/low_min': 0.0, 'clip_ratio/high_mean': 0.0, 'clip_ratio/high_max': 0.0, 'clip_ratio/region_mean': 0.0, 'step_time': 8.176467107501594, 'epoch': 0.0}
+[REWARD] sari=0.478 | final=0.408
+[REWARD] sari=0.499 | final=0.499
+[REWARD] sari=0.617 | final=0.601
+[REWARD] sari=0.522 | final=0.522
+[REWARD] sari=0.634 | final=0.634
+[REWARD] sari=0.439 | final=0.373
+[REWARD] sari=0.545 | final=0.537
+[REWARD] sari=0.255 | final=0.255
+[REWARD] sari=0.463 | final=0.463
+[REWARD] sari=0.564 | final=0.325
+[REWARD] sari=0.571 | final=0.571
+[REWARD] sari=0.397 | final=0.397
+[REWARD] sari=0.477 | final=0.477
+[REWARD] sari=0.453 | final=0.443
+[REWARD] sari=0.427 | final=0.427
+[REWARD] sari=0.214 | final=0.208
+[REWARD] sari=0.495 | final=0.495
+[REWARD] sari=0.608 | final=0.608
+[REWARD] sari=0.413 | final=0.413
+[REWARD] sari=0.540 | final=0.520
+[REWARD] sari=0.542 | final=0.542
+[REWARD] sari=0.524 | final=0.524
+[REWARD] sari=0.478 | final=0.439
+[REWARD] sari=0.524 | final=0.414
+[REWARD] sari=0.548 | final=0.548
+[REWARD] sari=0.520 | final=0.520
+[REWARD] sari=0.478 | final=0.442
+[REWARD] sari=0.405 | final=0.405
+[REWARD] sari=0.220 | final=0.220
+[REWARD] sari=0.482 | final=0.482
+[REWARD] sari=0.480 | final=0.480
+[REWARD] sari=0.566 | final=0.566
+[REWARD] sari=0.403 | final=0.403
+[REWARD] sari=0.578 | final=0.578
+[REWARD] sari=0.356 | final=0.356
+[REWARD] sari=0.525 | final=0.454
+[REWARD] sari=0.468 | final=0.421
+[REWARD] sari=0.511 | final=0.453
+[REWARD] sari=0.418 | final=0.418
+[REWARD] sari=0.519 | final=0.519
+[REWARD] sari=0.483 | final=0.483
+[REWARD] sari=0.441 | final=0.441
+[REWARD] sari=0.596 | final=0.596
+[REWARD] sari=0.537 | final=0.387
+[REWARD] sari=0.431 | final=0.431
+[REWARD] sari=0.405 | final=0.405
+[REWARD] sari=0.427 | final=0.425
+[REWARD] sari=0.389 | final=0.389
+[REWARD] sari=0.491 | final=0.491
+[REWARD] sari=0.664 | final=0.418
+[REWARD] sari=0.530 | final=0.530
+[REWARD] sari=0.451 | final=0.451
+[REWARD] sari=0.496 | final=0.496
+[REWARD] sari=0.553 | final=0.553
+[REWARD] sari=0.451 | final=0.451
+[REWARD] sari=0.551 | final=0.429
+[REWARD] sari=0.357 | final=0.357
+[REWARD] sari=0.532 | final=0.532
+[REWARD] sari=0.542 | final=0.542
+[REWARD] sari=0.382 | final=0.382
+[REWARD] sari=0.319 | final=0.312
+[REWARD] sari=0.449 | final=0.449
+[REWARD] sari=0.390 | final=0.384
+[REWARD] sari=0.595 | final=0.595
+[REWARD] sari=0.412 | final=0.291
+[REWARD] sari=0.409 | final=0.409
+[REWARD] sari=0.479 | final=0.479
+[REWARD] sari=0.461 | final=0.461
+[REWARD] sari=0.436 | final=0.389
+[REWARD] sari=0.253 | final=0.253
+[REWARD] sari=0.509 | final=0.509
+[REWARD] sari=0.584 | final=0.584
+[REWARD] sari=0.581 | final=0.570
+[REWARD] sari=0.466 | final=0.466
+{'eval_loss': 0.056292783468961716, 'eval_runtime': 1134.0997, 'eval_samples_per_second': 1.373, 'eval_steps_per_second': 0.086, 'eval_num_tokens': 53224.0, 'eval_completions/mean_length': 30.344191270860076, 'eval_completions/min_length': 20.611039794608473, 'eval_completions/max_length': 39.81258023106547, 'eval_completions/clipped_ratio': 1.0, 'eval_completions/mean_terminated_length': 0.0, 'eval_completions/min_terminated_length': 0.0, 'eval_completions/max_terminated_length': 0.0, 'eval_rewards/compute_reward/mean': 0.4570738840202618, 'eval_rewards/compute_reward/std': 0.14241155532495967, 'eval_reward': 0.4570738840202618, 'eval_reward_std': 0.14241155095168884, 'eval_frac_reward_zero_std': 0.019255455712451863, 'eval_sampling/sampling_logp_difference/mean': 0.01816364332545783, 'eval_sampling/sampling_logp_difference/max': 0.7195412042205233, 'eval_sampling/importance_sampling_ratio/min': 0.5663093239814999, 'eval_sampling/importance_sampling_ratio/mean': 0.9515424895653829, 'eval_sampling/importance_sampling_ratio/max': 1.8146884579101483, 'eval_entropy': 0.20654148332038189, 'eval_clip_ratio/low_mean': 0.0, 'eval_clip_ratio/low_min': 0.0, 'eval_clip_ratio/high_mean': 0.0, 'eval_clip_ratio/high_max': 0.0, 'eval_clip_ratio/region_mean': 0.0, 'epoch': 0.0}
+[TIMING] step_time=0.21s
+[TIMING] step_time=0.26s
+[TIMING] step_time=0.24s
+[TIMING] step_time=0.27s
+[TIMING] step_time=0.24s
+[TIMING] step_time=0.29s
+[TIMING] step_time=0.27s
+[TIMING] step_time=0.91s
+{'loss': 0.0417, 'grad_norm': 11.9375, 'learning_rate': 4.995478128421153e-06, 'num_tokens': 106735.0, 'completions/mean_length': 30.74375, 'completions/min_length': 21.5, 'completions/max_length': 39.5, 'completions/clipped_ratio': 1.0, 'completions/mean_terminated_length': 0.0, 'completions/min_terminated_length': 0.0, 'completions/max_terminated_length': 0.0, 'rewards/compute_reward/mean': 0.46084836721420286, 'rewards/compute_reward/std': 0.15586978159844875, 'reward': 0.46084836721420286, 'reward_std': 0.15586977638304234, 'frac_reward_zero_std': 0.05, 'sampling/sampling_logp_difference/mean': 0.01636404674500227, 'sampling/sampling_logp_difference/max': 0.7229652166366577, 'sampling/importance_sampling_ratio/min': 0.5296539008617401, 'sampling/importance_sampling_ratio/mean': 0.957202821969986, 'sampling/importance_sampling_ratio/max': 1.7124138355255127, 'entropy': 0.19054937651380896, 'clip_ratio/low_mean': 0.0, 'clip_ratio/low_min': 0.0, 'clip_ratio/high_mean': 0.0, 'clip_ratio/high_max': 0.0, 'clip_ratio/region_mean': 0.0, 'step_time': 6.495393651300401, 'epoch': 0.0}
+[REWARD] sari=0.602 | final=0.602
+[REWARD] sari=0.571 | final=0.571
+[REWARD] sari=0.624 | final=0.624
+[REWARD] sari=0.531 | final=0.531
+[REWARD] sari=0.458 | final=0.458
+[REWARD] sari=0.580 | final=0.498
+[REWARD] sari=0.330 | final=0.330
+[REWARD] sari=0.220 | final=0.220
+[REWARD] sari=0.488 | final=0.324
+[REWARD] sari=0.618 | final=0.618
+[REWARD] sari=0.608 | final=0.338
+[REWARD] sari=0.464 | final=0.192
+[REWARD] sari=0.525 | final=0.525
+[REWARD] sari=0.300 | final=0.267
+[REWARD] sari=0.529 | final=0.377
+[REWARD] sari=0.555 | final=0.555
+[REWARD] sari=0.490 | final=0.490
+[REWARD] sari=0.570 | final=0.191
+[REWARD] sari=0.551 | final=0.368
+[REWARD] sari=0.535 | final=0.535
+[REWARD] sari=0.421 | final=0.421
+[REWARD] sari=0.521 | final=0.521
+[REWARD] sari=0.516 | final=0.516
+[REWARD] sari=0.485 | final=0.485
+[REWARD] sari=0.437 | final=0.176
+[REWARD] sari=0.405 | final=0.405
+[REWARD] sari=0.426 | final=0.426
+[REWARD] sari=0.559 | final=0.559
+[REWARD] sari=0.607 | final=0.607
+[REWARD] sari=0.570 | final=0.570
+[REWARD] sari=0.463 | final=0.463
+[REWARD] sari=0.505 | final=0.495
+[REWARD] sari=0.517 | final=0.517
+[REWARD] sari=0.492 | final=0.446
+[REWARD] sari=0.562 | final=0.562
+[REWARD] sari=0.428 | final=0.428
+[REWARD] sari=0.381 | final=0.381
+[REWARD] sari=0.549 | final=0.361
+[REWARD] sari=0.591 | final=0.591
+[REWARD] sari=0.405 | final=0.082
+[REWARD] sari=0.466 | final=0.466
+[REWARD] sari=0.601 | final=0.601
+[REWARD] sari=0.406 | final=0.333
+[REWARD] sari=0.550 | final=0.550
+[REWARD] sari=0.496 | final=0.496
+[REWARD] sari=0.516 | final=0.500
+[REWARD] sari=0.527 | final=0.527
+[REWARD] sari=0.393 | final=0.393
+[REWARD] sari=0.581 | final=0.569
+[REWARD] sari=0.597 | final=0.597
+[REWARD] sari=0.555 | final=0.555
+[REWARD] sari=0.473 | final=0.473
+[REWARD] sari=0.411 | final=0.411
+[REWARD] sari=0.594 | final=0.594
+[REWARD] sari=0.371 | final=0.293
+[REWARD] sari=0.590 | final=0.590
+[REWARD] sari=0.503 | final=0.503
+[REWARD] sari=0.539 | final=0.539
+[REWARD] sari=0.565 | final=0.540
+[REWARD] sari=0.523 | final=0.523
+[REWARD] sari=0.587 | final=0.587
+[REWARD] sari=0.581 | final=0.563
+[REWARD] sari=0.458 | final=0.226
+[REWARD] sari=0.652 | final=0.652
+{'eval_loss': 0.044166117906570435, 'eval_runtime': 1133.3066, 'eval_samples_per_second': 1.374, 'eval_steps_per_second': 0.086, 'eval_num_tokens': 106735.0, 'eval_completions/mean_length': 31.293645699614892, 'eval_completions/min_length': 22.976893453145056, 'eval_completions/max_length': 39.283697047496794, 'eval_completions/clipped_ratio': 1.0, 'eval_completions/mean_terminated_length': 0.0, 'eval_completions/min_terminated_length': 0.0, 'eval_completions/max_terminated_length': 0.0, 'eval_rewards/compute_reward/mean': 0.4815923162808926, 'eval_rewards/compute_reward/std': 0.1297378545132046, 'eval_reward': 0.4815923162808926, 'eval_reward_std': 0.12973785176108063, 'eval_frac_reward_zero_std': 0.08151476251604621, 'eval_sampling/sampling_logp_difference/mean': 0.011059553113159877, 'eval_sampling/sampling_logp_difference/max': 0.6081057329768547, 'eval_sampling/importance_sampling_ratio/min': 0.6963804728412506, 'eval_sampling/importance_sampling_ratio/mean': 0.9752903404682683, 'eval_sampling/importance_sampling_ratio/max': 1.6939781863667998, 'eval_entropy': 0.12406213741763872, 'eval_clip_ratio/low_mean': 0.0, 'eval_clip_ratio/low_min': 0.0, 'eval_clip_ratio/high_mean': 0.0, 'eval_clip_ratio/high_max': 0.0, 'eval_clip_ratio/region_mean': 0.0, 'epoch': 0.0}
+[REWARD] sari=0.494 | final=0.451
+[TIMING] step_time=0.27s
+[TIMING] step_time=0.23s
+[TIMING] step_time=0.26s
+[TIMING] step_time=0.25s
+{'loss': 0.0785, 'grad_norm': 5.8125, 'learning_rate': 4.993098196011234e-06, 'num_tokens': 160996.0, 'completions/mean_length': 33.78125, 'completions/min_length': 26.7, 'completions/max_length': 40.8, 'completions/clipped_ratio': 1.0, 'completions/mean_terminated_length': 0.0, 'completions/min_terminated_length': 0.0, 'completions/max_terminated_length': 0.0, 'rewards/compute_reward/mean': 0.487030616402626, 'rewards/compute_reward/std': 0.10903776474297047, 'reward': 0.487030616402626, 'reward_std': 0.10903775840997695, 'frac_reward_zero_std': 0.0, 'sampling/sampling_logp_difference/mean': 0.01008826056495309, 'sampling/sampling_logp_difference/max': 0.5745908260345459, 'sampling/importance_sampling_ratio/min': 0.6928489625453949, 'sampling/importance_sampling_ratio/mean': 0.9825360298156738, 'sampling/importance_sampling_ratio/max': 1.6277888655662536, 'entropy': 0.10383344539441168, 'clip_ratio/low_mean': 0.0, 'clip_ratio/low_min': 0.0, 'clip_ratio/high_mean': 0.0, 'clip_ratio/high_max': 0.0, 'clip_ratio/region_mean': 0.0, 'step_time': 6.4603757730001234, 'epoch': 0.0}
+[REWARD] sari=0.463 | final=0.463
+[REWARD] sari=0.630 | final=0.630
+[REWARD] sari=0.556 | final=0.556
+[REWARD] sari=0.406 | final=0.252
+[REWARD] sari=0.602 | final=0.543
+[REWARD] sari=0.466 | final=0.206
+[REWARD] sari=0.580 | final=0.580
+[REWARD] sari=0.284 | final=0.264
+[REWARD] sari=0.518 | final=0.518
+[REWARD] sari=0.608 | final=0.608
+[REWARD] sari=0.622 | final=0.622
+[REWARD] sari=0.482 | final=0.482
+[REWARD] sari=0.459 | final=0.165
+[REWARD] sari=0.467 | final=0.467
+[REWARD] sari=0.538 | final=0.309
+[REWARD] sari=0.671 | final=0.671
+[REWARD] sari=0.661 | final=0.661
+[REWARD] sari=0.638 | final=0.638
+[REWARD] sari=0.404 | final=0.404
+[REWARD] sari=0.478 | final=0.460
+[REWARD] sari=0.523 | final=0.523
+[REWARD] sari=0.591 | final=0.393
+[REWARD] sari=0.563 | final=0.563
+[REWARD] sari=0.442 | final=0.300
+[REWARD] sari=0.514 | final=0.514
+[REWARD] sari=0.288 | final=0.288
+[REWARD] sari=0.486 | final=0.486
+[REWARD] sari=0.403 | final=0.270
+[REWARD] sari=0.699 | final=0.699
+[REWARD] sari=0.480 | final=0.387
+[REWARD] sari=0.563 | final=0.563
+[REWARD] sari=0.471 | final=0.471
+[REWARD] sari=0.436 | final=0.432
+[REWARD] sari=0.493 | final=0.493
+[REWARD] sari=0.606 | final=0.462
+[REWARD] sari=0.485 | final=0.485
+[REWARD] sari=0.636 | final=0.636
+[REWARD] sari=0.520 | final=0.520
+[REWARD] sari=0.499 | final=0.499
+[REWARD] sari=0.528 | final=0.528
+[REWARD] sari=0.365 | final=0.365
+[REWARD] sari=0.252 | final=0.252
+[REWARD] sari=0.587 | final=0.587
+[REWARD] sari=0.591 | final=0.591
+[REWARD] sari=0.472 | final=0.370
+[REWARD] sari=0.627 | final=0.425
+[REWARD] sari=0.398 | final=0.210
+[REWARD] sari=0.590 | final=0.590
+[REWARD] sari=0.561 | final=0.561
+[REWARD] sari=0.604 | final=0.604
+[REWARD] sari=0.633 | final=0.633
+[REWARD] sari=0.508 | final=0.508
+[REWARD] sari=0.674 | final=0.553
+[REWARD] sari=0.383 | final=0.370
+[REWARD] sari=0.514 | final=0.514
+[REWARD] sari=0.467 | final=0.467
+[REWARD] sari=0.635 | final=0.635
+[REWARD] sari=0.644 | final=0.644
+[REWARD] sari=0.464 | final=0.464
+[REWARD] sari=0.456 | final=0.456
+[REWARD] sari=0.475 | final=0.310
+[REWARD] sari=0.516 | final=0.516
+[REWARD] sari=0.471 | final=0.471
+{'eval_loss': 0.04805698245763779, 'eval_runtime': 1162.506, 'eval_samples_per_second': 1.339, 'eval_steps_per_second': 0.084, 'eval_num_tokens': 160996.0, 'eval_completions/mean_length': 31.571485879332478, 'eval_completions/min_length': 23.99229781771502, 'eval_completions/max_length': 39.16559691912708, 'eval_completions/clipped_ratio': 1.0, 'eval_completions/mean_terminated_length': 0.0, 'eval_completions/min_terminated_length': 0.0, 'eval_completions/max_terminated_length': 0.0, 'eval_rewards/compute_reward/mean': 0.48559520947382295, 'eval_rewards/compute_reward/std': 0.12685055146412266, 'eval_reward': 0.48559520947382295, 'eval_reward_std': 0.1268505477755951, 'eval_frac_reward_zero_std': 0.10718870346598203, 'eval_sampling/sampling_logp_difference/mean': 0.009749919443453431, 'eval_sampling/sampling_logp_difference/max': 0.5773840759269921, 'eval_sampling/importance_sampling_ratio/min': 0.7210736567003889, 'eval_sampling/importance_sampling_ratio/mean': 0.9764591640624216, 'eval_sampling/importance_sampling_ratio/max': 1.686328787782226, 'eval_entropy': 0.10569820465551108, 'eval_clip_ratio/low_mean': 0.0, 'eval_clip_ratio/low_min': 0.0, 'eval_clip_ratio/high_mean': 0.0, 'eval_clip_ratio/high_max': 0.0, 'eval_clip_ratio/region_mean': 0.0, 'epoch': 0.0}
+[TIMING] step_time=0.34s
+[TIMING] step_time=0.22s
+[TIMING] step_time=0.28s
+[TIMING] step_time=4.55s
+[TIMING] step_time=0.23s
+[TIMING] step_time=0.25s
+[TIMING] step_time=0.23s
+{'loss': 0.019, 'grad_norm': 8.25, 'learning_rate': 4.990718263601314e-06, 'num_tokens': 214541.0, 'completions/mean_length': 31.75625, 'completions/min_length': 25.8, 'completions/max_length': 37.6, 'completions/clipped_ratio': 1.0, 'completions/mean_terminated_length': 0.0, 'completions/min_terminated_length': 0.0, 'completions/max_terminated_length': 0.0, 'rewards/compute_reward/mean': 0.5281566590070724, 'rewards/compute_reward/std': 0.12872505336999893, 'reward': 0.5281566590070724, 'reward_std': 0.12872504442930222, 'frac_reward_zero_std': 0.1, 'sampling/sampling_logp_difference/mean': 0.008067149471025914, 'sampling/sampling_logp_difference/max': 0.3603938162326813, 'sampling/importance_sampling_ratio/min': 0.7688620537519455, 'sampling/importance_sampling_ratio/mean': 0.9584112048149109, 'sampling/importance_sampling_ratio/max': 1.39779212474823, 'entropy': 0.09484673896804452, 'clip_ratio/low_mean': 0.0, 'clip_ratio/low_min': 0.0, 'clip_ratio/high_mean': 0.0, 'clip_ratio/high_max': 0.0, 'clip_ratio/region_mean': 0.0, 'step_time': 6.393017006995433, 'epoch': 0.01}
+[REWARD] sari=0.532 | final=0.532
+[REWARD] sari=0.476 | final=0.476
+[REWARD] sari=0.528 | final=0.528
+[REWARD] sari=0.464 | final=0.383
+[REWARD] sari=0.556 | final=0.556
+[REWARD] sari=0.550 | final=0.550
+[REWARD] sari=0.537 | final=0.537
+[REWARD] sari=0.430 | final=0.430
+[REWARD] sari=0.553 | final=0.553
+[REWARD] sari=0.578 | final=0.578
+[REWARD] sari=0.536 | final=0.536
+[REWARD] sari=0.690 | final=0.690
+[REWARD] sari=0.409 | final=0.328
+[REWARD] sari=0.500 | final=0.500
+[REWARD] sari=0.581 | final=0.581
+[REWARD] sari=0.446 | final=0.264
+[REWARD] sari=0.456 | final=0.297
+[REWARD] sari=0.568 | final=0.568
+[REWARD] sari=0.521 | final=0.339
+[REWARD] sari=0.458 | final=0.458
+[REWARD] sari=0.485 | final=0.485
+[REWARD] sari=0.461 | final=0.165
+[REWARD] sari=0.324 | final=0.324
+[REWARD] sari=0.629 | final=0.629
+[REWARD] sari=0.581 | final=0.581
+[REWARD] sari=0.464 | final=0.321
+[REWARD] sari=0.554 | final=0.554
+[REWARD] sari=0.663 | final=0.103
+[REWARD] sari=0.389 | final=0.353
+[REWARD] sari=0.556 | final=0.437
+[REWARD] sari=0.602 | final=0.602
+[REWARD] sari=0.623 | final=0.623
+[REWARD] sari=0.670 | final=0.670
+[REWARD] sari=0.522 | final=0.476
+[REWARD] sari=0.578 | final=0.578
+[REWARD] sari=0.823 | final=0.823
+[REWARD] sari=0.527 | final=0.463
+[REWARD] sari=0.561 | final=0.561
+[REWARD] sari=0.502 | final=0.423
+[REWARD] sari=0.571 | final=0.369
+[REWARD] sari=0.532 | final=0.532
+[REWARD] sari=0.559 | final=0.559
+[REWARD] sari=0.650 | final=0.650
+[REWARD] sari=0.318 | final=0.318
+[REWARD] sari=0.562 | final=0.562
+[REWARD] sari=0.354 | final=0.354
+[REWARD] sari=0.363 | final=0.363
+[REWARD] sari=0.520 | final=0.520
+[REWARD] sari=0.514 | final=0.514
+[REWARD] sari=0.378 | final=0.378
+[REWARD] sari=0.487 | final=0.487
+[REWARD] sari=0.560 | final=0.281
+[REWARD] sari=0.383 | final=0.383
+[REWARD] sari=0.375 | final=0.375
+[REWARD] sari=0.637 | final=0.637
+[REWARD] sari=0.641 | final=0.641
+[REWARD] sari=0.524 | final=0.524
+[REWARD] sari=0.571 | final=0.571

@@ -6,8 +6,8 @@ from transformers import AutoTokenizer
 from prompt import RULES, SYSTEM_PROMPT_RULES, USER_TEMPLATE, FEW_SHOTS
 
 DATA = "/data/upftfg34/aayguade/dataset/"
-OUT_DIR = os.path.join(DATA, "rule_search_catallama")
-MODEL = "/data/upftfg34/aayguade/models/CataLlama-v0.1-Instruct-DPO"
+OUT_DIR = os.path.join(DATA, "rule_search_salamandra")
+MODEL = "/data/upftfg34/aayguade/models/salamandra-7b-instruct"
 
 BATCH_SIZE = 512
 MAX_RULES = 4
@@ -107,6 +107,13 @@ def generate_rule_sets(rules, max_rules=4):
     return all_sets
 
 
+WINNERS = [1921, 1371, 1144]
+
+def print_winners(rule_sets):
+    for winner in WINNERS:
+        print(f"Rule set {winner} is {rule_sets[winner]}")
+
+
 if __name__ == "__main__":
     print("Initializing sampling params...")
     sampling_params = SamplingParams(
@@ -130,7 +137,9 @@ if __name__ == "__main__":
     print("Generating rule sets...")
     rule_sets = generate_rule_sets(RULES, max_rules=MAX_RULES)
 
-    print("Starting inference...")
+    print_winners(rule_sets)
+
+    """print("Starting inference...")
     for i, rule_set in enumerate(rule_sets):
 
         predictions = inference(
@@ -142,4 +151,6 @@ if __name__ == "__main__":
         )
 
         out_path = os.path.join(OUT_DIR, f"{i}.json")
-        save_predictions(predictions, out_path)
+        save_predictions(predictions, out_path)"""
+
+    
