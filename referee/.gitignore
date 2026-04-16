@@ -25,3 +25,5 @@ Thumbs.db
 # Ignore the data directory and the results directory
 data/
 results/
+
+pretrained/

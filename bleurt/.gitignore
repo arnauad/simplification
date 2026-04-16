@@ -26,6 +26,7 @@ Thumbs.db
 
 # Models / checkpoints
 bleurt-20/
+bleurt/
 *.pb
 variables/
 
