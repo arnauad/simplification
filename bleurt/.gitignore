@@ -33,3 +33,6 @@ variables/
 # Ignore the data directory and the results directory
 data/
 results/
+
+bleurt_inference.py
+bleurt_inference3.py
