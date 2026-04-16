@@ -5,8 +5,9 @@ from transformers import AutoTokenizer
 from prompt import SYSTEM_PROMPT, USER_TEMPLATE, FEW_SHOTS, SYSTEM_PROMPT_BEST_RULES
 
 DATA = "/data/upftfg34/aayguade/dataset/"
-MODEL = "/data/upftfg34/aayguade/models/IberianLLM-7B-Instruct"
-OUT_FILE = "/home/aayguade/simplification/inference/results/ASSET_CA_test_iberian_temp.json"
+BASE_MODEL = "/data/upftfg34/aayguade/models/IberianLLM-7B-Instruct"
+MODEL = "/home/aayguade/simplification/training/trainer_output/checkpoint-4440"
+OUT_FILE = "/home/aayguade/simplification/inference/results/new_model_test_ca.json"
 BATCH_SIZE = 128
 
 
@@ -89,7 +90,7 @@ def save_dataset(dataset):
 
 if __name__ == "__main__":
     print(f"Loading tokenizer from {MODEL}")
-    tokenizer = AutoTokenizer.from_pretrained(MODEL, trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL, trust_remote_code=True)
 
 
     print("Sampling params")
@@ -98,17 +99,18 @@ if __name__ == "__main__":
         top_p=0.95,
         max_tokens=80,
         n=1,
-        stop=["\n\n", "\n \n"]
+        stop=["\n\n", "\n \n", "\n"]
         #stop_token_ids=[tokenizer.eos_token_id]
     )
 
     print("Loading model")
     llm = LLM(
         model=MODEL,
+        tokenizer=BASE_MODEL,
         gpu_memory_utilization=0.85,
     )
 
-
+    print("Runing inference")
     dataset = inference(llm, sampling_params, tokenizer)
 
     save_dataset(dataset)

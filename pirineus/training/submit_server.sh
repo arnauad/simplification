@@ -4,8 +4,8 @@
 #SBATCH --nodes=2
 #SBATCH --gres=gpu:2
 #SBATCH --time=24:00:00
-#SBATCH -o logs/%j.%N.out
-#SBATCH -e logs/%j.%N.err
+#SBATCH -o logs2/%j.%N.out
+#SBATCH -e logs2/%j.%N.err
 
 echo "START TIME: $(date)"
 
@@ -13,15 +13,15 @@ module load conda
 eval "$(conda shell.bash hook)"
 conda activate vllm
 
-mkdir -p logs
+mkdir -p logs2
 
 # ENV
 export DATASET_PATH="/data/upftfg34/aayguade/dataset/"
 export LANG="EN"
-export MODELS_DIR="/data/upftfg34/aayguade/models/"
-export MODEL="${MODELS_DIR}IberianLLM-7B-Instruct"
-export OUT_MODEL="/home/aayguade/simplification/training/output"
-export GRPO_RUNS="/home/aayguade/simplification/training/trainer_output"
+export MODEL="/data/upftfg34/aayguade/models/IberianLLM-7B-Instruct"
+export OUT_MODEL="/home/aayguade/simplification/training/tmp/output"
+export GRPO_RUNS="/home/aayguade/simplification/training/logs2/checkpoints"
+export REWARDS="/home/aayguade/simplification/training/logs2/rewards.jsonl"
 
 export HF_HOME=/data/upftfg34/aayguade/.cache/huggingface
 export TRANSFORMERS_CACHE=$HF_HOME
@@ -98,7 +98,7 @@ accelerate launch \
     --main_process_ip $MAIN_IP \
     --machine_rank 0 \
     --rdzv_backend c10d \
-    grpo.py
+    grpo_server.py
 
 kill \$MON_PID
 "

@@ -1,5 +1,6 @@
 SYSTEM_PROMPT_CA = """\
-Ets un assistent expert en simplificació de textos en català.
+Ets un assistent expert en simplificació de textos en català. 
+Rebràs una frase en català hauràs de retornar la versió simplificada en català.
 
 Objectiu:
 Simplificar frases mantenint EXACTAMENT el mateix significat.
@@ -17,27 +18,29 @@ Simplifica la frase següent mantenint el significat.
 
 Respon NOMÉS amb la frase simplificada.
 
-Frase: {sentence}
+Frase català: {sentence}
+Simplificació català: 
 """
 
 
 FEW_SHOTS_CA = [
     {
-        "input": "Frase: El 2004, Barcelona va rebre 4,4 milions de turistes.",
-        "output": "El 2004, Barcelona va acollir 4,4 milions de visitants."
+        "input": "Frase català: El 2004, Barcelona va rebre 4,4 milions de turistes.",
+        "output": "Simplificació català: El 2004, Barcelona va acollir 4,4 milions de visitants."
     },
     {
-        "input": "Frase: Important: aquest visat no és aplicable per a les persones amb ciutadania europea.",
-        "output": "És important tenir-ho present perquè aquest visat no s'aplica als ciutadans europeus."
+        "input": "Frase català: Important: aquest visat no és aplicable per a les persones amb ciutadania europea.",
+        "output": "Simplificació català: És important tenir-ho present perquè aquest visat no s'aplica als ciutadans europeus."
     },
     {
-        "input": "Frase: –  Edificis d'habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.).",
-        "output": "– Edificis d'habitatges,     com per exemple:     • cases d'un sola persona propietària,      • cases que es lloguen,      • comunitats de veïns i veïnes,      • i altres.."
+        "input": "Frase català: –  Edificis d'habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.).",
+        "output": "Simplificació català: – Edificis d'habitatges,     com per exemple:     • cases d'un sola persona propietària,      • cases que es lloguen,      • comunitats de veïns i veïnes,      • i altres.."
     }
 ]
 
 SYSTEM_PROMPT_ES = """\
 Eres un asistente experto en simplificación de textos en español.
+Recibirás una frase en español y deberás devolver la versión simplificada en español.
 
 Objetivo:
 Simplificar frases manteniendo EXACTAMENTE el mismo significado.
@@ -55,28 +58,30 @@ Simplifica la siguiente frase manteniendo el significado.
 
 Responde SOLO con la frase simplificada.
 
-Frase: {sentence}
+Frase español: {sentence}
+Simplificación español: 
 """
 
 
 FEW_SHOTS_ES = [
     {
-        "input": "Frase: En 2004, Barcelona recibió 4,4 millones de turistas.",
-        "output": "En 2004, Barcelona acogió a 4,4 millones de visitantes."
+        "input": "Frase español: En 2004, Barcelona recibió 4,4 millones de turistas.",
+        "output": "Simplificación español: En 2004, Barcelona acogió a 4,4 millones de visitantes."
     },
     {
-        "input": "Frase: Importante: este visado no es aplicable para las personas con ciudadanía europea.",
-        "output": "Es importante tenerlo en cuenta porque este visado no se aplica a los ciudadanos europeos."
+        "input": "Frase español: Importante: este visado no es aplicable para las personas con ciudadanía europea.",
+        "output": "Simplificación español: Es importante tenerlo en cuenta porque este visado no se aplica a los ciudadanos europeos."
     },
     {
-        "input": "Frase: –  Edificios de viviendas (de propietarios únicos, de propietarios que destinan los inmuebles al alquiler, comunidades de vecinos, etc.).",
-        "output": "– Edificios de viviendas,     como por ejemplo:     • casas de una sola persona propietaria,      • casas que se alquilan,      • comunidades de vecinos y vecinas,      • y otros.."
+        "input": "Frase español: –  Edificios de viviendas (de propietarios únicos, de propietarios que destinan los inmuebles al alquiler, comunidades de vecinos, etc.).",
+        "output": "Simplificación español: – Edificios de viviendas,     como por ejemplo:     • casas de una sola persona propietaria,      • casas que se alquilan,      • comunidades de vecinos y vecinas,      • y otros.."
     }
 ]
 
 
 SYSTEM_PROMPT_EN = """\
 You are an expert assistant in simplifying texts in English.
+You will receive an English sentence and must return a simplified version in English.
 
 Objective:
 Simplify sentences while keeping EXACTLY the same meaning.
@@ -94,21 +99,22 @@ Simplify the following sentence while keeping the meaning.
 
 Respond ONLY with the simplified sentence.
 
-Sentence: {sentence}
+Sentence English: {sentence}
+Simplification English: 
 """
 
 
 FEW_SHOTS_EN = [
     {
-        "input": "Sentence: In 2004, Barcelona received 4.4 million tourists.",
-        "output": "In 2004, Barcelona welcomed 4.4 million visitors."
+        "input": "Sentence English: In 2004, Barcelona received 4.4 million tourists.",
+        "output": "Simplification English: In 2004, Barcelona welcomed 4.4 million visitors."
     },
     {
-        "input": "Sentence: Important: this visa does not apply to people with European citizenship.",
-        "output": "It is important to know that this visa does not apply to European citizens."
+        "input": "Sentence English: Important: this visa does not apply to people with European citizenship.",
+        "output": "Simplification English: It is important to know that this visa does not apply to European citizens."
     },
     {
-        "input": "Sentence: –  Residential buildings (single owners, owners who rent out properties, homeowner communities, etc.).",
-        "output": "– Residential buildings,     such as:     • homes owned by one person,      • homes that are rented out,      • homeowner communities,      • and others.."
+        "input": "Sentence English: –  Residential buildings (single owners, owners who rent out properties, homeowner communities, etc.).",
+        "output": "Simplification English: – Residential buildings,     such as:     • homes owned by one person,      • homes that are rented out,      • homeowner communities,      • and others.."
     }
 ]

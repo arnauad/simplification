@@ -2,9 +2,14 @@ import json
 import os
 import time
 import torch
+import numbers
+import torch.distributed as dist
 from datasets import Dataset
+from accelerate import Accelerator
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from trl import GRPOConfig, GRPOTrainer
+import deepspeed
+from deepspeed.runtime.engine import DeepSpeedEngine
 
 from prompt import (
     SYSTEM_PROMPT_CA, USER_TEMPLATE_CA, FEW_SHOTS_CA,
@@ -20,6 +25,7 @@ LANG = os.environ.get("LANG")
 MODEL = os.environ.get("MODEL")
 OUT_MODEL = os.environ.get("OUT_MODEL")
 GRPO_RUNS = os.environ.get("GRPO_RUNS")
+REWARDS = os.environ.get("REWARDS")
 
 PROMPTS = {
     "CA": (SYSTEM_PROMPT_CA, USER_TEMPLATE_CA, FEW_SHOTS_CA),
@@ -29,6 +35,15 @@ PROMPTS = {
 
 SYSTEM_PROMPT, USER_TEMPLATE, FEW_SHOTS = PROMPTS[LANG]
 
+def _to_jsonable(v):
+    if isinstance(v, numbers.Number):
+        return float(v)
+    if hasattr(v, "item"):  # torch scalar
+        try:
+            return float(v.item())
+        except Exception:
+            pass
+    return str(v)
 
 def load_datasets():
     with open(DATASET_PATH + f"train_{LANG}.json", encoding="utf-8") as f:
@@ -38,6 +53,7 @@ def load_datasets():
         test = json.load(f)
 
     return train, test
+
 
 
 def build_prompt(tokenizer, sentence):
@@ -59,20 +75,31 @@ def build_prompt(tokenizer, sentence):
     )
 
 
+MAX_PROMPT_TOKENS = 3072
+
 def build_grpo_dataset(dataset, tokenizer):
     grpo_data = []
 
-    for item in dataset:
-        prompt = build_prompt(tokenizer, item["original"])
+    for i, item in enumerate(dataset):
+        src = item["original"]
+        ref = item["simplification"]
+        idx = item["id"]
+
+        prompt = build_prompt(tokenizer, src)
+        prompt_tokens = len(tokenizer(prompt, add_special_tokens=False)["input_ids"])
+
+        if prompt_tokens > MAX_PROMPT_TOKENS:
+            print(f"[SKIP] idx={idx} prompt_tokens={prompt_tokens} src_chars={len(src)}")
+            continue
 
         grpo_data.append({
+            "id": idx,
             "prompt": prompt,
-            "source": item["original"],
-            "reference": item["simplification"],
+            "source": src,
+            "reference": ref,
         })
 
     return grpo_data
-
 
 
 class HPCTrainer(GRPOTrainer):
@@ -106,7 +133,7 @@ class HPCTrainer(GRPOTrainer):
             total_steps = self.args.num_train_epochs * (
                 len(self._train_dataset_ref) //
                 (self.args.per_device_train_batch_size *
-                 self.args.gradient_accumulation_steps)
+                self.args.gradient_accumulation_steps)
             )
 
         remaining_steps = max(total_steps - step, 0)
@@ -122,23 +149,20 @@ class HPCTrainer(GRPOTrainer):
         return out
 
     def log(self, logs, *args, **kwargs):
-        step = self.state.global_step
+        step = int(self.state.global_step)
+        record = {"step": step}
 
-        msg = f"[LOG {step}] "
+        for k, v in logs.items():
+            record[k] = _to_jsonable(v)
 
-        if "loss" in logs:
-            msg += f"loss={logs['loss']:.4f} "
+        if self.accelerator.is_main_process:
+            os.makedirs(os.path.dirname(REWARDS), exist_ok=True)
+            with open(REWARDS, "a", encoding="utf-8") as f:
+                f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
-        if "reward" in logs:
-            msg += f"reward={logs['reward']:.4f} "
-
-        if "learning_rate" in logs:
-            msg += f"lr={logs['learning_rate']:.2e} "
-
-        print(msg)
-
+        print(f"[LOG {step}] {record}", flush=True)
         return super().log(logs, *args, **kwargs)
-
+    
     def _save_checkpoint(self, *args, **kwargs):
         step = self.state.global_step
 
@@ -158,81 +182,77 @@ class HPCTrainer(GRPOTrainer):
 
 
 if __name__ == "__main__":
+    acc = Accelerator()
+
+    print("Distributed type:", acc.state.distributed_type)
+    print("Num processes:", acc.state.num_processes)
+    print("Mixed precision:", acc.state.mixed_precision)
+
     print(f"Loading {LANG} dataset")
     train, test = load_datasets()
 
     print(f"Loading tokenizer from {MODEL}")
     tokenizer = AutoTokenizer.from_pretrained(MODEL, trust_remote_code=True)
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
 
     print("Building datasets...")
     train = Dataset.from_list(build_grpo_dataset(train, tokenizer))
     test = Dataset.from_list(build_grpo_dataset(test, tokenizer))
 
-    print("Loading model...")
-    model = AutoModelForCausalLM.from_pretrained(
-        MODEL,
-        dtype=torch.bfloat16,
-        trust_remote_code=True,
-    )
 
     training_args = GRPOConfig(
-        use_vllm=True,
-        vllm_mode="server",
-        vllm_server_host=os.environ.get("VLLM_HOST"),
-        vllm_server_port=8000,
-        vllm_gpu_memory_utilization=0.85,
-
         output_dir=GRPO_RUNS,
 
-        logging_strategy="steps",
+        num_train_epochs=2,
+        per_device_train_batch_size=8,
+        gradient_accumulation_steps=1,
+
+        learning_rate=1e-6,
+        bf16=True,
+        gradient_checkpointing=True,
+
         logging_steps=1,
-        report_to="none",
 
         save_strategy="steps",
         save_steps=20,
         save_total_limit=3,
+        shuffle_dataset=False,
 
-        eval_strategy="steps",
-        eval_steps=300,
+        num_generations=4,
+        max_completion_length=32,
 
-        num_train_epochs=3,
-        per_device_train_batch_size=1,
-        gradient_accumulation_steps=8,
-
-        learning_rate=5e-6,
-        gradient_checkpointing=True,
-
-        num_generations=8,
-        max_completion_length=64,
         beta=0,
+        loss_type="dr_grpo",
 
-        per_device_eval_batch_size=8,
+        use_vllm=True,
+        vllm_mode="colocate",
+        vllm_tensor_parallel_size=2,
 
         generation_kwargs={
             "temperature": 0.9,
-            "stop": ["\n\n", "\n \n"],
+            #"stop": ["\n\n", "\n \n"],
+            "top_p": 0.95,
+            #"use_cache": True,
         },
+
     )
-
-    steps_per_epoch = len(train) // (
-        training_args.per_device_train_batch_size *
-        training_args.gradient_accumulation_steps
-    )
-    total_steps = steps_per_epoch * training_args.num_train_epochs
-
-    print("Train size:", len(train))
-    print("Eval size:", len(test))
-    print("Steps/epoch:", steps_per_epoch)
-    print("Total steps:", total_steps)
-
 
     trainer = HPCTrainer(
-        model=model,
+        model=MODEL,
         reward_funcs=compute_reward,
         args=training_args,
         train_dataset=train,
-        eval_dataset=test,
     )
+
+    print("model:", type(trainer.model))
+    print("model_wrapped:", type(trainer.model_wrapped))
+
+    total = sum(p.numel() for p in trainer.model.parameters())
+    local = sum(p.numel() for p in trainer.model.parameters() if p.device.type == "cuda")
+
+    print(f"Total params: {total}")
+    print(f"Local params on this GPU: {local}")
 
     print("Starting training...")
     trainer.train()

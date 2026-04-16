@@ -7,11 +7,12 @@ Simplificar frases mantenint EXACTAMENT el mateix significat.
 
 
 USER_TEMPLATE = """\
-Simplifica la frase següent mantenint el significat.
+Simplifica la següent frase en català mantenint el significat i la mateixa llengua.
 
 Respon NOMÉS amb la frase simplificada.
 
-Frase: {sentence}
+Frase català: {sentence}
+Simplificació català:
 """
 
 
@@ -28,16 +29,16 @@ Segueix aquestes pautes:
 
 FEW_SHOTS = [
     {
-        "input": "El 2004, Barcelona va rebre 4,4 milions de turistes.",
-        "output": "El 2004, Barcelona va acollir 4,4 milions de visitants."
+        "input": "Frase català: El 2004, Barcelona va rebre 4,4 milions de turistes.",
+        "output": "Simplificació català: El 2004, Barcelona va acollir 4,4 milions de visitants."
     },
     {
-        "input": "Important: aquest visat no és aplicable per a les persones amb ciutadania europea.",
-        "output": "És important tenir-ho present perquè aquest visat no s'aplica als ciutadans europeus."
+        "input": "Frase català: Important: aquest visat no és aplicable per a les persones amb ciutadania europea.",
+        "output": "Simplificació català: És important tenir-ho present perquè aquest visat no s'aplica als ciutadans europeus."
     },
     {
-        "input": "–  Edificis d'habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.).",
-        "output": "– Edificis d'habitatges,     com per exemple:     • cases d'un sola persona propietària,      • cases que es lloguen,      • comunitats de veïns i veïnes,      • i altres.."
+        "input": "Frase català: –  Edificis d'habitatges (de propietaris únics, de propietaris que destinen els immobles a lloguer, comunitats de veïns, etc.).",
+        "output": "Simplificació català: – Edificis d'habitatges,     com per exemple:     • cases d'un sola persona propietària,      • cases que es lloguen,      • comunitats de veïns i veïnes,      • i altres.."
     }
 ]
 
@@ -62,8 +63,10 @@ RULES = [
 "Dona només la informació necessària."
 ]
 
+
 SYSTEM_PROMPT_BEST_RULES = """\
-Ets un assistent expert en simplificació de textos en català.
+Ets un assistent expert en simplificació de textos en català. 
+Rebràs una frase en català hauràs de retornar la versió simplificada en català.
 
 Objectiu:
 Simplificar frases mantenint EXACTAMENT el mateix significat.
