@@ -1,6 +1,0 @@
-python=3.9
-numpy<2
-tensorflow==2.10
-cudatoolkit=11.2
-cudnn=8.1.0
-bleurt @ git+https://github.com/google-research/bleurt.git
