@@ -6,11 +6,11 @@ import numpy as np
 def load_results(results_path):
     with open(results_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    return data['per_generation_results']
+    return data['results']
 
 
-def plot_score_distribution(results, bins=50, title='Distribution of SARI Scores for IberianLLM-7B-Instruct pass@5'):
-    scores = [item['sari'] for item in results]
+def plot_score_distribution(results, bins=50, title='Distribution of BLEURT Scores of the iDEM simplifications'):
+    scores = [item['score'] for item in results]
 
     mean = np.mean(scores)
     std = np.std(scores)
@@ -21,7 +21,7 @@ def plot_score_distribution(results, bins=50, title='Distribution of SARI Scores
     plt.axvline(mean + std, linestyle=':', linewidth=2, label='+1 Std')
     plt.axvline(mean - std, linestyle=':', linewidth=2, label='-1 Std')
     plt.legend()
-    plt.xlabel('SARI Score')
+    plt.xlabel('BLEURT Score')
     plt.ylabel('Frequency')
     plt.title(title)
     plt.tight_layout()
@@ -29,7 +29,7 @@ def plot_score_distribution(results, bins=50, title='Distribution of SARI Scores
 
 
 if __name__ == '__main__':
-    RESULTS_PATH = 'results/CAT_iberian.json'
+    RESULTS_PATH = '../../data/eval/bleurt/CAT_processed.json'
 
     results = load_results(RESULTS_PATH)
     plot_score_distribution(results)

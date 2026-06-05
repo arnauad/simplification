@@ -5,6 +5,7 @@ venv_ds/
 .venv_ds/
 venv*/
 env*/
+.venv*/
 
 
 __pycache__/

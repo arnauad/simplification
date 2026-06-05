@@ -1,13 +1,13 @@
 import os
 import json
 from itertools import combinations
-from vllm import LLM, SamplingParams
-from transformers import AutoTokenizer
-from src.prompts.inference import RULES, SYSTEM_PROMPT_RULES, USER_TEMPLATE, FEW_SHOTS
+# from vllm import LLM, SamplingParams
+# from transformers import AutoTokenizer
+from ..prompts.inference import RULES, SYSTEM_PROMPT_RULES, USER_TEMPLATE, FEW_SHOTS
 
-DATA = "/data/upftfg34/aayguade/dataset/"
-OUT_DIR = os.path.join(DATA, "rule_search_salamandra")
-MODEL = "/data/upftfg34/aayguade/models/salamandra-7b-instruct"
+# DATA = "/data/upftfg34/aayguade/dataset/"
+# OUT_DIR = os.path.join(DATA, "rule_search_salamandra")
+# MODEL = "/data/upftfg34/aayguade/models/salamandra-7b-instruct"
 
 BATCH_SIZE = 512
 MAX_RULES = 4
@@ -107,7 +107,7 @@ def generate_rule_sets(rules, max_rules=4):
     return all_sets
 
 
-WINNERS = [1921, 1371, 1144]
+WINNERS = [1185, 2690, 3618]
 
 def print_winners(rule_sets):
     for winner in WINNERS:
@@ -115,24 +115,24 @@ def print_winners(rule_sets):
 
 
 if __name__ == "__main__":
-    print("Initializing sampling params...")
-    sampling_params = SamplingParams(
-        temperature=0.8,
-        top_p=0.95,
-        max_tokens=200,
-    )
+    # print("Initializing sampling params...")
+    # sampling_params = SamplingParams(
+    #     temperature=0.8,
+    #     top_p=0.95,
+    #     max_tokens=200,
+    # )
 
-    print("Initializing LLM...")
-    llm = LLM(
-        model=MODEL,
-        gpu_memory_utilization=0.85,
-    )
+    # print("Initializing LLM...")
+    # llm = LLM(
+    #     model=MODEL,
+    #     gpu_memory_utilization=0.85,
+    # )
 
-    print("Loading tokenizer...")
-    tokenizer = AutoTokenizer.from_pretrained(MODEL, trust_remote_code=True)
+    # print("Loading tokenizer...")
+    # tokenizer = AutoTokenizer.from_pretrained(MODEL, trust_remote_code=True)
 
-    print("Loading dataset...")
-    dataset = get_dataset()
+    # print("Loading dataset...")
+    # dataset = get_dataset()
 
     print("Generating rule sets...")
     rule_sets = generate_rule_sets(RULES, max_rules=MAX_RULES)

@@ -6,8 +6,8 @@ import os
 import tensorflow as tf
 
 
-DATAPATH = "../../../data/inference/ASSET/ASSET-CA-IberianLLM-CA.json"
-OUTPUT_PATH = "../../../data/eval/bleurt/results/ASSET-CA-IberianLLM-CA.json"
+DATAPATH = "../../../data/raw/iDEM/iDEM.json"
+OUTPUT_PATH = "../../../data/eval/bleurt//ASSET-CA-IberianLLM-CA.json"
 CHECKPOINT = "../../../metrics/bleurt-20"
 
 

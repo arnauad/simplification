@@ -9,18 +9,12 @@
 
 echo "START TIME: $(date)"
 
-# -------------------------
-# ENV SETUP
-# -------------------------
 module load conda
 eval "$(conda shell.bash hook)"
 conda activate trl
 
 mkdir -p logs-es
 
-# -------------------------
-# PATHS
-# -------------------------
 export DATASET_PATH="/data/upftfg34/aayguade/dataset/"
 export LANG="ES"
 export MODEL="/data/upftfg34/aayguade/models/IberianLLM-7B-Instruct"
@@ -28,9 +22,7 @@ export OUT_MODEL="/data/upftfg34/aayguade/models/tuned-Iberian/Iberian-LLM-ES"
 export GRPO_RUNS="/data/upftfg34/aayguade/models/tuned-Iberian/checkpoints-ES"
 export REWARDS="/data/upftfg34/aayguade/models/tuned-Iberian/rewards-ES.jsonl"
 
-# -------------------------
 # CACHE
-# -------------------------
 export HF_HOME=/home/aayguade/simplification/training/tmp/huggingface
 export HF_HUB_CACHE=$HF_HOME/hub 
 export HF_DATASETS_CACHE=/tmp/$USER/hf_datasets_${SLURM_JOB_ID}_${SLURM_PROCID}
@@ -45,9 +37,6 @@ mkdir -p $XDG_CACHE_HOME
 
 NODELIST=($(scontrol show hostnames $SLURM_JOB_NODELIST))
 
-# -------------------------
-# LAUNCH
-# -------------------------
 echo "Launching distributed job..."
 
 
@@ -71,7 +60,5 @@ srun --nodes=2 --ntasks=2 --nodelist=${NODELIST[0]},${NODELIST[1]} --gres=gpu:2 
     --rdzv_backend c10d \
     ../src/training/grpo_zero3.py
 '
-# -------------------------
-# CLEANUP
-# -------------------------
+
 echo "END TIME: $(date)"

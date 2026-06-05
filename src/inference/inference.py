@@ -83,7 +83,7 @@ def save_dataset(dataset):
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump(dataset, f, ensure_ascii=False, indent=2)
 
-    print(f"Saved simplified dataset to: {output_json}")
+    print(f"Saved simplified dataset to: {OUT_FILE}")
 
 
 if __name__ == "__main__":

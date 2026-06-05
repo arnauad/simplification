@@ -1,11 +1,9 @@
-# Arnau Ayguadé TFG project repo
+# Catalan Text Simplification with LLMs
 
-**bleurt** --> folder to _analyze_ and do some evaluations with the _BLEURT_ metric
-
-**dataset** --> folder to _analyze_ and _modify_ datasets for _evaluation_ and _training_
-
-**referee** --> folder mainly to _analyze_ the _REFeREE_ _metric_
-
-**sarii** --> folder to evaluate with _SARI_ metric
+Project with scripts used to:
+- Analyze and postprocess TS datasets
+- Evaluate simplification quality with SARI, BLEURT and REFeREE
+- Perform efficient inference of 8B parameters LLMs with vLLM on an HPC
+- Train with GRPO across multiple nodes using ZeRO3 with a reward function leveraging SARI and penalties to avoid reward hacking
 
 

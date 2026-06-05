@@ -3,11 +3,12 @@ import evaluate
 import numpy as np
 from collections import defaultdict
 
-MODEL_NAME = "iDEM-CA-Iberian-LLM-ES2"
+MODEL_NAME = "iDEM-Salamandra-x"
 
 # MODEL_NAME is the generations file
-GENERATIONS_FILE = f"../../../data/inference/iDEM/{MODEL_NAME}.json"
+GENERATIONS_FILE = f"../../../data/inference/iDEM/newest/{MODEL_NAME}.json"
 REFERENCE_FILE = "../../../data/filtered/iDEM/iDEM-semantic.json"
+OUTPUT_PATH = f"../../../data/eval/sari/new/{MODEL_NAME}.json"
 
 def load_data():
     with open(GENERATIONS_FILE, "r", encoding="utf-8") as f:
@@ -103,7 +104,7 @@ def save_results(per_generation_results, per_sample_results, global_avg, global_
         }
     }
 
-    with open(f"../../../data/eval/sari/{MODEL_NAME}.json", "w", encoding="utf-8") as f:
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=4)
 
 
